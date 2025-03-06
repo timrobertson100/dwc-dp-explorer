@@ -29,15 +29,17 @@ const DataCard: React.FC<DataCardProps> = ({
   isLoading,
   error,
 }) => {
-  // Only show the card if:
-  // 1. It's loading
-  // 2. It has data and no error
-  // 3. It has the column we're filtering on (if we're filtering) and no error
-  const shouldShow = isLoading || 
-    (data.length > 0 && !error) || 
-    (selectedFilter && meta.some(m => m.name === selectedFilter.column) && !error);
-
-  if (!shouldShow) return null;
+  // Hide the card if:
+  // 1. There's no data and it's not loading
+  // 2. There's an error
+  // 3. We're filtering and this table doesn't have the filtered column
+  if (
+    (!data.length && !isLoading) ||
+    error ||
+    (selectedFilter && !meta.some(m => m.name === selectedFilter.column))
+  ) {
+    return null;
+  }
 
   const columns = meta.map(m => m.name);
 

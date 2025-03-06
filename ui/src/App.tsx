@@ -136,6 +136,25 @@ function App() {
       </header>
 
       <main className="max-w-7xl mx-auto px-4 py-6 sm:px-6 lg:px-8">
+        <div className="grid grid-cols-4 gap-4 mb-6">
+          {categories.map((category) => (
+            <button
+              key={category}
+              onClick={() => {
+                setActiveCategory(category);
+                setPage(1);
+              }}
+              className={`flex items-center justify-center p-4 rounded-lg ${
+                activeCategory === category
+                  ? 'bg-blue-600 text-white'
+                  : 'bg-white text-gray-600 hover:bg-gray-50'
+              } shadow-sm transition-colors duration-150`}
+            >
+              {categoryIcons[category]}
+              <span className="ml-2 capitalize">{category.replace(/_/g, ' ')}</span>
+            </button>
+          ))}
+        </div>
 
         <div className="space-y-6">
           {categories.map((category) => (
