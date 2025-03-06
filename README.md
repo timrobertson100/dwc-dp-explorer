@@ -22,10 +22,11 @@ SELECT * FROM file('event.tsv');
 ```
 
 ## Build the JS project 
-
-This requires....
-
+This requires nvm (node version manager) and node 22
+Go to the ui folder
 ``` 
-npm morten voodoo
+nvm use
+npm i
+npm run dev
 ```
 
