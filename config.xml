@@ -1,0 +1,37 @@
+
+<clickhouse>
+    <logger>
+        <level>debug</level>
+        <console>true</console>
+    </logger>
+
+    <http_port>8123</http_port>
+    <listen_host>::</listen_host>    
+    <path>./ch_data</path>
+    <user_files_path>./NEON-fish</user_files_path>
+    
+    <users>
+        <default>
+            <password/>
+
+            <networks>
+                <ip>::/0</ip>
+            </networks>
+
+            <profile>default</profile>
+            <quota>default</quota>
+
+            <access_management>1</access_management>
+            <named_collection_control>1</named_collection_control>
+        </default>
+    </users>
+
+    <profiles>
+        <default/>
+    </profiles>
+
+    <quotas>
+        <default/>
+    </quotas>
+    
+</clickhouse>

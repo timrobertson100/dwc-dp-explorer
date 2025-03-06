@@ -1,0 +1,1031 @@
+assertion_id	event_id	assertion_type	assertion_type_iri	assertion_type_vocabulary	assertion_made_date	assertion_effective_date	assertion_value	assertion_value_iri	assertion_value_vocabulary	assertion_value_numeric	assertion_unit	assertion_unit_iri	assertion_unit_vocabulary	assertion_by	assertion_by_id	assertion_protocol	assertion_protocol_id	assertion_citation	assertion_remarks
+f8594263-9bae-4822-9b34-3cb1bd626404	BIGC.20190422.01	The length of the reach as measured by the technicians when the reach was established								105	meter								
+d703e801-5a83-4e98-801d-92fbf1c4586f	BIGC.20190423.04	The length of the reach as measured by the technicians when the reach was established								100	meter								
+f4eb180c-e407-4f2a-8aa1-1deb7ff7c7e1	BIGC.20190424.07	The length of the reach as measured by the technicians when the reach was established								90	meter								
+8229c578-1515-4da3-ab91-0675162b0062	BIGC.20190424.05	The length of the reach as measured by the technicians when the reach was established								100	meter								
+2dc6fef6-d3c2-41e8-bc4a-62a123f77ad6	BIGC.20190425.09	The length of the reach as measured by the technicians when the reach was established								100	meter								
+191ded47-18ae-4a31-98af-ab5f9c17eac8	BIGC.20190425.08	The length of the reach as measured by the technicians when the reach was established								100	meter								
+ec4a2503-9461-427c-9017-6b3bf43d26f0	BIGC.20191021.01	The length of the reach as measured by the technicians when the reach was established								102	meter								
+1a97b723-e708-4f18-91be-eaacde5a45af	BIGC.20191022.04	The length of the reach as measured by the technicians when the reach was established								102	meter								
+8b2ffa8a-246f-450f-8341-ebd7ac8e0a50	BIGC.20191023.07	The length of the reach as measured by the technicians when the reach was established								100	meter								
+2cbc4ddd-91e7-42d7-a2ee-b2b9b30f86ca	BIGC.20191023.05	The length of the reach as measured by the technicians when the reach was established								100	meter								
+0f5ac567-416d-443f-bbe2-22aecdb514ce	BIGC.20191024.09	The length of the reach as measured by the technicians when the reach was established								100	meter								
+dcdb2f78-ae87-4add-a7af-0d19fc62cc01	BIGC.20191024.08	The length of the reach as measured by the technicians when the reach was established								100	meter								
+5b0ead5c-e700-47ef-87e5-b220022f89e6	BIGC.20190422.01	An indication of whether the reach is fixed or random					fixed												
+44b6b1c4-76ea-49be-a8e3-df549235a232	BIGC.20190423.04	An indication of whether the reach is fixed or random					fixed												
+815bba20-3f6a-4c31-bbdb-989f53b72867	BIGC.20190424.07	An indication of whether the reach is fixed or random					fixed												
+7dc941ce-a289-4a34-9ac4-dec0a0fb70a2	BIGC.20190424.05	An indication of whether the reach is fixed or random					random												
+53d7e145-63c3-4886-9840-f0eb0cf89273	BIGC.20190425.09	An indication of whether the reach is fixed or random					random												
+e6f05811-dccc-4963-9172-942120ec3370	BIGC.20190425.08	An indication of whether the reach is fixed or random					random												
+48d22a51-673b-474e-865f-eeb2cce792b2	BIGC.20191021.01	An indication of whether the reach is fixed or random					fixed												
+d40b7dee-7cb4-4f56-9ecf-15ba628badd0	BIGC.20191022.04	An indication of whether the reach is fixed or random					fixed												
+d0e8b599-8fb2-489a-a9ed-cabb547579e6	BIGC.20191023.07	An indication of whether the reach is fixed or random					fixed												
+79fbbf19-d0a4-4dff-953e-d2d04c1ee98f	BIGC.20191023.05	An indication of whether the reach is fixed or random					random												
+563867cd-8462-4c01-8270-87d065925b31	BIGC.20191024.09	An indication of whether the reach is fixed or random					random												
+574b20b5-fc50-43e8-ab01-2d797527381c	BIGC.20191024.08	An indication of whether the reach is fixed or random					random												
+7f8c9948-44a8-48d6-afb8-64f5a58b3664	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+480947c8-7567-45c7-b507-ddb4f7550b92	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+cd529600-adf2-49cf-a6e7-aa7a213d4d31	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+15ac25bc-be70-4f1a-87e5-15d0521bb58d	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+df13a6cd-cce5-4b45-baaf-a9d7c855b0ec	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+8c3fb6bd-afc8-4f9d-949f-992852c0d2c5	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+14b94a58-81b3-4f00-81d4-d6b9db802633	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+6e5cb21b-e7a6-4763-9f3b-d2711743ab92	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+7f8ee435-321b-463a-b81e-6bc80c822c18	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+48422730-23ed-4669-9b7d-97869998d888	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+b06c1c1c-02bd-47b0-84c6-2fe4747ee338	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+28f2c133-ce2e-4b69-9f06-c2346a8c5849	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+17a349ed-7a0b-4d41-8bd4-96d418d664b1	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+a4c8087c-3cd6-40a8-ab7d-6fdff1bff819	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+287e8135-d36c-4ab9-b5c6-812f35b352a1	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+aa93b59f-50d1-45cf-9d79-795f381e152b	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+34e2be74-7618-439b-9f43-36c0c2a96566	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+da51dc8b-6aed-45cf-be0e-50bed64218bc	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+fcbbffbc-f78d-4088-936a-b32a515bf645	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+051ee08f-c19b-4508-a57a-12f0519f48b1	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+b6339928-9e65-4e61-8fbc-cdd06c5d895d	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+602363fb-7141-465c-b266-7fbefb0ac7e9	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+3b4c9e17-777f-4bff-b23e-d9513ce9aacb	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+ddee630c-5d25-47ab-9e8d-65e5d460583c	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+ebfcbda2-5c0b-419e-ac6d-fb80eb5dd653	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+7ca34c09-58b2-49bf-a7dc-dd1a24f01978	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+884cac39-6fab-448d-9f80-ac11ad1fa78d	BIGC.20190422.01.1.e-fisher	Number of the sampling pass within a reach								1									
+3c89599b-02c5-4466-9458-e1fb29f7189c	BIGC.20190422.01.2.e-fisher	Number of the sampling pass within a reach								2									
+47d5b1e8-b71a-4556-923e-80d3a84c0062	BIGC.20190422.01.2.e-fisher	Number of the sampling pass within a reach								2									
+6785d58c-1f8a-4afd-b3ef-919b9416f007	BIGC.20190422.01.2.e-fisher	Number of the sampling pass within a reach								2									
+444cf3fb-79ae-40e6-b6d3-a232e1d822c0	BIGC.20190422.01.2.e-fisher	Number of the sampling pass within a reach								2									
+d04eab68-5a5c-4ffe-bb92-424cd3b3ea1b	BIGC.20190422.01.2.e-fisher	Number of the sampling pass within a reach								2									
+98a89aca-1c72-44b2-80af-319a73c07378	BIGC.20190422.01.2.e-fisher	Number of the sampling pass within a reach								2									
+6e63edd6-3cde-47b5-877b-5c605a4e0a57	BIGC.20190422.01.2.e-fisher	Number of the sampling pass within a reach								2									
+fb801d4b-9fd0-4569-9edc-eb7a6df617cd	BIGC.20190422.01.3.e-fisher	Number of the sampling pass within a reach								3									
+5e5cefa4-0579-4cc2-892d-3e03c9368142	BIGC.20190422.01.3.e-fisher	Number of the sampling pass within a reach								3									
+79350445-f892-40ef-ab68-255428b2db1a	BIGC.20190422.01.3.e-fisher	Number of the sampling pass within a reach								3									
+afdf32f2-7a98-4a16-b677-90bdef7550d3	BIGC.20190422.01.3.e-fisher	Number of the sampling pass within a reach								3									
+5aae13e5-1521-4747-8690-84731c23600a	BIGC.20190422.01.3.e-fisher	Number of the sampling pass within a reach								3									
+b04400a7-5867-407a-9948-0ff02989640e	BIGC.20190422.01.3.e-fisher	Number of the sampling pass within a reach								3									
+b0cd6764-0b91-4aa5-89f3-a52a3a321731	BIGC.20190422.01.3.e-fisher	Number of the sampling pass within a reach								3									
+e14df9ab-f6e3-4c17-b01d-7fb050c7278d	BIGC.20190422.01.3.e-fisher	Number of the sampling pass within a reach								3									
+5d0ebcd8-3c74-4344-ae11-f1fecae7b19f	BIGC.20190422.01.3.e-fisher	Number of the sampling pass within a reach								3									
+391e49c0-4bb1-4733-920c-83122e3973ed	BIGC.20190422.01.3.e-fisher	Number of the sampling pass within a reach								3									
+19eabd68-a7df-4b96-bfe7-7899eb423ec3	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+1402d0eb-284a-47c5-a5db-4fbfb5af1749	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+f8ff2b0a-308f-41a0-886f-00d1523395e8	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+5e90e17f-d1cc-474a-89f6-ed06d3a05305	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+734454c2-340f-41d7-9cba-3c3bc684265c	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+59850296-e303-4618-922c-bdf130eec384	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+9151e3d7-5b6f-4ffc-b6aa-1b41f4389c8a	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+7533a5b9-0e18-4441-9010-ce6fe1550bff	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+15a92775-ee3f-447a-a62a-3e0fe7b7bb13	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+76b9c214-8179-4de1-a25b-875b1ec9b986	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+e0f6213f-e085-4ad4-8750-9db65e0399b4	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+7c9b6d14-521e-4d65-8ec1-2d237e57c2d1	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+7b6f527e-6087-4d9d-b5b8-fd049c7dd9e5	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+1f3b98b6-8daf-4967-ad79-7198dc0877f0	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+683f973e-47e0-4b5f-ab67-ad3d2becafb5	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+1e9a9b95-552d-4d98-876c-2e96880c9fff	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+373b111d-e25e-4997-8f1c-1a18a9a0e309	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+2a044ddf-3be3-4c9a-99b2-c28a3031d806	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+5bf136ec-275e-4c38-af7c-e94b99100f38	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+a3493bf7-79f6-42b2-8997-3cf9792fe39c	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+dbc3575a-a32c-4431-b837-fca333564a76	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+924f0a43-8b35-4706-9e9c-22215efe9560	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+e06ef121-5d67-4ee9-96e7-11b836e48f8c	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+4add4dcb-7c5f-4e7b-9a88-5dfb1c44ee30	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+4482a773-8f20-4f92-941c-565591e0e8e0	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+52e70f14-7f01-4ae6-a321-5322c5d679e1	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+c5892932-2690-4bd8-b420-29156d62b0a9	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+9786ea0d-77bb-46f7-899e-829c04db0bd9	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+31bfb342-133e-4aeb-8bea-25b6e7526c8a	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+74d5f873-fbf5-4990-9015-db917a3a7ef9	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+e9e1cc5a-6efb-4f63-939a-315c58e259b5	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+45802a67-55e2-4ba9-b163-ed191a61147f	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+3a10d9d6-0fad-4a83-a6d3-90cd7e67ac43	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+63e464b6-1e39-4222-968f-d49aacc5c5c1	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+4e09ccf9-4132-4768-aec0-4f369a5751eb	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+9ca86276-0cc4-467b-9806-1d2a8e4b900e	BIGC.20190423.04.1.e-fisher	Number of the sampling pass within a reach								1									
+a5d694cd-6440-4c03-b8c5-7ef070daf142	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+5a57e645-260e-4ceb-b73b-bbf63fce944b	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+4bea3171-de31-46ff-8045-e70485244ad5	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+5538f3c9-847c-4012-b870-a24a334c1598	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+a0fe9b4d-b185-49d2-9140-b5d59b50e25f	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+daea3860-2365-4504-a9a7-bbc72e95100e	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+bd8f9721-fdeb-4b2d-86c8-3cf7f8993705	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+b670d9c4-385a-4518-a1a5-4fb994c84a8f	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+1ede786a-0fb8-4999-bcd5-87f5ff0757db	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+d97c7353-2777-4252-990c-9e6e16db0a62	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+7ec082df-7a36-46f5-9972-a8fc23a009bc	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+4cfb432a-7e1a-407e-9454-d47a785c3c85	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+4ee88310-2ffb-4d26-b613-fa35c7d731c8	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+37649cab-5bbc-4fbd-91fc-555a9aef8b27	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+43abd715-35a9-4307-b980-d338eae86c4f	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+2e97729b-8257-4ba1-bbca-c3c6a317d10e	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+dc743ef2-d961-4e5c-a851-1df7d7ebcef7	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+2608427b-c8f0-4c94-b072-06916351eb5f	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+e82d5618-b004-4ab5-9849-b7f849a929e3	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+b3e73c4a-b646-4f54-9623-d56ba3e26187	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+df62b426-ce4e-4ff0-9a9a-c9fc4cd3a5d0	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+5523bfcf-5f02-455c-a74b-a238480a719e	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+9025f754-335a-4f24-975b-106a156e0672	BIGC.20190423.04.2.e-fisher	Number of the sampling pass within a reach								2									
+0cf0d652-5f0a-4027-96bb-f800bee84bca	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+da192695-694f-4c2c-8459-93b28e56ea6e	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+41f0bf1d-5eb5-4805-902e-c216ff011ee1	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+ce4341f1-eec2-40b0-83f8-1f100d5b8b77	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+24c2da84-1c27-43c7-922f-3fdf3bb600f7	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+e93c42c5-f193-4a42-af1c-9032eb50a2f2	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+1fd4786a-f867-4d03-b020-3df99ad023ef	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+ef1654fc-6364-47b4-9743-f6ed3a134957	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+f0bb21d3-adb0-437a-9f52-71a38479bc03	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+d5d5a395-a7ab-4c16-96af-5e37dd65871b	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+bba1c397-5235-4fba-8320-e4312b9f7295	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+02251126-e1fb-4cc3-9a0f-cfd7ef629f5f	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+0f02d91c-937f-4d7f-913b-82028879e3cf	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+9d7a92c2-6697-4976-88ce-a3411200a3ee	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+350fbff0-f281-4820-ad74-4a6063b07cda	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+c1a695b5-ae54-4511-b357-7f7465fc6a88	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+dba9ec42-3ea3-4820-bd09-2a8f00d00b08	BIGC.20190423.04.3.e-fisher	Number of the sampling pass within a reach								3									
+36a864ee-1fff-41fb-8b19-2347b072003e	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+37c04a26-fc56-40c8-ae2d-18741585910d	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+c6d1786e-aaea-4ba5-b170-431e98af7263	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+96b36b34-12f1-46db-892b-2080e6de4b3a	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+5585c8ba-a2cb-4188-b1dc-24b68ef2ff88	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+592b1e0c-6c56-4531-a724-b30fa8f786e7	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+8d4267de-cb1d-4861-8013-64c8a3375934	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+4141542c-f782-4113-9c2a-12b9a863bbd5	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+422041a5-a64e-43e2-8095-22cc94545aa4	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+98e75b67-50dc-442e-a524-ee758d57d3f7	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+989a932f-e7ee-4a2b-b610-1666227b77ef	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+259a944a-305a-4314-8a6b-64d52f4f1161	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+8e306a0e-a172-4b14-9cc4-97acffd8ee98	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+acb163c2-87f0-4d6f-b475-769334d0db89	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+1dba9026-65a1-4505-b6df-4083ca25b401	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+aab73e3d-be82-4105-afa6-eb85635bf033	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+f5301405-2f76-40b1-9c4b-da5c20432848	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+08c22625-cc4b-4fcd-9df5-8b38f7b33451	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+3ca4a7e3-7dab-4db9-88ed-edc883793e74	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+dcb498ba-2142-4aa9-be43-51a4cafb7c31	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+737e3769-ee64-49cf-ade0-148c4a9bc000	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+e634b438-448b-402e-9dcb-6090138a7201	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+02730325-f653-4290-9ccd-fa7cdee146a6	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+5fb5b864-bb89-4a76-80a4-e04b2465998b	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+975e0313-c49e-427b-b10e-77c4a610c01e	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+6ddaefd3-b3c0-4c78-ba36-3398f837fcd4	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+70af4fba-416e-421a-8f95-f232a809bb8f	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+543b272d-97f7-4ccc-9f1b-18ca565dd768	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+5c1db24e-4961-42d2-8b3d-212602d0bcfd	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+b677473e-51d8-41e4-88ee-c6c44e5c1e17	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+ce5314fa-eb79-41ee-bf98-87b849fe09a6	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+c8c4e0bc-1a4a-4942-bad9-e5627a3014e5	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+b9ce64a1-fac4-4d1d-b4c4-fa8ae5637fc0	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+de256faf-ad8d-4dfb-a975-5d5681b2b24f	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+f6607377-a42d-4472-9c9a-8184c9ceeef1	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+686332b8-f67e-49b9-9286-f10eeb7e240a	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+1a7bd731-6ff3-4f48-bcad-9b4c8a53f2f6	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+d3ca74c4-30de-41e7-905b-6baf18fda546	BIGC.20190424.05.1.e-fisher	Number of the sampling pass within a reach								1									
+9733b265-729c-4ac0-9e16-e3998913a6ce	BIGC.20190424.07.1.e-fisher	Number of the sampling pass within a reach								1									
+e210c184-e23a-4cd7-bc04-1fd0e4320f83	BIGC.20190424.07.1.e-fisher	Number of the sampling pass within a reach								1									
+de0348fb-7d61-4539-856a-a695bdd94cc7	BIGC.20190424.07.1.e-fisher	Number of the sampling pass within a reach								1									
+ca0a3b2e-626c-4520-b138-2fe9e482061b	BIGC.20190424.07.1.e-fisher	Number of the sampling pass within a reach								1									
+efa86512-34bf-40e9-8ef8-9d7f7b0ae036	BIGC.20190424.07.1.e-fisher	Number of the sampling pass within a reach								1									
+4b60d780-90f4-4b59-b388-9ff203494ceb	BIGC.20190424.07.1.e-fisher	Number of the sampling pass within a reach								1									
+e66e4f48-81ba-440b-8c98-c99100162733	BIGC.20190424.07.1.e-fisher	Number of the sampling pass within a reach								1									
+577d7e92-4d66-4e54-83ac-d91b651d6eaf	BIGC.20190424.07.1.e-fisher	Number of the sampling pass within a reach								1									
+eacaa3e1-59dc-44b1-8d1a-79818a579861	BIGC.20190424.07.1.e-fisher	Number of the sampling pass within a reach								1									
+14401178-75cf-4666-948b-208c8d4c0219	BIGC.20190424.07.1.e-fisher	Number of the sampling pass within a reach								1									
+79e9b420-93f3-4c99-bf11-b4bd03d77efc	BIGC.20190424.07.1.e-fisher	Number of the sampling pass within a reach								1									
+f4946127-3c3d-4dc3-a051-c7568365df56	BIGC.20190424.07.1.e-fisher	Number of the sampling pass within a reach								1									
+1224eb57-28dd-486e-a1c5-80ebd5521c8a	BIGC.20190424.07.1.e-fisher	Number of the sampling pass within a reach								1									
+074f975d-f0c0-412f-b460-6f50053b7f6e	BIGC.20190424.07.1.e-fisher	Number of the sampling pass within a reach								1									
+bb4e22e4-0956-4238-923b-b7f654103fd5	BIGC.20190424.07.1.e-fisher	Number of the sampling pass within a reach								1									
+c6e0ffb5-b954-4582-abd4-8e660c2e0a34	BIGC.20190424.07.2.e-fisher	Number of the sampling pass within a reach								2									
+40e08591-3483-48d6-b947-88f700988d69	BIGC.20190424.07.2.e-fisher	Number of the sampling pass within a reach								2									
+80125e62-7a08-4b41-bb06-0cf28e0f4ce0	BIGC.20190424.07.2.e-fisher	Number of the sampling pass within a reach								2									
+a4f7e715-7f1e-4260-9019-ea4d9695c26c	BIGC.20190424.07.2.e-fisher	Number of the sampling pass within a reach								2									
+539915c7-2bdd-41ce-a85c-216ca7c39867	BIGC.20190424.07.2.e-fisher	Number of the sampling pass within a reach								2									
+d8d1ef7b-ad86-4e78-a503-fe25184038f6	BIGC.20190424.07.2.e-fisher	Number of the sampling pass within a reach								2									
+a3ccd142-80a5-48ba-a258-75230a0745d8	BIGC.20190424.07.2.e-fisher	Number of the sampling pass within a reach								2									
+23fba4d2-43b2-4615-a9ad-81a618ff3e56	BIGC.20190424.07.2.e-fisher	Number of the sampling pass within a reach								2									
+917b8a69-c842-4dfd-ad3a-e59cece8738f	BIGC.20190424.07.2.e-fisher	Number of the sampling pass within a reach								2									
+e3b069cc-7d82-4f6f-bf48-c86857f17f7c	BIGC.20190424.07.2.e-fisher	Number of the sampling pass within a reach								2									
+090092f7-c8e2-455d-a48a-0fad8b756871	BIGC.20190424.07.2.e-fisher	Number of the sampling pass within a reach								2									
+30e1454d-b01f-4be7-bccc-272a98812575	BIGC.20190424.07.2.e-fisher	Number of the sampling pass within a reach								2									
+86743386-3a98-48d7-bc48-3f39fe4074d8	BIGC.20190424.07.3.e-fisher	Number of the sampling pass within a reach								3									
+ac184f3a-f2e7-407f-a322-c2a5c2db59a8	BIGC.20190424.07.3.e-fisher	Number of the sampling pass within a reach								3									
+5e81db0b-eb5d-4bde-ab71-7c41d8dbc6c3	BIGC.20190424.07.3.e-fisher	Number of the sampling pass within a reach								3									
+f24905ff-e74c-4117-ab07-20dede550ef4	BIGC.20190424.07.3.e-fisher	Number of the sampling pass within a reach								3									
+59632811-5720-4c2f-81c3-0bc83a2eb789	BIGC.20190424.07.3.e-fisher	Number of the sampling pass within a reach								3									
+cd4f680e-1b44-491e-aa59-e4dd731f44d3	BIGC.20190424.07.3.e-fisher	Number of the sampling pass within a reach								3									
+1c4dc5fa-b2ff-42e5-9483-7c065c950e20	BIGC.20190424.07.3.e-fisher	Number of the sampling pass within a reach								3									
+10cbe430-2418-4ac5-a068-ff90878cbfe5	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+3ead53aa-7ae8-4be2-a653-b869aed47f64	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+70dbef30-907a-4cab-843f-7e41d1221fe3	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+1574c8b3-2226-488c-852d-e53cc1bec48c	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+860b6dc3-1e83-440a-95f7-e5cc74a4fc19	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+c41c4b95-6802-4ea1-b30f-3f06eb237d83	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+d8f1d104-c6b0-443b-a335-aba88a56133b	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+bff637e9-d87c-4603-af1f-7ecf221e36dd	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+95cc360f-e7a8-4b64-b5f3-0784977afeec	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+cbdc900a-33b8-46ee-ba09-84b00bf2b005	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+beb7dc73-7ce5-4f7b-8fd0-a1d7336f4d25	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+e630955a-074b-4f1f-aa6a-40bddebef94a	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+246b302b-8b72-4983-9293-1ede795050c5	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+a7dfd748-7477-4339-9c8b-1129661ebd67	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+84010221-9969-4ed5-9acd-91baf7411c04	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+d5be98cd-1430-4a19-9a6e-c0cefdeaebf8	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+9fa46c94-7f13-40d5-8b63-0151d052958b	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+7e37b7ec-2760-47bd-9ab1-14fd83c2474c	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+e3c53d8d-1666-4791-9c28-1d5b89e4e7f6	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+f4bfd54e-9c2f-4c05-b675-d00112a91286	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+4deaa017-7481-4eab-b1fb-1c0277b11a85	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+314bee6e-3efb-404d-ba21-b2e5dcaf1e87	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+d3700e29-7cba-48ee-ad8a-5d3775eae561	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+51ba9a55-c865-46c6-b094-007f6cfc6945	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+d9135510-0644-402d-b3db-74c0bd6d8fc5	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+de974f8c-149b-4270-9783-bca3649392aa	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+ac8df743-6ba7-4400-8129-7289ce6d2884	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+6dd99e08-0bc2-4a9d-a28a-46004f27a90f	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+1077fc2c-1132-47b3-b5c5-f4139cc9697f	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+0a72ee50-545a-4f12-ae70-ba86398642e6	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+2837257c-1dee-43e6-97ab-4521b45993a0	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+0c5af40e-a2b7-45bf-86ec-42ce06113653	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+dddece35-6802-4550-af0d-161e392771c4	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+e74b11c7-c77a-4f4c-affe-54bb91deab01	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+033ead28-49a3-48ee-9e36-6da27d2b1773	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+2b7956b5-27db-4d7f-8b97-33a4e9b6308f	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+50b9d28d-31cf-43f8-9182-0ef9fed450e6	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+bf754081-ed97-44a8-acc5-5bc4d11a26ce	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+f6619d14-32c8-427f-9fee-c77a7160371a	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+f96555d5-1744-4989-8057-19814a89579b	BIGC.20190425.08.1.e-fisher	Number of the sampling pass within a reach								1									
+e5f55c0c-becd-4bb5-9608-502a32899710	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+3cc6d240-1c4e-4c8c-9cf4-a862b0654197	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+cc8f7158-60fd-4bac-817b-717464cdac6b	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+354673e6-d33d-4f74-8101-6ce6b8e36e78	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+f6de2c9c-50e2-4cda-bb89-e94e2373efd3	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+1a78d257-6078-47e9-abeb-688e5162b2d2	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+19c76e13-f920-4fa9-b621-0f3527ebb4fe	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+39a108c8-2122-4e24-832a-5ba5c2bc47b4	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+8ebc1a7b-0d3f-49b4-83e4-f516931af46c	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+4c422ef7-b132-4087-a27d-c956a595314b	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+82552058-11b5-4683-93a0-d2e72166043c	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+0451a932-827b-4744-9529-69be0253a33d	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+dccad917-3e36-4ce9-b802-6e666a1dc016	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+cb42fb84-6fd3-48bc-8b59-264da0524e83	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+043d35c6-4440-4066-bb0c-b916ce3c983b	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+0def5890-e7a2-405b-94a2-47549755e5e7	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+e1c1bf13-f3c4-4ecd-9522-a8a5e0ecafa7	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+ecff51e0-b9af-4539-bd9d-587e82bb4a4e	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+86fcac40-010f-4327-85eb-9c6810e1169a	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+863e0ecc-d0e6-496f-b082-214f8ce06874	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+74b13b56-bb52-491e-a55a-ee5f60dfc86d	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+b675559f-dbf0-4072-9c5c-e955388aa86f	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+88b11526-1185-4455-be32-f55cdff7fc3b	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+81aa61f7-acbe-45cb-9f2b-aa254e7e664d	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+1ecf30c9-da56-4cf8-9752-86c95c6c45a2	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+dc32d292-97b7-4d1d-b8c1-70f660801989	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+96f42227-be1d-4ed8-9d37-c21fe744d9b1	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+6416b8de-974e-45d8-9fe5-4a35590937b2	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+cb73989f-c7bc-4cbd-909e-b5a7cb11369a	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+b415df45-4ea9-499d-ad7f-6a090aae915d	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+db93f9aa-e657-441e-a15d-ea60ec9b8fd6	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+d3365fc8-601d-4e89-985e-10b3e19a1133	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+1936934e-fcc5-4716-a688-94f9ddc4688e	BIGC.20190425.09.1.e-fisher	Number of the sampling pass within a reach								1									
+4d0ee5c7-2eed-4ead-b302-47560cf27bda	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+4c7c943f-20b1-42b6-b7a8-6edfee538eda	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+96abb2dc-bb02-43ee-a366-0c75920e6223	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+eb4dba9d-7ef7-43da-8ecd-65565543b6cb	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+c3fb00f6-c27c-480f-9f96-f42a8dd292eb	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+2806e7ae-06f0-497c-84c0-2468ee08214a	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+9e56ec8e-4246-4abe-81d1-f2cb5d0bc8ba	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+ef07f2c1-6ac5-4fe7-8bde-4bafcb9dc04b	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+91b19424-4b77-4bed-b5b5-09c2e784fc5d	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+1f6af097-b29c-428f-8d3a-248afc414a72	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+52951de9-470c-4abe-a782-a5f4bc4695f1	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+e7c3ee39-f3cf-4545-ac58-55b0350585f5	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+5e7b1839-9bee-43dc-b11c-158e496018aa	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+1dc0548d-6a5c-4bef-8e6b-1b43f76f0af6	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+da519b11-47bc-4fd6-b019-e2e62204fa1c	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+7d78a8b2-0f5b-4e24-b0ae-a8ff88decae3	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+2b1edde6-5acf-4eaf-a946-3dba3d77106e	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+97b495ca-2cb4-4de2-be47-c5e0f233617f	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+5622c108-5eee-4ca0-982b-39469fc33dc0	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+ccc269e6-44ce-4351-8774-a09e2a460d61	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+d388552c-95e0-4e22-80d2-0824c8f64184	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+cb63216f-e737-480c-b231-5f8d67ec937f	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+811ed150-be31-4ea6-ac25-d245e2099a5c	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+445a6e9b-991d-4c67-b878-cafffee50460	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+a6785c19-42a3-4caa-bd0f-f257a57903b8	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+fc6805d6-1569-4ea1-8e11-fe8cff4fcae2	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+88918221-a7f9-4bba-83fd-95345fb694db	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+09c96ce4-c118-477a-88bf-19c09490ac1e	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+6e098ac1-d085-4637-8292-b74f3366d0f3	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+f436bb65-381f-4b8a-b1af-2cc0ab389d57	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+ca041c20-f042-4984-bb2e-f4e882acd0d3	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+c2b7efbb-d3e4-44c9-a85e-51c2cb46c8f3	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+53b1886f-496b-4c9d-92d0-fb1397fdfd02	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+08e9ad97-aa4a-4ef8-9237-c66979a4cbba	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+5cab7a34-2fad-42c4-a278-07c42c88c28a	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+12d487ac-bd26-4174-beb6-d2e80979947c	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+8f31cba0-6e75-4aaf-be42-2b1457bb48c8	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+7bdd4604-632e-4523-8a50-d2ce79ef935f	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+dd670ba5-78a2-4bb7-a036-33987e06e9fd	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+c36e20fc-ad9d-436e-a174-7a19156eb054	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+fbb90a4f-569c-47fd-b322-f67bf5bd7880	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+20aaa32f-0191-437d-91aa-0f73e00a6889	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+f1225e82-8e8c-455e-8b92-22ae2b3f9558	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+a75350ff-f109-4d31-86ec-b5c12ee0b387	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+deea36e2-353b-4e34-acf6-1bd5e2df9abd	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+f9248b8e-5bce-4dc9-8daa-b1f5450a2046	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+345712c0-420c-4321-980b-56c7eee065d5	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+f1d6d2e4-406c-4e8c-b640-2243c232851b	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+3037e06e-e8c3-4184-83ea-ff2ff215ed3d	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+35909f5d-4a20-45bd-8781-36c7d17cac40	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+e425e130-17c8-4cc1-88e6-cf5ac27dc682	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+a2912ccf-4d64-4c7b-bbea-85c1ac309da4	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+120184cf-1868-4d61-8033-168e48500b56	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+4e7d8baa-2f7d-4566-9513-6320a26b6047	BIGC.20191021.01.1.e-fisher	Number of the sampling pass within a reach								1									
+4f47d854-5064-4298-ae8f-be9ceb5a1b6e	BIGC.20191021.01.2.e-fisher	Number of the sampling pass within a reach								2									
+c0ca1019-4872-4792-ba4f-8af97eada14f	BIGC.20191021.01.2.e-fisher	Number of the sampling pass within a reach								2									
+54d67e60-5877-4886-a83d-8c90bbce23f6	BIGC.20191021.01.2.e-fisher	Number of the sampling pass within a reach								2									
+f5444cf7-4277-4e7b-9b24-7f3916166cc6	BIGC.20191021.01.2.e-fisher	Number of the sampling pass within a reach								2									
+7804db0d-2d78-4293-99c0-ca3261f3c709	BIGC.20191021.01.2.e-fisher	Number of the sampling pass within a reach								2									
+8ceb8935-1188-41dc-96a0-9ab0ab9b3320	BIGC.20191021.01.2.e-fisher	Number of the sampling pass within a reach								2									
+bde7c002-05cd-4bc6-b0a2-9b640c40eac0	BIGC.20191021.01.2.e-fisher	Number of the sampling pass within a reach								2									
+4cfad377-c123-4d9f-9a6a-d4ba235b592c	BIGC.20191021.01.2.e-fisher	Number of the sampling pass within a reach								2									
+fc51ebb4-0815-4807-b5ff-593c638446ed	BIGC.20191021.01.2.e-fisher	Number of the sampling pass within a reach								2									
+da3bb6a4-33cf-4a42-bb7d-73e900e6200f	BIGC.20191021.01.2.e-fisher	Number of the sampling pass within a reach								2									
+bc867b75-585b-4061-be41-15206d6d9b26	BIGC.20191021.01.2.e-fisher	Number of the sampling pass within a reach								2									
+f8f27f7a-4181-436a-97f5-d13ff7593b03	BIGC.20191021.01.3.e-fisher	Number of the sampling pass within a reach								3									
+ff32fe5b-204a-4063-81f4-1675aed76017	BIGC.20191021.01.3.e-fisher	Number of the sampling pass within a reach								3									
+7652f577-574b-4746-9abb-09ab7d753ec7	BIGC.20191021.01.3.e-fisher	Number of the sampling pass within a reach								3									
+7283f8da-5837-4e6b-9543-5828d73da230	BIGC.20191021.01.3.e-fisher	Number of the sampling pass within a reach								3									
+31d69f74-3588-402d-bcab-3988a5341b96	BIGC.20191021.01.3.e-fisher	Number of the sampling pass within a reach								3									
+ae113dd8-b158-4eaf-98e1-894235d1851b	BIGC.20191021.01.3.e-fisher	Number of the sampling pass within a reach								3									
+95491018-d41e-4061-9b91-c4f2bbf58fc7	BIGC.20191021.01.3.e-fisher	Number of the sampling pass within a reach								3									
+7c555067-4f0d-4cfe-b287-85bcc18ff940	BIGC.20191021.01.3.e-fisher	Number of the sampling pass within a reach								3									
+44441bbd-4f7c-4e7c-aef7-ea904bbd5b2c	BIGC.20191021.01.3.e-fisher	Number of the sampling pass within a reach								3									
+df9ff681-1ecc-4d91-a522-38187dd7ab46	BIGC.20191021.01.3.e-fisher	Number of the sampling pass within a reach								3									
+073ee4f9-f67b-4c7f-9b7f-15a9014fc4d3	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+7cac4ffc-6005-4187-8e00-61a5f2a77282	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+f1c02703-1314-4da0-9a8a-e16edf40f955	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+bbf06ad5-7c07-4677-b354-30571c2367d2	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+1678ce03-e72c-49c9-aa8d-5746c574425d	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+1bc1c3a2-2528-4c83-b50f-7b3130d9dcdb	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+4971c292-ea5b-4e8d-a08f-380b7454425d	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+29780fc5-3abf-4341-aab7-f254c1018593	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+2df57592-d53a-4038-aa50-d9626ef242c8	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+5f495913-4692-493f-b8dc-77caf98cf23b	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+9f58612f-4571-428f-b310-dd5a2da4464f	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+9cfc889d-fa9f-48a3-b067-fd9248b2a388	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+f5bd7b2b-c41b-4e2c-b7bb-20be5f3b04e8	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+42c71e29-e0de-4342-833a-37e26f18edf6	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+d3fba30c-1af0-48c4-92bf-2ffaab5574b6	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+2008da09-87ba-4d18-be6b-9363bc4d0c19	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+db16297e-c873-43b8-bc41-c074805348e6	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+fb65d291-c130-4958-b98e-9468a6edac69	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+9a197d46-1a2c-4d46-8084-eab171a9d632	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+ea8e3c17-344b-4b1d-844b-5d7e10d34a33	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+37034c7a-3146-4e34-991c-728f70069ec6	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+4a67f618-5652-42a6-b04a-373275524588	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+54c4faa2-d305-4fd7-8932-35d766fcbc11	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+9545be1f-4726-4a2c-9b18-a71707a18d41	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+6f442488-2983-46b6-a8fd-a2c05f65512d	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+081ee00a-a589-489a-b43c-1d4777e10695	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+0078ef1f-99f8-49c7-94ae-f873cafee915	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+c76f8b9a-ead3-4204-9a0d-09e35d12186e	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+aecfa5d2-5389-418d-8425-277ae478d5ad	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+5e4fc0bf-100b-4b4c-a3d0-615f55f42983	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+6a7c882b-977f-4ed5-a2aa-6f5107d92016	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+f59d4e1f-a9d0-488c-8397-f96269f16b2e	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+aa47d253-fbb0-49cb-9512-5ff78e3899cf	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+acced068-f01f-4b5b-ab8e-b30bf200ec0f	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+09429d8e-5155-4371-8792-56aeeade894c	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+a92b8163-a4a7-4820-bc90-404a4f1e2e08	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+210c7eec-0d72-4ed7-a7d6-541e424c4a8e	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+e0f7ce88-554a-4d50-beb5-d03672042b55	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+2cda2b04-993e-491d-a26a-2c186c772914	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+c65f045d-9ba3-4882-a3e3-94fc63d2dd69	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+e4121d34-767c-47d4-b631-a341f0fa8aeb	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+e096563d-8e69-46b1-b419-f9342061702a	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+a71d3fd5-b625-4c06-be68-9b7870a220c3	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+b9b0d3d7-f0f6-4978-b470-e306564eed40	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+b1239f66-285e-4928-aafd-4170bbc09031	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+349cd1c3-ac13-4956-9c9d-33d8250b0a33	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+b5e0f497-5a3e-44b0-886d-159269d14953	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+d4981d90-295f-4bff-8970-4908ed5243f1	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+d9754119-1cfc-4369-8d0a-34af15abee92	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+c7a27d0e-9c48-49bd-91be-d570e8e4dcf5	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+5c9cb467-7416-4118-a241-ad488f7c5826	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+f8e57bf7-4ca8-4485-aa58-f5e1a81d0255	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+7506aac5-06d8-4761-a890-d2ec7f4e02ba	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+bdde91b1-2b42-4ed5-a534-b12a62d40e85	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+fedb7c09-6d31-41f1-a282-a0d6c80301e5	BIGC.20191022.04.1.e-fisher	Number of the sampling pass within a reach								1									
+c075f47d-aab9-4a32-ba59-b7f3603b1c9e	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+02c3c092-aeba-4a64-bd0f-da634a37ea86	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+3b2f37ba-493c-4a7f-acc6-7bda0435c129	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+45ce2ba2-c8c6-4566-9514-dea7c70477d3	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+42077b52-64fc-4749-bd96-33a846cebe42	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+42a2eff3-cb55-44f5-9036-443b2eb609b8	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+fa85d78b-5e75-4268-8d3c-0bb94261cf5a	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+9ca44ad0-6436-442c-85a0-fec59c3a2915	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+e486476a-e8fe-4f1b-b4bd-98bb567a70de	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+8121d8c1-b588-4b8c-8ebd-a5bf283cffa4	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+6229da24-17a1-4c28-87a8-73d0ad113e0d	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+3e7a3b44-aa3a-4de8-9884-461fd374c855	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+49d365ad-6a68-4fe0-a39f-18ca2d24a977	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+2071d862-07a1-49e6-bbb3-7f533cd28d19	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+cdf76d6b-1d26-468c-9e0c-0b527d489b6f	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+bfaf6826-f7d1-4a1b-988a-24e4e8c44bfb	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+5957fb50-4469-47ed-8bce-c6dc5e080482	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+9d68c83d-0a9b-4f3e-8cc3-b92f76825482	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+0a157ebf-2fe3-4239-99cc-154214421c3d	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+4cb455b0-3c22-44bf-9e44-76078c1024eb	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+d469b120-82a3-4a9c-a954-b83fb2e8f057	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+f40711c7-8d4d-4cae-aee2-e5a889dbeba0	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+28454b67-a579-4afa-aeef-7a88ccc21e1d	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+06c240a7-33ca-4701-b066-03dcf6d17d2a	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+5e7efa98-4589-49e7-93f0-740c6c8e818c	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+4cfa3588-161c-4e80-9741-9cbd41bd3bd9	BIGC.20191022.04.2.e-fisher	Number of the sampling pass within a reach								2									
+536533bb-72e4-4f74-89b2-ec3f1fc2c671	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+f984d062-2780-45e7-b4b3-682ae268be36	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+56a627e9-4d0e-42e2-8e07-68174ab98aff	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+9181cd68-2d5a-4cb4-8a91-252cd51d2e8f	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+e38d3409-3a89-4df2-b71b-e4bd33c8fee9	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+54bef4ba-2bb7-41b4-a0d2-15143cb96d1b	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+0c7b2bea-91e4-46b2-a01d-9ebf42d56abd	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+8de384fb-464c-42e1-88ff-abe1b93c52d3	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+926557f5-939c-4fcb-91bb-2b4febf1a56b	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+ceca682a-19d8-4631-a3db-9b631d32f8d8	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+76a7593b-ef14-4a31-b699-285e5085088c	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+2b4e024c-03be-4b57-8b54-b20991992df2	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+26e766cb-0fdb-4e6c-a636-6169dc34cc76	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+18f27595-3b7d-42aa-b59a-b2288db13e88	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+2c4e5ef2-4c6f-435c-bd8c-da5161829142	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+d9579384-17ab-4745-b3d0-f4c2ff19b989	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+ac4a4a38-d3bd-4509-9a7b-ce4b043e3e88	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+d9cc072a-f79b-4bfa-81f6-5bfaff1117a8	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+94db2458-be84-42ae-abed-3e8f9c17301f	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+7de6a699-d657-4a9a-86c9-f7713c6bb96f	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+ee5cf7fa-6ee9-455b-9ee5-9e03b0c98b1d	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+151048f6-4716-4eeb-a395-ceb69dff8d94	BIGC.20191022.04.3.e-fisher	Number of the sampling pass within a reach								3									
+d29cb2b4-f9bc-4148-adc2-4689cc9349f1	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+5f61b117-f2ff-4d1f-b0b7-ed032a231d02	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+36770a05-f9c4-485d-a2d9-7c091ddc1398	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+1d62e45b-d62a-483d-a4fc-bbbfd8a027cb	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+64fa2b13-885e-4397-a304-3f6345d851d5	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+ab9c5f79-bb12-4be0-b94a-a648afaf91de	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+92ad1b15-bb49-4858-ae5e-aea20f210bd4	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+5e873769-0954-41aa-8579-cf6bc0a868a8	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+d545840e-ba86-4ccc-a783-2d534e715802	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+5badae39-b624-4c6e-8008-445312540e60	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+7cc4c884-44e0-43b9-9dee-40a7f6f2c32d	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+8bb21a12-539f-4d5b-921c-126bb111c0b7	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+4a978834-8344-4830-8c89-01ea556ee77d	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+204773b7-a5e2-4c25-8ddb-3a5b6608736a	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+67513c23-efe4-4345-acd9-428cb0d47ae9	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+f42ab9c1-37c5-4d40-bfd9-553bdbef3291	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+58501bac-8d36-4af5-8c37-df25f6f13099	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+809a36c6-ffb6-4b84-9b7d-0f0357282d2c	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+1f938b75-3a61-4b4e-be31-1360b4fd5f5c	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+d2065f33-c81b-43da-8a46-9c553ac023d2	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+7ef0de18-0a1f-4327-94a7-0ad3690b1349	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+1c384cf3-e15d-409e-a75b-200461b9eb83	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+bcd530aa-1b97-4f99-a383-ccd69f915db7	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+89e8cd43-8a0d-4af1-9ffd-2ca7acf90298	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+a886cd64-6421-47b0-87f9-426fa5f9ed36	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+9a702fd5-b192-482d-8c13-6851401d6d1c	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+80ccd140-6b75-4815-81dd-d0bdf717e452	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+7b78aafc-af97-4736-add9-6be29712c060	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+1b52702f-2b50-40dc-94be-5dec4fdcfe4e	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+8a725ccd-b60a-4b43-ba27-cbefff3ddd36	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+0673a942-f353-47e5-b08c-9a8a8e1361a4	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+189d98a4-f250-47ee-8abb-03d1f2e29664	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+1de42caa-532e-4458-b634-d2e8c5bd00ab	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+d0358b3e-5428-4fbd-b344-7c346fbe68bc	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+d68ddcbb-5e26-480c-903d-aa4da509dcd9	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+ecd5a933-ca9e-41f3-b8bc-ea887f8d1182	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+8a279352-5db5-4881-b3ca-731e69a83329	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+e26f7508-d488-4050-aa2d-b94979e6e4d5	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+38164443-3d84-4ffc-a9fe-aa1f7deedc90	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+a3a34bf4-4953-42cf-b945-292ff10fd536	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+678cb01b-cef2-48a3-a49c-135a793e3a5a	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+62097f64-40ed-40ae-b64d-be714ffe7cdd	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+8e6282f7-10db-42bf-8534-4eecc4828eb4	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+f6d9af5d-52d2-4dd2-a4b0-ba5ff8db7e3d	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+813e4b3a-c701-40e1-82b8-d27c73f1e6da	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+d980afba-0370-4a86-a7fd-799a7a34f94d	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+779281d2-d675-4a9d-ab9e-84eccfd26ade	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+b669d9c1-9a1f-496d-b028-984f81c40e70	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+bf5f0ed9-5f7c-4bd2-93ec-6b60ff034d2c	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+70dd6df5-89d6-45bc-85d8-b96b640f5e72	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+d9b3214e-d1d0-4052-9c88-f03daf0952e1	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+17ea27fd-0107-46a9-a57b-8b36540374b7	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+c2552959-8d44-46bb-a1a8-f8ee95984987	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+41b046a9-5ca3-401b-a593-059e802bd7ff	BIGC.20191023.05.1.e-fisher	Number of the sampling pass within a reach								1									
+b2059366-cce7-45e1-a221-e8edfea0eae1	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+84a4bc10-f289-4e8a-be08-430df49d5a5c	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+3f642ba4-eea0-4c45-a3a0-280ceec3d5a0	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+b6287e6b-2ce5-4522-9657-f9dec25d2989	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+902ce2a3-45ce-4511-af67-32d6f7f52845	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+11b399b4-36fc-4255-b57d-db221ea748b6	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+10494f56-43f0-4154-b557-311d5122ec6d	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+7d668e23-0f55-47f7-afef-9b3053bd3cde	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+ccf971d9-fd56-4034-86fb-f7082e62e2d4	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+e5a1e70b-fa6d-4504-9a61-91c17e4597c3	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+62149b3c-14f8-4a3c-b3f6-65d680e54dc7	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+80412f89-7e1e-45f8-8597-557914c528d7	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+89a13a76-e771-4ab4-8410-32b149569091	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+d2725b04-2829-426d-ba5d-f355587f2ddc	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+726e6dd9-dd2c-4842-8647-35eb4cefd7c9	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+e9adf30c-3a01-4596-bbb0-8f87fcbac016	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+001253f6-56f7-49e8-910b-49385f1e92a9	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+8f2cec46-0e6f-40cd-a51b-0b92f95ceb90	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+9a664e69-fb97-4477-be62-36b2444cdb73	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+34ad7600-01cd-42c1-8985-fc3241bf8540	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+1cc4b881-6805-43e7-b886-23a31b3b65a1	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+392c8b4b-0a0a-4b24-8ecc-0d2489314f2b	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+223fd079-2608-4cc5-a678-f215337554fa	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+d459a5da-a2a9-43ef-a0bc-684cae71421c	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+9052ea0b-91af-4e85-b5a8-c90666e1dde3	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+87ca2ee3-c932-4f9c-9c81-ebc02f65df47	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+8185c8b7-6172-4e22-95ca-c3336a1bdb52	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+1616ebd6-4910-4380-bb7d-2202c6efb3f0	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+7dc758cd-1a08-43bd-94fd-e0a093fdbffd	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+c9eca27a-63b3-496a-b9c6-2f56f2604cba	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+099c57fb-6c77-451d-9b90-bb684598504e	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+9a5a1415-431f-4ceb-b8fc-e9ef21febfff	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+fb45c3cb-7441-4446-8f2e-55f583bcac6b	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+f6af63cb-5fd6-4782-aef2-6aab39977a15	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+516f5a21-29ca-4ac0-a98c-de6901730ae6	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+c2586add-6694-4c2b-897c-ef36400453a7	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+c2c03b54-1ebc-4434-8b73-33ecbf1c2cf0	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+c8d1e9cb-2520-4b07-8f1b-b93aa8e5af19	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+5cb0b93c-2e74-410f-9343-c89ebf8ddd7e	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+fe3a3705-1c14-4f3b-ab56-81066521772a	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+2757d5e4-cf4c-4ab0-8e9e-c1c8ab6b33ec	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+12cda03c-1727-497d-a1e9-2f3ec2f84f1e	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+d85c69da-9389-46b5-9d4b-80702c068595	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+ebda1ebf-ecda-4166-a206-cf2f343c423f	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+16088f97-f367-4f25-a644-9b825da2140b	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+dfe88782-947a-4457-b11e-fbf986a8bd42	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+6c29dc85-cdc1-477f-94a6-fa5d9562ada6	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+e554be82-12ef-4bbd-89e4-61031fecb73d	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+2555de98-8130-416a-a542-25927379ed01	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+19ce4edc-b16a-42b4-b3fe-b9550fd32cb5	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+1e3802ff-45b3-42e4-9a3b-2c807d41eee1	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+815c105b-0bc2-4aaf-b874-911815eeeb1c	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+b027c0a6-edd4-4897-8f72-36fb5bc244c3	BIGC.20191023.07.1.e-fisher	Number of the sampling pass within a reach								1									
+b2a5e1aa-76b7-4a73-8502-a4bfcede32ec	BIGC.20191023.07.2.e-fisher	Number of the sampling pass within a reach								2									
+35d1c5f3-e38e-42fa-b25b-f43e20b0ffaa	BIGC.20191023.07.2.e-fisher	Number of the sampling pass within a reach								2									
+6dad61c4-74ee-4e4e-8cc1-40af06a90f7c	BIGC.20191023.07.2.e-fisher	Number of the sampling pass within a reach								2									
+c817fc08-b8ab-4627-b306-a258fe99e9f3	BIGC.20191023.07.2.e-fisher	Number of the sampling pass within a reach								2									
+bd4fa1b7-160f-4482-82b8-1b82e101a0c3	BIGC.20191023.07.2.e-fisher	Number of the sampling pass within a reach								2									
+002a2e3a-4174-4d91-b743-bfe1b37c7e98	BIGC.20191023.07.2.e-fisher	Number of the sampling pass within a reach								2									
+7ccdfbd3-a311-4901-b46a-c041dd32398c	BIGC.20191023.07.2.e-fisher	Number of the sampling pass within a reach								2									
+a23cad2b-b112-478d-8644-4e919bdca3bc	BIGC.20191023.07.2.e-fisher	Number of the sampling pass within a reach								2									
+8b4328d3-11a7-4e97-8e88-6a931f6971d8	BIGC.20191023.07.3.e-fisher	Number of the sampling pass within a reach								3									
+e08ceeb2-f4a0-41aa-80aa-b64692ec7935	BIGC.20191023.07.3.e-fisher	Number of the sampling pass within a reach								3									
+5e1caeb1-e5f3-47b9-a9ae-6bf474b5b2be	BIGC.20191023.07.3.e-fisher	Number of the sampling pass within a reach								3									
+26bbec63-0c12-4fd9-899b-262a5ddc69d8	BIGC.20191023.07.3.e-fisher	Number of the sampling pass within a reach								3									
+f90294d7-bdf1-41d1-89e2-b04d160efa56	BIGC.20191023.07.3.e-fisher	Number of the sampling pass within a reach								3									
+35719960-0392-4795-96f9-4b3ecbe7ae6d	BIGC.20191023.07.3.e-fisher	Number of the sampling pass within a reach								3									
+04cf7595-52ff-40d7-a851-7d2f412f16e3	BIGC.20191023.07.3.e-fisher	Number of the sampling pass within a reach								3									
+44d0cae9-d9a5-4b4d-9af8-a43e8662dd66	BIGC.20191023.07.3.e-fisher	Number of the sampling pass within a reach								3									
+7bb2d4f5-33f5-43ff-8999-05624cd77fd3	BIGC.20191023.07.3.e-fisher	Number of the sampling pass within a reach								3									
+197341bb-a2b4-4cb3-a1ef-525b205bd01a	BIGC.20191023.07.3.e-fisher	Number of the sampling pass within a reach								3									
+0d53feb7-3bb8-442d-bca1-e1a6471e72d0	BIGC.20191023.07.3.e-fisher	Number of the sampling pass within a reach								3									
+0e74f444-8f2b-49ec-82f1-c20e8bea49b2	BIGC.20191023.07.3.e-fisher	Number of the sampling pass within a reach								3									
+05d24edb-0c6a-4546-8169-6f8513481003	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+06e11774-aef2-4db0-8533-b03d005bfc28	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+c9bcf360-c9a0-4511-94d6-db75cafd6a03	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+56e6c157-232a-4b3b-9466-9d7295538693	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+26eabfd8-2d0e-4e61-afe7-e0edd3746688	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+d5c736f5-5957-49dd-b4dc-013e82567918	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+44bb5000-a45c-4bf5-9bc3-5a80eedfc2c7	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+998f1c54-f7a3-4b62-a3a3-6c6d8ebad5c6	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+81dddcc5-4adc-4410-bfde-0ce402cc4b48	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+b906fdb9-3268-45af-a9d0-810c01af106b	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+f8dd39ef-005c-4ea4-9947-644fa3bd154e	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+1c889e0d-f262-4984-8f98-35241b4951f7	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+7680ee80-e6a8-4121-aa56-3315a6f9776d	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+95a811ad-784f-438b-b4d4-29ffc0519548	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+3ee0084f-fa56-4db0-bc71-bb82062dd9ad	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+a58e5f56-a159-4672-aa1f-bf81549d0fab	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+0c2fd2b6-672f-4db1-804e-f18f559ee4e4	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+cf4c62b2-6907-4dda-9f12-39cea5884e9d	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+ce540304-96f1-4644-a01d-3856c781be5b	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+fb1400f0-1d2f-4035-8d5d-812826e2f9f5	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+e9183b1e-69bd-4663-a31b-969981e0db56	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+e2799ade-5180-458a-abe1-81c0b938bee5	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+e55a8624-54e0-42b6-bc2b-2cf87b62592b	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+d5a2be23-de86-4e7f-80c4-a29c3d99b00b	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+cb44b852-ab66-42c2-8ac2-1f5cf131e48f	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+6b5fe65c-f057-4eb3-b422-55ee93804ed7	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+e7bd54a3-fc4d-4087-836b-ebcb5f112b8d	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+f95e596b-1274-4ea8-b81d-a3ad67d6a447	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+9279649c-5b64-4033-9718-3f6c4edaf203	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+062d52eb-4b1a-4f6c-bc64-3405c4ac8a50	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+3d5aa065-b7af-45b9-8513-a8501acd6ff9	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+bef6ce8c-8cba-460e-aec5-7eb63299f39e	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+104b1337-052c-40f1-b526-3fb7a287c026	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+7a519654-c2c8-4b14-ac15-d63e0f8c3274	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+df9df2f0-edcb-411c-8554-fb2a0850c9b7	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+46ca80b3-f428-4023-9fc2-2e44a5fbd00d	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+52e5a3d0-5c7b-4b59-8188-4c5931d88fb1	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+a9cd9778-836b-403e-b29b-0cf3f8744a02	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+5ce02488-eb53-4110-ba82-e025d47e7b8b	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+b49d36e9-3a81-452f-9735-786fbb817e67	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+6e0184f3-cca9-4f8d-8210-a11bfecb3a01	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+b079a117-0dc5-4ada-af63-ac6e1143f84c	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+ea8f0204-2e86-469e-af12-82488a054c13	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+7e3ad637-4344-41f4-87a0-a17a2eac4a6a	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+6af64023-1627-4d98-b4f9-59fc4ccabaf1	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+7d8d5913-e219-4e23-b57a-30c5e93e64c0	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+ba98a750-993c-438c-ae94-e3a978c9b320	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+ec2b259b-cfd1-4b8d-8f8d-dae8ee5d73e4	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+2d2523fc-59ec-43d8-8735-42ed1577175b	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+15bbc6f0-7232-4d92-b0e2-69541ae2ac81	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+bfb0326d-d72b-4206-978d-e049615f437c	BIGC.20191024.08.1.e-fisher	Number of the sampling pass within a reach								1									
+4fb68345-b830-4d9b-912b-ba64d8251bef	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+a9cab190-2167-4fc3-b7ed-e9d707b0bbb8	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+5b7fefb6-2b51-4da7-828d-96ba545f5199	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+fc2b1069-0908-48b1-b644-d895e651d0b6	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+0b530954-a8b4-4f22-9554-a658a4274e21	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+62a8ba2e-15e8-4a8e-b46f-0d95419e373c	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+c25fd39d-284e-4493-907f-347721a07e40	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+ebba5650-2f58-42a6-990b-4f4139ca968a	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+69f62ffa-0f58-4846-9f66-e8ab65a03f6d	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+a381f991-efbe-4c9a-8c05-2af5e2f442e5	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+4b698487-1e48-45d2-bc00-63f7eccae80f	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+a2060fc4-2d0b-46f6-ab50-4e88bb73f8d6	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+fdd02ac1-9621-497a-b8ed-a85795b2041a	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+fb7c71ed-0590-4046-9387-e2eb29dcceb1	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+81cc751f-4162-4530-8a25-8cd4a0b5b0fe	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+7249ea1d-40d6-4c05-8059-88033776c0a5	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+ba0c35c0-a019-47e8-a200-ed5e30ff6fa5	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+23ba0901-c161-4260-ac92-74463ca53a80	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+005456ce-8bcf-43f5-a193-df516688199b	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+7ba11d59-27e5-4cb0-b706-7fff3a976b53	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+ce8487c0-25ec-44d2-9ace-87ced0a55849	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+7c547eb0-abab-45fb-b375-b20ffa007de5	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+064e7ff8-6425-410e-badc-a07fc2f94cfa	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+8e901208-2225-4685-a4d3-6d7b6be517b2	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+a39a0579-d637-49c2-8a23-e2cdbdff7be7	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+1ae14987-8274-4225-8bf6-829db80fab32	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+39197666-9afa-4123-a57d-9a187a7c48ac	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+1899006f-5721-48a4-bc96-053eede77a0b	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+4a6441d6-3a15-4675-b37f-0b641a0f5f6e	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+0a837312-c32a-4d83-91e9-d7c4faf0e3e6	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+776ff8b6-6b1f-41ee-89f3-bc7a38b074de	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+1042253b-c181-4847-b338-63f70af03e9d	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+0a1fd352-31a7-489b-8403-15b7e04ad7ed	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+a0f555f6-96ce-4480-b610-4d40a04feff6	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+cfc1f697-5310-440e-a34f-4bf31c8b8726	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+20ed54b3-5482-475f-a19d-b87f000f3bb2	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+3ff49927-0931-44a4-8e96-5f5f23c70213	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+00e2a63e-bc9d-486c-9d69-ca3f27c87bda	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+8b7637bb-a5b3-47a1-b89b-ae631f46318e	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+6db382fd-3274-438d-a73a-1480823a0aa5	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+3a712cdb-3421-491e-9991-c17a649f9fe6	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+c662e36a-127d-4016-9df1-ba50d9a3fdf2	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+682b3305-b6af-4c78-876e-8c884afd7692	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+56876d08-3b04-4b1a-9634-de0cb5bfbca1	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+064d2082-7dca-48e2-8403-207e5b6b80dc	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+fadc28a1-39a9-4def-a407-0a2b9d61bf45	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+a2760278-5456-4f6c-bb5a-b466c02a8330	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+8e480dd0-0fea-489d-8cfe-a646888648ff	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+316d8897-aa32-48a1-ae90-997a7d787c46	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+6cdf95de-b549-48d0-9d13-add462ade980	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+7508be93-f132-4c27-949c-ff0f5083d15c	BIGC.20191024.09.1.e-fisher	Number of the sampling pass within a reach								1									
+12937e3b-9d58-4c03-aa4d-2f4a68044af5	BIGC.20190422.01.1.e-fisher	Temperature of water (C)								8.9	celsius								
+9713c0d1-9d2b-4cd4-9abe-af4f6db8b0a2	BIGC.20190422.01.2.e-fisher	Temperature of water (C)								11.7	celsius								
+b0d5d691-4cc2-4f08-bba0-7463149a537f	BIGC.20190422.01.3.e-fisher	Temperature of water (C)								11.8	celsius								
+4679e734-dd15-489b-b58b-e4a1ba087fc0	BIGC.20190423.04.1.e-fisher	Temperature of water (C)								9.2	celsius								
+62b95061-0cff-4e4f-bab4-b1d88aefd558	BIGC.20190423.04.2.e-fisher	Temperature of water (C)								12.3	celsius								
+90dbd284-171c-4ff0-b152-4cef172c5f0b	BIGC.20190423.04.3.e-fisher	Temperature of water (C)								12.2	celsius								
+14a51648-d078-408e-9a61-fe28e2df4ba4	BIGC.20190424.05.1.e-fisher	Temperature of water (C)								9.8	celsius								
+3e855775-ec3d-4387-b0f5-2ccea1a860b5	BIGC.20190424.07.1.e-fisher	Temperature of water (C)								13.4	celsius								
+fa1b04be-8db3-4ef1-841a-15293a587aa2	BIGC.20190424.07.2.e-fisher	Temperature of water (C)								13.3	celsius								
+12791f55-42c2-4f12-8336-2819da2c2631	BIGC.20190424.07.3.e-fisher	Temperature of water (C)								13	celsius								
+4043c6dc-6978-40df-a853-0926281bfe45	BIGC.20190425.08.1.e-fisher	Temperature of water (C)								10.4	celsius								
+ffe1adf5-c2ad-44cb-b337-7eeff82e1bb3	BIGC.20190425.09.1.e-fisher	Temperature of water (C)								13.6	celsius								
+e85993a7-95a6-41cb-9a71-923725266437	BIGC.20191021.01.1.e-fisher	Temperature of water (C)								8.7	celsius								
+23ef3ed4-3fe1-4d45-83b7-739a128cf844	BIGC.20191021.01.2.e-fisher	Temperature of water (C)								8.7	celsius								
+0a971b40-df2f-4df7-ad0e-ac6a89b48886	BIGC.20191021.01.3.e-fisher	Temperature of water (C)								8.7	celsius								
+999883db-c828-481f-87d6-4d86729ffd69	BIGC.20191022.04.1.e-fisher	Temperature of water (C)								9.3	celsius								
+00292c25-c9e6-4650-b8fb-0ab4d37193fd	BIGC.20191022.04.2.e-fisher	Temperature of water (C)								9.3	celsius								
+a3cb58e1-8a8e-4bc9-a922-4783cb96498a	BIGC.20191022.04.3.e-fisher	Temperature of water (C)								9.3	celsius								
+bbc928df-4469-45d9-befe-53531b83088d	BIGC.20191023.05.1.e-fisher	Temperature of water (C)								9.7	celsius								
+93df1e63-55d4-4b10-ba97-a01a4d6b45d9	BIGC.20191023.07.1.e-fisher	Temperature of water (C)								10.8	celsius								
+f95f8954-bfb6-4c5b-a822-68c8f386edf6	BIGC.20191023.07.2.e-fisher	Temperature of water (C)								10.8	celsius								
+5f7ce8bb-0e79-415d-9754-06df5f586be8	BIGC.20191023.07.3.e-fisher	Temperature of water (C)								10.8	celsius								
+a2414a46-b9a5-4c97-9764-111935288625	BIGC.20191024.08.1.e-fisher	Temperature of water (C)								9.8	celsius								
+9b06b0d1-df04-4514-9e77-3f1aeeb47729	BIGC.20191024.09.1.e-fisher	Temperature of water (C)								10.6	celsius								
+6ccfe49b-e3f3-410f-b50c-65f5295c96ce	BIGC.20190422.01.1.e-fisher	Dissolved Oxygen Concentration								10.3	milligramsPerLiter								
+f63f8ff1-f490-49d9-bfb2-4c25162493ee	BIGC.20190422.01.2.e-fisher	Dissolved Oxygen Concentration								9.1	milligramsPerLiter								
+f492abc9-8d92-4d6c-adc6-657221e1a36d	BIGC.20190422.01.3.e-fisher	Dissolved Oxygen Concentration								9.5	milligramsPerLiter								
+def691aa-d569-4a72-8129-86a2bf1927aa	BIGC.20190423.04.1.e-fisher	Dissolved Oxygen Concentration								9.6	milligramsPerLiter								
+0a0cb973-39bd-4e20-80c8-1a11add4e41d	BIGC.20190423.04.2.e-fisher	Dissolved Oxygen Concentration								9.1	milligramsPerLiter								
+cadbd1f2-4e0f-44e1-8034-5879045a115d	BIGC.20190423.04.3.e-fisher	Dissolved Oxygen Concentration								9	milligramsPerLiter								
+50970ce4-184d-4512-94aa-ce7a3066f075	BIGC.20190424.05.1.e-fisher	Dissolved Oxygen Concentration								10.3	milligramsPerLiter								
+c0c28b78-b056-45ab-a327-ce7bfd17ad6e	BIGC.20190424.07.1.e-fisher	Dissolved Oxygen Concentration								10	milligramsPerLiter								
+384f26ef-f046-46fd-97ea-64f082854662	BIGC.20190424.07.2.e-fisher	Dissolved Oxygen Concentration								10.9	milligramsPerLiter								
+5c633a80-0c8d-47d7-a5a7-f4fc7368f9a0	BIGC.20190424.07.3.e-fisher	Dissolved Oxygen Concentration								9.7	milligramsPerLiter								
+f7251f21-23ac-473c-a99d-597e75787200	BIGC.20190425.08.1.e-fisher	Dissolved Oxygen Concentration								9.1	milligramsPerLiter								
+110ff2e8-5a71-42b7-81d2-bb8742d74310	BIGC.20190425.09.1.e-fisher	Dissolved Oxygen Concentration								9.1	milligramsPerLiter								
+db0b2c9f-9afe-4f90-b559-b9a5742efde1	BIGC.20191021.01.1.e-fisher	Dissolved Oxygen Concentration								8.8	milligramsPerLiter								
+079e13fc-e673-4042-8e93-a7bc8d325416	BIGC.20191021.01.2.e-fisher	Dissolved Oxygen Concentration								8.8	milligramsPerLiter								
+5c95388b-5b90-4bcf-85c1-93e1e6b84cf0	BIGC.20191021.01.3.e-fisher	Dissolved Oxygen Concentration								8.8	milligramsPerLiter								
+98be2439-0f98-4245-a962-253467edf1d4	BIGC.20191022.04.1.e-fisher	Dissolved Oxygen Concentration								8	milligramsPerLiter								
+d6837d3d-367c-4204-96db-87ae48a53ede	BIGC.20191022.04.2.e-fisher	Dissolved Oxygen Concentration								8	milligramsPerLiter								
+f85cc4ed-6c1b-4aea-9b95-d66de9c7f763	BIGC.20191022.04.3.e-fisher	Dissolved Oxygen Concentration								8	milligramsPerLiter								
+7444713d-bed7-41a6-9d44-490d8c7adde0	BIGC.20191023.05.1.e-fisher	Dissolved Oxygen Concentration								8.7	milligramsPerLiter								
+878759b4-3825-4bb4-b312-5621f661a81b	BIGC.20191023.07.1.e-fisher	Dissolved Oxygen Concentration								9.1	milligramsPerLiter								
+55e5d849-fc2c-4be5-828a-0ba33bf12b0f	BIGC.20191023.07.2.e-fisher	Dissolved Oxygen Concentration								9.1	milligramsPerLiter								
+3af2b059-71f8-4f5f-a3b5-cebd7df5fd88	BIGC.20191023.07.3.e-fisher	Dissolved Oxygen Concentration								9.1	milligramsPerLiter								
+3b985677-a2e3-48cc-94e8-e828e05efa33	BIGC.20191024.08.1.e-fisher	Dissolved Oxygen Concentration								8.6	milligramsPerLiter								
+305b092b-0702-4f45-9103-a336f7a30664	BIGC.20191024.09.1.e-fisher	Dissolved Oxygen Concentration								9.2	milligramsPerLiter								
+cb687c7e-f41d-44eb-bc35-33f899e76e1f	BIGC.20190422.01.1.e-fisher	Conductivity auto-corrected to 25 degrees C								75.6	microsiemensPerCentimeter								
+037d2d82-ef0e-40a2-8822-d6092bd889cb	BIGC.20190422.01.2.e-fisher	Conductivity auto-corrected to 25 degrees C								77.3	microsiemensPerCentimeter								
+75ccec81-7107-407c-8a06-88cad49a9c11	BIGC.20190422.01.3.e-fisher	Conductivity auto-corrected to 25 degrees C								77.8	microsiemensPerCentimeter								
+92c0c054-17f0-4277-8cdf-3c31c0eac62b	BIGC.20190423.04.1.e-fisher	Conductivity auto-corrected to 25 degrees C								76.9	microsiemensPerCentimeter								
+1589f349-1458-4f82-b922-1d1c2590a527	BIGC.20190423.04.2.e-fisher	Conductivity auto-corrected to 25 degrees C								77.2	microsiemensPerCentimeter								
+05bdecd3-6f43-4379-8e1c-a1e509096438	BIGC.20190423.04.3.e-fisher	Conductivity auto-corrected to 25 degrees C								76.5	microsiemensPerCentimeter								
+32fb520a-801a-4e39-a8d0-a82665f811c5	BIGC.20190424.05.1.e-fisher	Conductivity auto-corrected to 25 degrees C								78.4	microsiemensPerCentimeter								
+bf8a476c-e21e-485b-93a0-99bc2dbffa5c	BIGC.20190424.07.1.e-fisher	Conductivity auto-corrected to 25 degrees C								79.8	microsiemensPerCentimeter								
+641ec004-2725-40c8-861e-fb66b91b7518	BIGC.20190424.07.2.e-fisher	Conductivity auto-corrected to 25 degrees C								78.9	microsiemensPerCentimeter								
+d1c00861-d33d-416c-9de0-0c80214d297c	BIGC.20190424.07.3.e-fisher	Conductivity auto-corrected to 25 degrees C								78.6	microsiemensPerCentimeter								
+6017f443-3bc5-4604-abf6-cb63859755d6	BIGC.20190425.08.1.e-fisher	Conductivity auto-corrected to 25 degrees C								78.6	microsiemensPerCentimeter								
+7b4b9d47-5107-43e5-8b49-85a7a459135d	BIGC.20190425.09.1.e-fisher	Conductivity auto-corrected to 25 degrees C								79.5	microsiemensPerCentimeter								
+166f04db-1713-4a23-8990-b16d90fec2b8	BIGC.20191021.01.1.e-fisher	Conductivity auto-corrected to 25 degrees C								157	microsiemensPerCentimeter								
+605a5de9-8a4f-4850-83b2-6f159a362719	BIGC.20191021.01.2.e-fisher	Conductivity auto-corrected to 25 degrees C								157	microsiemensPerCentimeter								
+b4bc712a-bbac-4836-b6b4-607fefb59fa4	BIGC.20191021.01.3.e-fisher	Conductivity auto-corrected to 25 degrees C								157	microsiemensPerCentimeter								
+2fbd2208-6d57-4491-ac3f-f1341a346030	BIGC.20191022.04.1.e-fisher	Conductivity auto-corrected to 25 degrees C								230.6	microsiemensPerCentimeter								
+4f37f0a7-5556-4ab8-a134-bcc862e96e34	BIGC.20191022.04.2.e-fisher	Conductivity auto-corrected to 25 degrees C								230.6	microsiemensPerCentimeter								
+a1698d5a-7182-4ff9-9f8c-01a8ac8baafa	BIGC.20191022.04.3.e-fisher	Conductivity auto-corrected to 25 degrees C								230.6	microsiemensPerCentimeter								
+511504db-0fdf-4cce-af8d-232bab803c6a	BIGC.20191023.05.1.e-fisher	Conductivity auto-corrected to 25 degrees C								232.8	microsiemensPerCentimeter								
+2dc23ee8-1345-437a-a207-59b1837b9595	BIGC.20191023.07.1.e-fisher	Conductivity auto-corrected to 25 degrees C								235	microsiemensPerCentimeter								
+27e7af7c-8653-49af-bcfb-61e44e073385	BIGC.20191023.07.2.e-fisher	Conductivity auto-corrected to 25 degrees C								235	microsiemensPerCentimeter								
+555f0cca-e117-44dd-90ec-ab17a89ed490	BIGC.20191023.07.3.e-fisher	Conductivity auto-corrected to 25 degrees C								235	microsiemensPerCentimeter								
+95b14072-11ca-4af1-b0dd-0c98348c4f2b	BIGC.20191024.08.1.e-fisher	Conductivity auto-corrected to 25 degrees C								226.4	microsiemensPerCentimeter								
+0e156dc6-6a9b-4c40-9f1c-396213c25a64	BIGC.20191024.09.1.e-fisher	Conductivity auto-corrected to 25 degrees C								243.4	microsiemensPerCentimeter								
+9f9751b3-6357-4aac-8d26-5294ab0e8fa3	BIGC.20190422.01.1.e-fisher	Type of sampler used to collect the sample					electrofisher												
+13940d96-92ab-48eb-9139-bfe6add356ad	BIGC.20190422.01.2.e-fisher	Type of sampler used to collect the sample					electrofisher												
+bcaf1257-e887-461f-98a4-8e764a22b9d7	BIGC.20190422.01.3.e-fisher	Type of sampler used to collect the sample					electrofisher												
+147ab72a-93e2-411a-bdb0-21fb3ff84bd9	BIGC.20190423.04.1.e-fisher	Type of sampler used to collect the sample					electrofisher												
+bb665551-2c51-4a8a-b11c-e34ef05ffde4	BIGC.20190423.04.2.e-fisher	Type of sampler used to collect the sample					electrofisher												
+80493a40-f696-4e42-b79e-e9d41c4dc097	BIGC.20190423.04.3.e-fisher	Type of sampler used to collect the sample					electrofisher												
+ad6b937d-b7c3-4d31-ac5e-572b4a77ed93	BIGC.20190424.05.1.e-fisher	Type of sampler used to collect the sample					electrofisher												
+7c745c03-2a9b-4a96-920e-d4b5d3ed6269	BIGC.20190424.07.1.e-fisher	Type of sampler used to collect the sample					electrofisher												
+3a2868e6-a9a2-4819-b02f-49925adad9bf	BIGC.20190424.07.2.e-fisher	Type of sampler used to collect the sample					electrofisher												
+5db40e75-30dc-4a6f-b909-ad59865d99a7	BIGC.20190424.07.3.e-fisher	Type of sampler used to collect the sample					electrofisher												
+78a01f02-fe9f-4498-b2b5-7e4678cc9f1b	BIGC.20190425.08.1.e-fisher	Type of sampler used to collect the sample					electrofisher												
+9e9427f2-a9e6-4eae-9f4d-9f57b53c31e2	BIGC.20190425.09.1.e-fisher	Type of sampler used to collect the sample					electrofisher												
+1eba1e06-ee3c-4ea4-93fe-c6992e9b631c	BIGC.20191021.01.1.e-fisher	Type of sampler used to collect the sample					electrofisher												
+c728e65a-428b-4454-b64b-81a6bd08dd5c	BIGC.20191021.01.2.e-fisher	Type of sampler used to collect the sample					electrofisher												
+9bec1a2c-15fa-4e77-a453-3888c755a8f5	BIGC.20191021.01.3.e-fisher	Type of sampler used to collect the sample					electrofisher												
+b767ddb7-e9e4-4821-8d12-6b4bb88c600e	BIGC.20191022.04.1.e-fisher	Type of sampler used to collect the sample					electrofisher												
+e3c2b6c9-e262-49fa-a5d5-5fa281896ca1	BIGC.20191022.04.2.e-fisher	Type of sampler used to collect the sample					electrofisher												
+cf48adc6-e4e3-4312-944d-a23a5189e958	BIGC.20191022.04.3.e-fisher	Type of sampler used to collect the sample					electrofisher												
+05965ccd-1b90-4beb-9a4d-d8f054a80806	BIGC.20191023.05.1.e-fisher	Type of sampler used to collect the sample					electrofisher												
+057ddf2b-1695-4a21-9a2c-d9db3fa4f977	BIGC.20191023.07.1.e-fisher	Type of sampler used to collect the sample					electrofisher												
+bd9a4bfc-ab7e-4824-88a4-5883763c3f74	BIGC.20191023.07.2.e-fisher	Type of sampler used to collect the sample					electrofisher												
+27cfeb66-acf9-43a7-8d48-48599f576658	BIGC.20191023.07.3.e-fisher	Type of sampler used to collect the sample					electrofisher												
+5127883e-2a01-4099-953a-4299c8380035	BIGC.20191024.08.1.e-fisher	Type of sampler used to collect the sample					electrofisher												
+6048abe9-6af6-4179-a757-87f8cdc40afa	BIGC.20191024.09.1.e-fisher	Type of sampler used to collect the sample					electrofisher												
+d2f47d92-f220-473d-a018-2162571326e3	BIGC.20190422.01.1.e-fisher	Frequency at the start of data collection								30	hertz								
+cc8064a0-681a-4f2c-be18-842803df32aa	BIGC.20190422.01.2.e-fisher	Frequency at the start of data collection								30	hertz								
+23c0eb14-7f25-4027-9172-be91c5b50ef1	BIGC.20190422.01.3.e-fisher	Frequency at the start of data collection								30	hertz								
+05fd37d3-4523-429e-9d78-6a52e4986f84	BIGC.20190423.04.1.e-fisher	Frequency at the start of data collection								30	hertz								
+ab9a3c85-0b52-43c9-b528-ea8cdba5f96b	BIGC.20190423.04.2.e-fisher	Frequency at the start of data collection								30	hertz								
+ba42e570-75e6-4990-a3d1-44302e925ae7	BIGC.20190423.04.3.e-fisher	Frequency at the start of data collection								30	hertz								
+b554d60c-7aaf-44b1-b10c-3ad8c968dbf2	BIGC.20190424.05.1.e-fisher	Frequency at the start of data collection								30	hertz								
+58d6b56b-64ae-4c84-8045-fd669c1c59f5	BIGC.20190424.07.1.e-fisher	Frequency at the start of data collection								30	hertz								
+5dd21453-f681-4069-b780-b52692b12ad8	BIGC.20190424.07.2.e-fisher	Frequency at the start of data collection								30	hertz								
+33dc5ae6-ed13-4c40-a95d-b3dede6e775d	BIGC.20190424.07.3.e-fisher	Frequency at the start of data collection								30	hertz								
+731ff9a5-5079-4199-a0e2-d6bd0fe66ec6	BIGC.20190425.08.1.e-fisher	Frequency at the start of data collection								30	hertz								
+e8c47d0b-cff5-4ef6-ac7d-af3b476a0ca4	BIGC.20190425.09.1.e-fisher	Frequency at the start of data collection								30	hertz								
+64d0e3f0-5e13-4e69-b548-fe4d3f458b80	BIGC.20191021.01.1.e-fisher	Frequency at the start of data collection								30	hertz								
+ebfa02ce-705a-4a11-ac47-a497e0cdf8bc	BIGC.20191021.01.2.e-fisher	Frequency at the start of data collection								30	hertz								
+503af2cc-510a-4562-b0ac-b0385a90ae57	BIGC.20191021.01.3.e-fisher	Frequency at the start of data collection								30	hertz								
+9dd6e602-a7a4-4465-ba9d-8fad1491faee	BIGC.20191022.04.1.e-fisher	Frequency at the start of data collection								30	hertz								
+8629a4a3-33d9-4964-b1ef-d631ec2b45ab	BIGC.20191022.04.2.e-fisher	Frequency at the start of data collection								30	hertz								
+b46a8182-9a9b-4e76-8ac0-66caf613fa56	BIGC.20191022.04.3.e-fisher	Frequency at the start of data collection								30	hertz								
+8a799fe4-a843-402e-9b11-252454f5836b	BIGC.20191023.05.1.e-fisher	Frequency at the start of data collection								30	hertz								
+3b1f9588-930d-41bd-b28f-552399ce60d8	BIGC.20191023.07.1.e-fisher	Frequency at the start of data collection								30	hertz								
+d616e4d6-3c50-4f39-9e27-d500eab9a83b	BIGC.20191023.07.2.e-fisher	Frequency at the start of data collection								30	hertz								
+1aee594e-7fbe-4cb4-9808-c810f5e3dfd2	BIGC.20191023.07.3.e-fisher	Frequency at the start of data collection								30	hertz								
+577dae92-623a-4f1a-b40a-71b8200777a7	BIGC.20191024.08.1.e-fisher	Frequency at the start of data collection								30	hertz								
+38471bcd-b0ca-4209-a5dd-cd996cadc252	BIGC.20191024.09.1.e-fisher	Frequency at the start of data collection								30	hertz								
+68ce6bed-6779-4dad-b713-672217537078	BIGC.20190422.01.1.e-fisher	Duty cycle at the start of data collection								20	percent								
+0bd773ee-0e52-4be6-bd5f-afc7de71c8e2	BIGC.20190422.01.2.e-fisher	Duty cycle at the start of data collection								15	percent								
+07e0e45c-8472-475f-8c0f-d5cd9b0f1c8d	BIGC.20190422.01.3.e-fisher	Duty cycle at the start of data collection								20	percent								
+6d569aa5-76b7-4f53-b6b3-d6c52539a327	BIGC.20190423.04.1.e-fisher	Duty cycle at the start of data collection								20	percent								
+8b5aaff3-9b04-4d54-95e5-c5897aba2d17	BIGC.20190423.04.2.e-fisher	Duty cycle at the start of data collection								20	percent								
+0a847de6-58fb-4117-acbf-e8709712805c	BIGC.20190423.04.3.e-fisher	Duty cycle at the start of data collection								20	percent								
+2ed1a190-f507-4a07-8583-fe027d9af3ca	BIGC.20190424.05.1.e-fisher	Duty cycle at the start of data collection								20	percent								
+2a16cc6c-90dc-4bac-8035-daefb9991e6f	BIGC.20190424.07.1.e-fisher	Duty cycle at the start of data collection								20	percent								
+9bac828c-9e67-47fb-af2b-ad5702f93e69	BIGC.20190424.07.2.e-fisher	Duty cycle at the start of data collection								20	percent								
+6ffe6722-1d08-48de-8eed-4057e75a6421	BIGC.20190424.07.3.e-fisher	Duty cycle at the start of data collection								25	percent								
+28034238-3d29-4249-a243-c2bc02e50749	BIGC.20190425.08.1.e-fisher	Duty cycle at the start of data collection								25	percent								
+c0e77db7-d0cb-481c-935e-69b125fbd407	BIGC.20190425.09.1.e-fisher	Duty cycle at the start of data collection								25	percent								
+98b664d0-572f-42d5-a693-4e7b2861d1ce	BIGC.20191021.01.1.e-fisher	Duty cycle at the start of data collection								35	percent								
+de09a0c4-caa1-4d70-82e7-1e574ded772c	BIGC.20191021.01.2.e-fisher	Duty cycle at the start of data collection								35	percent								
+717036f4-2cea-4473-ba59-4995706358cb	BIGC.20191021.01.3.e-fisher	Duty cycle at the start of data collection								35	percent								
+00ad2492-7dcb-4a5c-82c2-5690e3106d36	BIGC.20191022.04.1.e-fisher	Duty cycle at the start of data collection								35	percent								
+130ce4ae-9766-4117-9406-2c991caf4cd8	BIGC.20191022.04.2.e-fisher	Duty cycle at the start of data collection								35	percent								
+6bd14450-7834-4963-84ff-7250661a6bed	BIGC.20191022.04.3.e-fisher	Duty cycle at the start of data collection								30	percent								
+41be503d-c37b-4663-9e59-2b2c482237c4	BIGC.20191023.05.1.e-fisher	Duty cycle at the start of data collection								30	percent								
+e28a8a59-eaae-45f9-a4b8-a5e1e7898f98	BIGC.20191023.07.1.e-fisher	Duty cycle at the start of data collection								30	percent								
+3c743b16-ebca-4f66-9fd7-4b44f8c56673	BIGC.20191023.07.2.e-fisher	Duty cycle at the start of data collection								30	percent								
+72cc9956-917e-43d0-b103-2df864746421	BIGC.20191023.07.3.e-fisher	Duty cycle at the start of data collection								30	percent								
+6ae03a4a-9894-46d6-acc7-0c00da490db8	BIGC.20191024.08.1.e-fisher	Duty cycle at the start of data collection								30	percent								
+c71377ba-77aa-4124-96dc-d18394858b97	BIGC.20191024.09.1.e-fisher	Duty cycle at the start of data collection								30	percent								
+eb0aa867-0c9b-4d9e-aaef-500c4351b733	BIGC.20190422.01.1.e-fisher	Voltage at the start of data collection								300	volt								
+bb246177-120e-4198-9a94-7d1cb2815fd0	BIGC.20190422.01.2.e-fisher	Voltage at the start of data collection								300	volt								
+7463f7f7-14e5-4741-af0e-29eafe6d27a9	BIGC.20190422.01.3.e-fisher	Voltage at the start of data collection								300	volt								
+5d7be51d-2250-4ffc-b13c-9e77ece75937	BIGC.20190423.04.1.e-fisher	Voltage at the start of data collection								300	volt								
+0568c88f-5347-4e34-9073-640b9716dce7	BIGC.20190423.04.2.e-fisher	Voltage at the start of data collection								300	volt								
+b5b04e68-2d5d-4817-b270-674867362af4	BIGC.20190423.04.3.e-fisher	Voltage at the start of data collection								300	volt								
+0f2205af-a62c-4be6-b1db-35e1f84fe4ae	BIGC.20190424.05.1.e-fisher	Voltage at the start of data collection								300	volt								
+3ae1a95f-5c58-4d02-917c-6503c735190d	BIGC.20190424.07.1.e-fisher	Voltage at the start of data collection								300	volt								
+0426d6e6-78b2-48da-84a7-4073daf1e167	BIGC.20190424.07.2.e-fisher	Voltage at the start of data collection								300	volt								
+eadac515-513b-4146-a09f-8e7a5cf2d654	BIGC.20190424.07.3.e-fisher	Voltage at the start of data collection								300	volt								
+e6b4f33c-fc12-409d-b9ed-37b49f149af2	BIGC.20190425.08.1.e-fisher	Voltage at the start of data collection								300	volt								
+44d02405-b0ba-421b-93e6-730b4ea99897	BIGC.20190425.09.1.e-fisher	Voltage at the start of data collection								300	volt								
+8ff4fa20-e98b-4c2b-a1af-c0ececbfa4ca	BIGC.20191021.01.1.e-fisher	Voltage at the start of data collection								150	volt								
+7806b372-55ec-4094-a368-670c14786263	BIGC.20191021.01.2.e-fisher	Voltage at the start of data collection								150	volt								
+3db62d7d-552f-4470-b7d7-45049d393ba4	BIGC.20191021.01.3.e-fisher	Voltage at the start of data collection								150	volt								
+010f5ff4-0543-4b19-9cb7-3ca63a28e8ff	BIGC.20191022.04.1.e-fisher	Voltage at the start of data collection								150	volt								
+a2022a87-4c41-40c5-b886-465c0f4754b7	BIGC.20191022.04.2.e-fisher	Voltage at the start of data collection								150	volt								
+6567d4dc-4c0b-45fb-89ef-2b2e8178df51	BIGC.20191022.04.3.e-fisher	Voltage at the start of data collection								200	volt								
+1e195fd6-aa27-4551-bfbb-89fd5dfc503b	BIGC.20191023.05.1.e-fisher	Voltage at the start of data collection								200	volt								
+ee1c04c7-c129-42df-9b04-c18b6b692298	BIGC.20191023.07.1.e-fisher	Voltage at the start of data collection								150	volt								
+ebd512fa-d98d-484c-81d8-701782134dfe	BIGC.20191023.07.2.e-fisher	Voltage at the start of data collection								150	volt								
+45d51ac2-c8dc-42f3-a15a-765b9c470902	BIGC.20191023.07.3.e-fisher	Voltage at the start of data collection								150	volt								
+4a65f37b-e947-43a9-a22d-f0bd570314a4	BIGC.20191024.08.1.e-fisher	Voltage at the start of data collection								150	volt								
+831fbbc2-fb35-4f16-8542-c8da8b793e9e	BIGC.20191024.09.1.e-fisher	Voltage at the start of data collection								150	volt								
+e06c0edb-44dd-48a3-b880-8e46f3fe425f	BIGC.20190422.01.1.e-fisher	Frequency at the end of data collection								30	hertz								
+6f1944a4-d6ec-4e58-990f-80f623043fbe	BIGC.20190422.01.2.e-fisher	Frequency at the end of data collection								30	hertz								
+bcb5424f-5c95-4b8e-b28f-fdeafa217b68	BIGC.20190422.01.3.e-fisher	Frequency at the end of data collection								30	hertz								
+b43da81d-7607-4058-8ea6-a5e0698fcc82	BIGC.20190423.04.1.e-fisher	Frequency at the end of data collection								30	hertz								
+4d35ad61-c3ce-4e80-b3b5-47d8bff597f5	BIGC.20190423.04.2.e-fisher	Frequency at the end of data collection								30	hertz								
+f1536c7b-4fca-4a67-bdf1-fe51d7d744a1	BIGC.20190423.04.3.e-fisher	Frequency at the end of data collection								30	hertz								
+445b136c-63ff-48b7-a5f5-5df8597ebfd7	BIGC.20190424.05.1.e-fisher	Frequency at the end of data collection								30	hertz								
+29c44b0f-e414-4f93-88c4-3139b70eae2c	BIGC.20190424.07.1.e-fisher	Frequency at the end of data collection								30	hertz								
+5f3ba02f-075a-46f8-b239-a7bdb6c3d0a2	BIGC.20190424.07.2.e-fisher	Frequency at the end of data collection								30	hertz								
+50929df9-77fa-4161-9a6b-a65c06024984	BIGC.20190424.07.3.e-fisher	Frequency at the end of data collection								30	hertz								
+2a53721b-5b89-42f8-9506-d49f846d3508	BIGC.20190425.08.1.e-fisher	Frequency at the end of data collection								30	hertz								
+aa28f40f-f0ab-4480-8fb3-efe7b537fc4a	BIGC.20190425.09.1.e-fisher	Frequency at the end of data collection								30	hertz								
+8c40c104-49a8-49cc-b722-e731156b765a	BIGC.20191021.01.1.e-fisher	Frequency at the end of data collection								30	hertz								
+7a6c048c-231e-441a-aa4d-17dfb5ff3f4e	BIGC.20191021.01.2.e-fisher	Frequency at the end of data collection								30	hertz								
+75bf912a-aa9c-448a-b0fd-7b2439055b7d	BIGC.20191021.01.3.e-fisher	Frequency at the end of data collection								30	hertz								
+b43a6b83-faca-430b-89cc-ce5f50aa9140	BIGC.20191022.04.1.e-fisher	Frequency at the end of data collection								30	hertz								
+7c79f364-612f-40a7-b19a-de17151283af	BIGC.20191022.04.2.e-fisher	Frequency at the end of data collection								30	hertz								
+b79afba8-63c2-44bc-a4ad-6f17092fe62f	BIGC.20191022.04.3.e-fisher	Frequency at the end of data collection								30	hertz								
+3b91edd6-fc28-462b-9d67-f9805e28b627	BIGC.20191023.05.1.e-fisher	Frequency at the end of data collection								30	hertz								
+10b8f396-794f-432d-bd9b-aeb268327cb8	BIGC.20191023.07.1.e-fisher	Frequency at the end of data collection								30	hertz								
+e1a77eb5-f5a2-45f7-a934-a4bafa278170	BIGC.20191023.07.2.e-fisher	Frequency at the end of data collection								30	hertz								
+6c65647b-80cb-4104-8b29-7d33f52909ed	BIGC.20191023.07.3.e-fisher	Frequency at the end of data collection								30	hertz								
+0b124d4d-ff2d-44e3-b9d6-5eb77e78fb0c	BIGC.20191024.08.1.e-fisher	Frequency at the end of data collection								30	hertz								
+9bceda3d-8c29-4528-b99d-be9449122ebb	BIGC.20191024.09.1.e-fisher	Frequency at the end of data collection								30	hertz								
+fb0b0144-3bb9-4e85-bbcb-4c599e78453e	BIGC.20190422.01.1.e-fisher	Duty cycle at the end of data collection								15	percent								
+c08d61e8-b0cf-4553-b35f-b8f38cd9d911	BIGC.20190422.01.2.e-fisher	Duty cycle at the end of data collection								15	percent								
+fd79c0dd-fe7b-46d2-a28d-995a2ff98ca2	BIGC.20190422.01.3.e-fisher	Duty cycle at the end of data collection								20	percent								
+b2c24703-8b32-4103-9250-b4d679117525	BIGC.20190423.04.1.e-fisher	Duty cycle at the end of data collection								20	percent								
+31447213-681d-442e-9a69-63e17c4998bc	BIGC.20190423.04.2.e-fisher	Duty cycle at the end of data collection								20	percent								
+eebc307a-1d67-4a13-ab75-6f021ec8bba6	BIGC.20190423.04.3.e-fisher	Duty cycle at the end of data collection								20	percent								
+0dca4f61-e12c-4c1e-8dd1-cd11ba314e64	BIGC.20190424.05.1.e-fisher	Duty cycle at the end of data collection								20	percent								
+af4ee4c5-f9e3-495a-bfae-ee7236ce854a	BIGC.20190424.07.1.e-fisher	Duty cycle at the end of data collection								20	percent								
+1c1473bf-8099-4255-9c48-f958688c8eca	BIGC.20190424.07.2.e-fisher	Duty cycle at the end of data collection								20	percent								
+af0f2752-22ec-41b6-bd0c-e88d48951112	BIGC.20190424.07.3.e-fisher	Duty cycle at the end of data collection								25	percent								
+d2074339-3122-463d-897d-a968b19ec4f7	BIGC.20190425.08.1.e-fisher	Duty cycle at the end of data collection								25	percent								
+bca551d9-883c-49b9-889a-2a237c61fa78	BIGC.20190425.09.1.e-fisher	Duty cycle at the end of data collection								25	percent								
+98b3cf33-2bc8-4c4d-a1dd-52d2d7338ea9	BIGC.20191021.01.1.e-fisher	Duty cycle at the end of data collection								35	percent								
+95137074-d667-4c55-9462-cef9e1e2b53b	BIGC.20191021.01.2.e-fisher	Duty cycle at the end of data collection								35	percent								
+a1af13c3-4b44-44be-8e0e-a83daefdca01	BIGC.20191021.01.3.e-fisher	Duty cycle at the end of data collection								35	percent								
+5a1baba0-f793-4b67-94ee-9960f4420869	BIGC.20191022.04.1.e-fisher	Duty cycle at the end of data collection								35	percent								
+745f55d2-fe92-4984-a61f-39ae49fe76c9	BIGC.20191022.04.2.e-fisher	Duty cycle at the end of data collection								35	percent								
+2d812106-72e6-4b71-9964-1bf7ece4818f	BIGC.20191022.04.3.e-fisher	Duty cycle at the end of data collection								30	percent								
+fa518604-a5dd-4881-8950-05f0e1fb646c	BIGC.20191023.05.1.e-fisher	Duty cycle at the end of data collection								30	percent								
+5c9aad51-b4af-48ec-9cd5-6cd23c287758	BIGC.20191023.07.1.e-fisher	Duty cycle at the end of data collection								30	percent								
+63d8dae5-22d1-4fca-99d3-f5915fb75fdd	BIGC.20191023.07.2.e-fisher	Duty cycle at the end of data collection								30	percent								
+88ee38b4-02b1-499b-a6f5-a3f25d551a4d	BIGC.20191023.07.3.e-fisher	Duty cycle at the end of data collection								30	percent								
+6bfa0900-9001-4b25-9598-558941fe85b5	BIGC.20191024.08.1.e-fisher	Duty cycle at the end of data collection								30	percent								
+5daca72d-c4de-435c-bdf0-6e0d5b54b1b6	BIGC.20191024.09.1.e-fisher	Duty cycle at the end of data collection								30	percent								
+71686479-1f6c-4354-988c-2a2365c40d05	BIGC.20190422.01.1.e-fisher	Voltage at the end of data collection								300	volt								
+3689d323-8f03-4a6e-8eb5-d99c22b4cc52	BIGC.20190422.01.2.e-fisher	Voltage at the end of data collection								300	volt								
+5d5c1b67-509f-44a8-bbe5-7b50b26273fc	BIGC.20190422.01.3.e-fisher	Voltage at the end of data collection								300	volt								
+5b4a9494-e4f0-4925-abcd-4d6814867d7e	BIGC.20190423.04.1.e-fisher	Voltage at the end of data collection								300	volt								
+67868cc7-320d-437c-9958-5556d1357ca1	BIGC.20190423.04.2.e-fisher	Voltage at the end of data collection								300	volt								
+1340cb07-a1fa-4c0d-b35b-dcf61533c0af	BIGC.20190423.04.3.e-fisher	Voltage at the end of data collection								300	volt								
+8ee786c2-51ba-4d9e-b56a-2320768572c6	BIGC.20190424.05.1.e-fisher	Voltage at the end of data collection								300	volt								
+b1924a46-4e0e-4d63-9173-f9961ad0e76e	BIGC.20190424.07.1.e-fisher	Voltage at the end of data collection								300	volt								
+53712a34-a6c6-4c32-9f17-9f832212b1d3	BIGC.20190424.07.2.e-fisher	Voltage at the end of data collection								300	volt								
+9563e542-9f91-4595-94d9-1cb3e3f80dc6	BIGC.20190424.07.3.e-fisher	Voltage at the end of data collection								300	volt								
+956a3167-21c2-45db-bfc4-6ecbdf6aea84	BIGC.20190425.08.1.e-fisher	Voltage at the end of data collection								300	volt								
+b65b0a6f-2178-44f1-938b-6e872ae7543e	BIGC.20190425.09.1.e-fisher	Voltage at the end of data collection								300	volt								
+3ad0904e-844d-414a-909a-a18b806c4dcc	BIGC.20191021.01.1.e-fisher	Voltage at the end of data collection								150	volt								
+632994fa-8c47-46a6-9914-9089117b004a	BIGC.20191021.01.2.e-fisher	Voltage at the end of data collection								150	volt								
+a0db40d2-8172-4b57-85e5-76e0a1606580	BIGC.20191021.01.3.e-fisher	Voltage at the end of data collection								150	volt								
+8f7d7af4-3adb-4323-a5d8-2043f92602df	BIGC.20191022.04.1.e-fisher	Voltage at the end of data collection								150	volt								
+0ce338a1-c144-4b8c-95b0-3770e38101ec	BIGC.20191022.04.2.e-fisher	Voltage at the end of data collection								150	volt								
+79b03233-1306-47fe-bb1f-67b9094b2a86	BIGC.20191022.04.3.e-fisher	Voltage at the end of data collection								200	volt								
+ee345c7c-9b2b-492f-abcb-e27297168ab7	BIGC.20191023.05.1.e-fisher	Voltage at the end of data collection								200	volt								
+50b4cd0c-6ef6-4a5a-91cb-e3a4ce3b64c8	BIGC.20191023.07.1.e-fisher	Voltage at the end of data collection								150	volt								
+42f1ae5f-a171-49c2-89c6-a1c6d78c4163	BIGC.20191023.07.2.e-fisher	Voltage at the end of data collection								150	volt								
+8b622fa0-3032-46c4-9859-ec9204dc2805	BIGC.20191023.07.3.e-fisher	Voltage at the end of data collection								150	volt								
+add5679c-3072-494a-b617-613ae549d971	BIGC.20191024.08.1.e-fisher	Voltage at the end of data collection								150	volt								
+cbca9399-f3eb-404d-a76d-b933873404e1	BIGC.20191024.09.1.e-fisher	Voltage at the end of data collection								150	volt								
+60724e27-8e03-4aa5-869b-54168c8b3447	BIGC.20190422.01.1.e-fisher	Operational time of the electrofisher								4026	second								
+df7bff2e-fb32-4172-8582-f0723d2c32b6	BIGC.20190422.01.2.e-fisher	Operational time of the electrofisher								2263	second								
+5ac9b166-5f25-441a-8e60-f52c184303c8	BIGC.20190422.01.3.e-fisher	Operational time of the electrofisher								2611	second								
+799b3c38-dbb5-43a1-a608-cab178153e3a	BIGC.20190423.04.1.e-fisher	Operational time of the electrofisher								4601	second								
+65bbe19d-8404-49a9-849f-37a1cb2b24e6	BIGC.20190423.04.2.e-fisher	Operational time of the electrofisher								3771	second								
+85c1ff58-64aa-4166-ab43-d1494f9b141c	BIGC.20190423.04.3.e-fisher	Operational time of the electrofisher								3416	second								
+84112dca-63ca-4311-b068-e90529f03494	BIGC.20190424.05.1.e-fisher	Operational time of the electrofisher								4218	second								
+a0e00ba0-42be-450e-a59f-3d647ab17739	BIGC.20190424.07.1.e-fisher	Operational time of the electrofisher								2266	second								
+49605224-f23c-448c-81cd-73ac82149ea4	BIGC.20190424.07.2.e-fisher	Operational time of the electrofisher								2186	second								
+ad5f901a-3ceb-4bd2-9a64-3e3f50504566	BIGC.20190424.07.3.e-fisher	Operational time of the electrofisher								1950	second								
+22108706-6623-4142-947a-b6b9db7fafd2	BIGC.20190425.08.1.e-fisher	Operational time of the electrofisher								4830	second								
+deee128c-bedb-47d0-a712-1903a31c30c7	BIGC.20190425.09.1.e-fisher	Operational time of the electrofisher								3915	second								
+e2d00594-70c8-40c3-99ee-43972bc83c88	BIGC.20191021.01.1.e-fisher	Operational time of the electrofisher								3473	second								
+5234a985-7ce4-4abf-8dd6-31212eb84b3f	BIGC.20191021.01.2.e-fisher	Operational time of the electrofisher								2430	second								
+fb20bf91-65f9-4540-8d11-72552a514220	BIGC.20191021.01.3.e-fisher	Operational time of the electrofisher								1917	second								
+10b80c29-6760-43c6-bed8-640f0f93f55b	BIGC.20191022.04.1.e-fisher	Operational time of the electrofisher								4625	second								
+8f4d4202-e97c-4c41-b8a6-7d5bd21284d9	BIGC.20191022.04.2.e-fisher	Operational time of the electrofisher								3376	second								
+c8a8ea2f-b92a-4f8d-9dc0-f62dbf1e2013	BIGC.20191022.04.3.e-fisher	Operational time of the electrofisher								4250	second								
+58338fb8-9601-41be-9a38-a50ede8dacbc	BIGC.20191023.05.1.e-fisher	Operational time of the electrofisher								4021	second								
+fe87d4ad-84f3-4650-91c0-be28498f08f6	BIGC.20191023.07.1.e-fisher	Operational time of the electrofisher								2530	second								
+82dcfb29-8b86-4c7d-b565-3fcf8f503f7f	BIGC.20191023.07.2.e-fisher	Operational time of the electrofisher								2858	second								
+7eea3295-0271-46dc-add9-de51c61a54e5	BIGC.20191023.07.3.e-fisher	Operational time of the electrofisher								2120	second								
+15f6d207-d9b9-4ac1-a1f1-c4bc0ad2b4f1	BIGC.20191024.08.1.e-fisher	Operational time of the electrofisher								4817	second								
+a861422a-a058-4f01-a1b4-b5e50028ceaf	BIGC.20191024.09.1.e-fisher	Operational time of the electrofisher								4228	second								
+a5685874-0633-4f65-8dc9-4a1d851eaf84	BIGC.20190422.01.1.e-fisher	Number of times the settings changed								3	number								
+15884169-6ea7-47eb-b389-21e845e03c42	BIGC.20190422.01.2.e-fisher	Number of times the settings changed								0	number								
+394ffb53-b0a5-4481-9181-7025c687557d	BIGC.20190422.01.3.e-fisher	Number of times the settings changed								0	number								
+61a04444-74bd-4dda-823c-31f24aa90072	BIGC.20190423.04.2.e-fisher	Number of times the settings changed								0	number								
+eca65baa-5409-4f45-b1aa-40522319f274	BIGC.20190423.04.3.e-fisher	Number of times the settings changed								0	number								
+cdd5d98b-59e8-4251-bb6d-786c7cfa883e	BIGC.20190424.05.1.e-fisher	Number of times the settings changed								0	number								
+d9eb6de6-6aac-4915-9b10-8611e02b62cd	BIGC.20190424.07.1.e-fisher	Number of times the settings changed								0	number								
+b1b79815-944b-45e4-8844-66c9f52ff8d4	BIGC.20190424.07.2.e-fisher	Number of times the settings changed								0	number								
+3d7736e1-3eb9-41a4-a67f-1397b0ddd786	BIGC.20190424.07.3.e-fisher	Number of times the settings changed								0	number								
+1b6ed912-b85f-4343-baa2-f6e9b94fc900	BIGC.20190425.08.1.e-fisher	Number of times the settings changed								0	number								
+66bc623e-2e9c-4b2d-a2a3-4669b712f5cb	BIGC.20190425.09.1.e-fisher	Number of times the settings changed								0	number								
+7971e661-72f6-4c3c-9d8f-6ad2d4db818e	BIGC.20191021.01.1.e-fisher	Number of times the settings changed								0	number								
+e93dbfae-ca2e-4983-b51f-1f6ad600fe59	BIGC.20191021.01.2.e-fisher	Number of times the settings changed								0	number								
+5b7cd836-5759-4cc1-9631-5c3960c4c313	BIGC.20191021.01.3.e-fisher	Number of times the settings changed								0	number								
+279e587b-fb8e-4345-813d-c34a16c14ae7	BIGC.20191022.04.1.e-fisher	Number of times the settings changed								0	number								
+3a450e49-0f37-47c8-8e97-1f327f93a028	BIGC.20191022.04.2.e-fisher	Number of times the settings changed								0	number								
+5d0fda50-dcd1-4bb5-938c-cd480da8e477	BIGC.20191022.04.3.e-fisher	Number of times the settings changed								0	number								
+6a65e2f5-0ef8-4a17-9e30-03096ed3a0ac	BIGC.20191023.05.1.e-fisher	Number of times the settings changed								0	number								
+6a85191a-a070-47d0-ba86-09a9ed2bbe2b	BIGC.20191023.07.1.e-fisher	Number of times the settings changed								0	number								
+c793b105-5a83-4c53-be05-ab8df56e9f4f	BIGC.20191023.07.2.e-fisher	Number of times the settings changed								0	number								
+e94a2867-3db6-41bb-93e7-a15cfc280a95	BIGC.20191024.08.1.e-fisher	Number of times the settings changed								0	number								
+6c364af8-7266-4681-8925-9729a46b2946	BIGC.20191024.09.1.e-fisher	Number of times the settings changed								0	number								
+45046eaa-3c94-4152-9360-b8a6cac2d483	BIGC.20190422.01.1.e-fisher	Indication of the integrity of the net					Not compromised												
+294799af-2271-4998-a5c5-eaf850ca7542	BIGC.20190422.01.2.e-fisher	Indication of the integrity of the net					Not compromised												
+4fd337af-271d-4045-aba1-ab997bea9bba	BIGC.20190422.01.3.e-fisher	Indication of the integrity of the net					Not compromised												
+88820a0a-0438-49c2-8880-7b0cab93c21c	BIGC.20190423.04.1.e-fisher	Indication of the integrity of the net					Not compromised												
+b6379853-4962-4476-bdca-e59ae2f1ac62	BIGC.20190423.04.2.e-fisher	Indication of the integrity of the net					Not compromised												
+555f5c9a-95ca-4e23-bf58-191755074ddb	BIGC.20190423.04.3.e-fisher	Indication of the integrity of the net					Not compromised												
+813578ac-0350-425c-90eb-801f5013e630	BIGC.20190424.05.1.e-fisher	Indication of the integrity of the net					Not compromised												
+57685fe7-38b9-44a7-8ac4-f6f4b3e3f48a	BIGC.20190424.07.1.e-fisher	Indication of the integrity of the net					Not compromised												
+e4c92ec6-f9a4-469b-8b1f-f07853dc4a56	BIGC.20190424.07.2.e-fisher	Indication of the integrity of the net					Not compromised												
+dd2a8a27-1c16-40bb-95e6-da37b92da48c	BIGC.20190424.07.3.e-fisher	Indication of the integrity of the net					Not compromised												
+75ece083-a08e-479f-bde8-34d72af808f5	BIGC.20190425.08.1.e-fisher	Indication of the integrity of the net					Not compromised												
+b91949a4-fa37-44c8-ae46-9688a4cfcadb	BIGC.20190425.09.1.e-fisher	Indication of the integrity of the net					Not compromised												
+f6b7314c-02b6-4336-9abc-7fa34aa6b920	BIGC.20191021.01.1.e-fisher	Indication of the integrity of the net					Not compromised												
+6e93895a-a494-4816-b36f-178bbcf7dacc	BIGC.20191021.01.2.e-fisher	Indication of the integrity of the net					Not compromised												
+713ddc18-cd30-41aa-9e2d-dd33a35d4657	BIGC.20191021.01.3.e-fisher	Indication of the integrity of the net					Not compromised												
+1d5decc2-7e8f-45e0-bc09-fbcef83d3da0	BIGC.20191022.04.1.e-fisher	Indication of the integrity of the net					Not compromised												
+995537af-9c96-40c9-82c1-48245e33b268	BIGC.20191022.04.2.e-fisher	Indication of the integrity of the net					Not compromised												
+84243dd7-b1d1-4dd0-950a-0841865a1b6e	BIGC.20191022.04.3.e-fisher	Indication of the integrity of the net					Not compromised												
+a8f44961-c4b3-4452-8bba-fab0beed27ef	BIGC.20191023.05.1.e-fisher	Indication of the integrity of the net					Not compromised												
+5327c2a2-38ee-4acf-97ea-8bcc51c8ac90	BIGC.20191023.07.1.e-fisher	Indication of the integrity of the net					Not compromised												
+62290f37-6efa-49fc-9c76-acc2ad410f04	BIGC.20191023.07.2.e-fisher	Indication of the integrity of the net					Not compromised												
+1d10aa66-2dc3-4ee6-a6d8-b3fbe1cfb523	BIGC.20191023.07.3.e-fisher	Indication of the integrity of the net					Not compromised												
+9b01b692-28b9-40d5-9b42-2375fddf8201	BIGC.20191024.08.1.e-fisher	Indication of the integrity of the net					Not compromised												
+cb355a86-d058-43f5-9dae-0054cdbd7abf	BIGC.20191024.09.1.e-fisher	Indication of the integrity of the net					Not compromised												
+1c1c1fd0-c6ab-4e52-91b4-1e58f1117a69	BIGC.20190422.01.1.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+79f4af6d-715a-48f1-a2a8-5ebeb4e97eb7	BIGC.20190422.01.2.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+c2fcd9fd-7987-492e-a780-77632fa5ae51	BIGC.20190422.01.3.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+4a620d5b-d277-4e83-8d7c-62a4699b0045	BIGC.20190423.04.1.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+3b38818f-2f98-4edb-b341-2d62ac13273b	BIGC.20190423.04.2.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+8fcd9122-000e-46aa-bbe4-7855d0c4f0e6	BIGC.20190423.04.3.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+bdfb95fd-24dd-4ef9-b28e-617617c454c3	BIGC.20190424.05.1.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+4cd25ac3-98d1-4307-a4be-30934b5a6949	BIGC.20190424.07.1.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+b318c0b2-c5e8-4a1b-b0d6-309e43584bd9	BIGC.20190424.07.2.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+9be4aaaa-05ce-4189-a0ca-003f3ed79e9d	BIGC.20190424.07.3.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+9f1eb841-2c7f-4970-a79c-60e66e6ad403	BIGC.20190425.08.1.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+1b19d7ab-7dd4-4000-9ab8-cb4233ff5962	BIGC.20190425.09.1.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+71d1b167-8f89-4229-81ef-58f7da756d0a	BIGC.20191021.01.1.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+64594e83-ea6b-4a0f-a345-a8664efb352c	BIGC.20191021.01.2.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+20c3664a-0be5-4ed2-914e-b4d9377577f0	BIGC.20191021.01.3.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+3c845793-c76f-4fe1-b586-721d47fd8035	BIGC.20191022.04.1.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+f9a64697-90cd-49b1-8e2b-fc80da522204	BIGC.20191022.04.2.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+6dcdfd63-bca3-4b1d-b449-f6a0dfe98e7c	BIGC.20191022.04.3.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+9e181ed2-e1d7-49ea-a10d-1078d310bc2c	BIGC.20191023.05.1.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+0d324e71-40cc-45e7-becf-d784d109578b	BIGC.20191023.07.1.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+afe6c43b-7fe3-4e7e-83a0-22178d78f7c6	BIGC.20191023.07.2.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+c86c5e5e-afa4-4cf6-8269-7bf51a8820d8	BIGC.20191023.07.3.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+4ae0026d-122b-4a6a-9479-3a5785633ce7	BIGC.20191024.08.1.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												
+1b10bf8a-50a2-4aba-abe5-f9ca548c2092	BIGC.20191024.09.1.e-fisher	Indicator of whether the sample contained individuals of the target taxa					Y												

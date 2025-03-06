@@ -1,0 +1,695 @@
+identification_id	identification_based_on_occurrence_id	identification_based_on_material_entity_id	identification_based_on_genetic_sequence_id	identification_based_on_media_id	identification_type	identification_type_iri	identification_type_vocabulary	verbatim_identification	is_accepted_identification	taxon_formula	type_status	type_designation_type	identified_by	identified_by_id	date_identified	identification_references	identification_verification_status	identification_verification_status_iri	identificationverificationstatusvocabulary	identification_remarks	taxon_id	kingdom	scientific_name	taxon_rank	taxon_remarks
+a7f8d345-5ed7-443b-9bee-ed6e9afcff58	b719a3ba-ce7f-4380-9727-a38da9230ad6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7cfbab10-bd51-448b-8560-e4e8be7047bb	c450cb21-46ef-429d-8aa8-a1cda5b70aac				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8a815063-b7e4-4169-842d-a21f85b69230	49391f40-cafc-43de-87d9-ca21a7631151				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+dba95b2a-68e8-44e9-9f73-5a6f5c122c31	4d01419b-d052-44c8-899f-68c150396af8				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+9971f887-de0e-42fb-8b70-7176da930085	a7ff2504-e8cc-471a-acba-bf971f1d4f83				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+74b32693-a84e-4869-8716-80392170f0ef	5256b27a-c751-4c55-b390-58cce3e98751				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0b9e6367-7632-4b2a-a05f-c6dbdc7a1e87	8601b4d5-0674-43eb-8042-3a47759c02bd				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c5b3af35-2fa3-4a17-9493-7aeaab53f4ba	22cda7c6-7a20-4410-9892-6aed8a7bd182				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+edc49c37-498c-49e8-b5e1-205c62dcd32b	99b9b04a-d824-4568-816f-df8665f98f39				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+6a4c3a09-9bea-41b8-9a58-e8d7974d913d	523a6343-53df-4123-bfdb-18b5b0464fa9				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+52409c66-0a59-4efb-9b49-59f8ad3badc1	6a76c175-939b-4890-abc1-5eca299c3c40				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+13173a04-9c24-4bda-b4a1-d9a4b09cd3e5	0079055e-1f65-420c-b789-edac97a42c3f				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+cd18daac-15e7-4987-b690-8daea7a4c69a	9cafe757-73b1-4285-81b9-40082b050514				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+68cef8f3-ea57-4a17-984c-1e70c7e460fb	04919cd6-c8b3-4284-81e1-35182938f8ad				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+60171396-6b29-496d-b8ab-846b352d09e6	2f67ac4e-5a55-42fe-8f45-b64e9d6f2512				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+dceddc57-4a5c-4239-81f4-cd436cead588	2e104ff3-7099-4fb6-8ea8-b73515da0605				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ca2b5fa8-2156-4987-8b37-d678c4f3beca	12799340-4617-46d7-a9a3-4683e32973b1				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+07695dcb-e11f-4285-9bd0-bc701967fe3b	7a5ef2dd-64c5-4ddc-888d-158763487cd6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4926c8b7-8874-4a03-bf48-1fe5fa71fc14	c3827862-720d-40cd-9ddf-303f02f63fd9				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d94df196-8496-4a26-b9d5-dbb4344ab17d	c4eb481b-197d-4b7f-8275-76d6aab9fdc1				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a01f9bdb-27d9-4857-b568-a46a57951d94	088d725b-4723-4503-aa50-ac647cda26e1				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c31eaee5-1361-4c9b-85fe-62c3ab04664f	1afac3c8-26dc-4b0b-b992-6c9150ffa6dc				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+f5c8a287-0d9b-4634-ab24-739263b74c96	d6aa4186-e659-4c80-91ba-4fb76878388a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8039e960-beba-4ed4-968e-146a989051a3	76f83b0e-662d-4e9b-9f1a-1f3da2ff81dd				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+4d85dc16-6928-4e37-8f7f-54ee38061fc6	5f3e4242-cbb2-4afe-b3f6-ffda66aea67b				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+b1b70494-563a-48ac-b1a7-bc6dae4c187d	0e9c3715-106e-403e-9a37-d079ee38f8cb				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+b190c32f-c16d-418c-bcbc-1d7182347655	abcf3ae8-b003-4756-ba02-b79eee69fc35				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+3fd56987-754a-4bf5-a519-b728b73ded00	47a3a918-4a47-4fc3-81d9-941294f08a1b				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+9e33d5ba-ce25-4758-9cfe-b5b42aaabf78	b4b9e38b-be56-4954-b43e-fc8850648984				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+36f9f026-35f0-4d62-87cf-e4d8104aeda8	4f64d9ac-0fd8-4379-a2b3-4c1be7940f80				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+72f05b4b-aef0-49bf-b98b-2de3fd33e3ed	764e4406-d4fc-4179-88c6-1651d240c0ef				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b6186141-8d8d-45a7-9af2-ba43ebbe2911	304e0330-aea8-4d3a-bfb1-c9d01f2a8f4a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+3e52ef23-3f95-4b2d-bf66-7324cf3fb47b	b92deca2-fd2b-4c5e-96c7-7f7823b564c5				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+dc2e23af-7ac7-4ea4-b047-c0bf863dde8a	155b52af-189b-4320-a6e8-69de2112a810				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8ef58c60-490c-437c-91de-861239cbf50a	c5a62467-494b-4571-bd8a-3402d0c2ecfa				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+c27825ba-8215-4f1a-b5fe-e38b26270fd3	120f5e9f-1d0e-4fe0-8ff0-07dbeb652cfb				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a56f807c-5fe0-4c5e-af18-5b68ea12ca1d	fdf068ab-5743-4105-8f06-24b06d11368a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+5e6cfc00-2b48-47db-9396-06ddd526b1d7	3f682483-9b82-4a3d-b198-2389579485f6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+f7c61a8d-f949-4a95-9149-0a963d426812	917f70bb-c487-4b5d-a09a-e9c1fa910949				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+8d80db15-a74b-4a9f-b12e-8ac31acde8a1	2b7c56b5-5dea-4b88-8797-ae692c7760e3				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a8880e25-ebd5-4ad0-a091-ea04a8ec878f	c802a776-d1b5-431f-bfcc-40ee6608ac08				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+129c7bb0-ba26-4a59-9aaf-5b2b51876b8c	ff4b4492-2e57-48d5-b941-33ada4863939				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+fccc2536-5989-48a3-b372-b8e46caac94c	2aa28faa-ff62-4f54-b2b2-2cc521afeff7				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c7a55a27-484e-4180-8f4c-94f1bd19054f	890e8552-a038-47f7-8454-4005521d8be7				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+a39f0217-2cd5-4959-8318-0a0f88297d86	67277e43-41bd-4187-9739-dd557ed367e0				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c1cd7e1b-e041-4f23-9487-9d5a7a1e00e4	dccfab68-853e-4503-8ef0-91a33fc8373a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+96a9c92b-e7b8-4661-8037-690afcd1dc6e	ac5945e8-2c48-41a1-a4d1-63d48737018f				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+968036f3-8aba-4d9d-b2bc-2c0a699453b4	b1d6df16-9530-4518-9e5c-83394edc5d85				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+bff9ba06-4003-4ba3-aea6-ca8b4eee0ca7	e6334baf-67d9-4ddc-813b-1d90bdc056d0				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+96a3152d-7196-4d16-ae7e-e036c89c6ba9	6eddaad7-42dd-4fec-affb-1900a5c39724				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c8b4f930-cd1f-43ea-8678-703e8c14ea8f	11f512c7-5ce9-46ae-9fa0-c21b3324c0d2				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b38e6592-d109-463e-882c-676b0a3728a0	2ba4b8a7-b48b-4a9c-844f-580de7a5d47a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6cefe0a3-f62e-45cd-a2c9-bc170c287f39	aacf4e05-143d-496c-ac3c-1f1d582fe817				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9fe95379-91b1-4702-8ae7-694a02b6e62f	c53eac90-a840-474b-b79a-3ea8d22e915c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8246e09a-80a2-466c-a566-81c4caeb6d16	212d4c5c-94c7-4ee2-a79a-3996c1a98933				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+827f1f43-8699-4050-ab4a-00d70e03db2f	81ae9e4c-84ab-44d6-a2f4-0b11b3248429				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+424e6b60-6162-44d8-b388-26c1920cc92d	f38e5199-074b-4113-88c4-fa7644e92c90				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+76c11a77-a96e-40e9-9ca2-60ce8afae334	1f55d040-caf9-420d-8efd-8473eff2a736				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c6427f25-cc3b-41b4-876b-ef392643ea13	241fa988-9749-4ec1-8485-33659c4b4b59				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+809f84a8-626f-4a43-8d7d-f29a12f6f251	a7a88f6b-0925-4f9d-839e-b8f5564ed132				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+df04a5fc-f1a5-4122-8e09-01b2d8de11a2	c2954040-4df4-4382-8fdf-31629d564b90				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6749249a-78f5-4377-a1bc-6bba08e3b3ad	08adc40a-78ea-4cab-8d6b-f7a5d53e83c0				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+1ffe467f-6dcc-40c1-876e-abc9f825a01f	c63035ec-ccca-459a-b2db-50cb0e5d5c42				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+7dd3535e-075f-4446-89d2-cf88e1919f76	bbd3739a-9a94-4249-8963-e62bd38c5c74				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+f5210650-9134-4656-8049-a6736545d5d8	501382f0-f474-427d-a8cb-b160b8edc5d4				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0fa74a9f-e283-4f94-944c-927fdab8d02b	23979ffe-ecef-4846-b9fd-e4f1db95a169				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+3c4cc56f-bed2-4d29-abbb-70f1fbb46354	893fb473-63e9-4763-ba56-64fd3f15c522				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+60009160-5c53-4a57-bc01-4f14c29332ba	ca6fe698-1c7c-4a13-bb24-17dc7afe0ed9				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4ae2b9c5-4cf8-442e-8da5-3910de57a749	72e97fc1-795b-4e09-bf53-acf9147dc76b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ac3ef9a0-5e80-4299-9913-3aeabd649d7a	d4abba4d-d16e-49ed-84fb-a8176e5ee101				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+eb136dcd-c57f-4d18-a9da-e76870566985	6a4a5c6a-a35f-4c56-ae3c-2beba2f967c7				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a763b5a1-790d-4c3c-b9ed-0a63b73bcc78	833959bd-35c7-43b4-92e0-f05b45dff769				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+464407e3-0363-46e3-bed9-15b8327747b9	799945c6-d6bf-4012-a9b8-b76e0331a4fc				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+e6c04af1-4ea2-4b70-8d24-7f49d01b8190	1512982e-edd2-4054-a5ed-b563a8e18955				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+cbaf1bd8-a3b2-4910-869a-17d3d83bdd00	85d5bac7-6d58-458e-beee-224e97923035				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+a675d8f1-18bc-42c4-8f70-9701b9ba569a	9e3ded51-e603-40fe-a545-45d46263c6d3				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e190adba-2ea9-493a-9899-ebcfd70e42a0	5075ccc0-7070-428b-a73b-3e1b405999a3				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2fa6df1b-7063-4e63-94da-e935dc1aa782	dc5e8133-a155-4b96-bfe9-b013cdda2098				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+803dc986-51e0-44b1-a004-a4b15e2caf3a	2805459b-3aa2-4e27-87d7-23abd0fd2c32				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+16ba0e92-4fa2-484c-8903-ec2501e3bf8a	1894b001-2755-4814-9c53-8544c0a16fba				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6f310c60-13c7-4213-83d8-89f8294a1de9	d3f7159e-fb64-4b8b-bab7-d8ee5346d021				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ba5c952d-4b3f-4c9a-a190-d93de08115e8	1df71af5-7893-426a-b0e6-a5a3404b7b36				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+bbbb07e7-faf9-4685-8143-f669a14815b5	a2a011cf-6456-497b-8494-9999e7827b4b				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+c292b054-668b-4bb6-9b58-d565fdc47b7b	a969d991-b6b6-494a-af2c-7f1f50850e8c				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+f095b92b-83e1-441d-8ed8-c0b321c83fbb	71b16929-3505-4a28-a084-f5351ca1c2ee				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7331bf8a-ad07-4174-acc2-bc694c615d27	e946205f-edc0-4e8d-a65f-75fde65c372c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+91563f34-8949-45fa-9ef7-81963c922b3d	4e455e8a-7eb7-4091-9cd2-6be0912f3aa4				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+6b2c87bd-2841-4c33-92d0-15eda6422d3e	9f69603d-c607-44da-8ffa-8bf7ef5ac8d7				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+0cb96ba0-69cc-4009-850d-4a50725a47db	ecb615dd-75c8-4820-8379-81d3daecfc26				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+d0a84764-2f8a-406f-9e7c-d5ef0ce6ef08	aa9673ce-f816-4f69-92aa-0a9178fd9c8c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+73b727d2-2ffb-410f-8551-86384ae125d3	8313b8f2-b15d-4ec6-a19b-ec1fb0df0c3b				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+3979e6f2-4183-4fac-909c-80dc38c5da04	92b63168-3b09-475d-8513-e0dca0a835df				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+cf03b601-0a17-4169-a6ca-88b5eb7960c0	3b7eeec5-afa2-4874-a393-de16d50f3065				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+80c54781-0d99-4651-b582-1fed1a8a48b2	010d6651-28bb-4ec9-bf5f-9aa63477ef87				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+21e66135-0d3b-48b8-a397-d6e6dd4cbf72	43059af8-c12f-40ca-9ec8-7fa3a8af5003				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+f06de715-bdfe-4d45-b4fc-1afe7df95067	a25d3b3d-c040-4432-a610-8cc6bc7fec39				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+ded1705f-722e-4c8d-abc2-d50c1e837ec1	41962ace-b591-4131-8a34-c66c37c67e1b				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+3dbe546b-0a61-4dd5-acd5-040d7a577e95	e9a57ee8-9b55-40dc-bb62-def5c283215a				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+8d9aceef-2621-4ea2-ba30-049f78260be2	c6a669ba-81ec-4eed-851e-588d6f0515af				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4afebff9-7f93-4d83-a8bb-3313ceaa1c02	7771a638-38a4-4a3d-8c9d-e9310a537ef8				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+179452dd-5189-43c9-8df1-5978c4afba30	5e5d5b31-b0f2-43e0-b439-b5fc01c32fcc				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+3f9ebd32-f22a-4e42-880f-bdc9a1176b14	4f30ea80-cd7f-4508-9771-484c2ac19b45				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+03e1470c-abbd-40de-9a5e-4714d479220a	f778ae58-a900-4061-ba92-d956c53d3d9f				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+233e9978-c84b-4c04-85fc-fa7406224f70	bd39f601-a9dc-4d45-81d0-07decf295938				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+38815251-12a5-4104-ab20-37171af468d6	882a2a29-2ff3-4dae-a57e-594317228273				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+1ecd1c90-9999-428b-9727-22fb4e71b950	eb428a8a-2b4d-4fff-a98f-da2bb6f1fdf8				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+afa9c57e-d586-4e07-b9ce-b93de3344a44	51f3376f-4766-4d0a-ad4a-f25480467f2b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+bdbfc114-db0c-4cd2-88ac-6afb7e89cfe7	388fb6b4-5c09-4b59-8ead-cc42f0aeeaf5				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+48523533-f41e-49f0-9a0d-a44131c7367f	468ac465-9f71-4133-9d77-90d875816ce3				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+a6ae198e-e4c2-4574-b98d-44ea82a1a7c5	304273ab-b150-41fb-9b31-114b0a102645				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+842a7709-e5de-4ec1-b2b8-35e088821826	7d52850c-593b-4ba3-b2a8-a23817860654				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2f056601-3f77-477a-b24b-5e652d2cecb8	c1f43ae6-5471-4da2-8838-c936062b1ec9				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+50169a3b-b54c-4400-9687-42842a65fc81	824b5ffc-1c55-4b42-8a44-96ff481335e9				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+9580395e-19a1-4d06-9452-09258e55ba84	1a1db9fe-4b27-4995-aa50-15f210580d5c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+3131b80e-cf40-4d43-872b-5b23358b7349	9066e8dd-106d-4156-aceb-f81472dadad1				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+cb784cab-069b-492f-8465-fdf4dd751c9f	e766496b-cc3b-4ef8-839b-462fed14897e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+1e2fd850-3686-4480-8bf0-f95fdaa31966	8c9a5e11-f155-4920-b5d5-77f5df304ea5				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8dd17da5-ce85-4271-9308-3fea8e50e149	1e7e8da4-62c8-4b27-9039-846d5647d863				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+20d81761-6a01-44b0-8944-9c64b93802c1	a92ddb06-65e5-4964-9f61-444f0fb886f7				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b69957d1-82f2-4209-b69a-8fb50e9387c6	36db3fa9-96d5-4fa2-bddb-ea02e36f9be6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+833860a5-c497-4066-a935-4f4c42f57ef8	634987c5-6ade-4861-8560-bc837ff7a1bf				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+360b4945-90d8-4785-958c-9edd88458851	a805f94f-1b7f-40d4-8763-a986c205fef6				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+362e3da1-9d79-49ad-a132-96353a0abfcf	b37d9c32-9544-402b-ae52-b8bdd5aad023				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+77c07afa-efe8-4825-9723-73812cdf07b4	0454aa13-93c1-41c4-9f4f-6d96420d7b25				Observation				t	A				0000-0003-3756-1381							SALSP2	Animalia	Salmonidae	family	
+c5437c90-eacf-4751-914e-9e1088174bfd	8e2eb8d2-d1ad-466a-99ef-53fc50eba49e				Observation				t	A				0000-0003-3756-1381							OTHE	Animalia	Chordata	phylum	
+3d3efc6d-de62-4441-97e7-91c22c28b974	e7bdc979-04d3-4272-8cc3-4315429b1f62				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+0985053d-e96c-4d4d-86b9-070e0140fcdb	ea086303-6b48-43ae-9de2-004e8337a5de				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+61c8b6a0-5634-44c1-8827-ba325b59b590	a69b5249-4edf-4110-bb9f-32ff2f7a65d7				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+58de9205-aeb1-454f-8043-d244ad0a7a0b	0c0d1d7e-9dd5-4758-9ca1-a2bc35fee5f7				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+bb21e73b-8f22-4760-a301-a1d84b9520bf	8dde8850-db64-4b47-aba4-2b671b04fd5b				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+9d043e50-56cd-4309-9082-d39efdb2eee5	2751c1b1-4048-4e2d-a54c-ca27fe2cf61f				Observation				t	A				0000-0003-3756-1381							OTHE	Animalia	Chordata	phylum	
+f4b36e55-6615-4f71-8330-51991d9641c5	8066f413-6eb9-4b69-a356-d92662fc4133				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+9f68b6cc-f5d5-40e6-8082-92725ff89fb9	14164697-b6fb-4720-9628-1cec474ada07				Observation				t	A				0000-0003-3756-1381							SALSP2	Animalia	Salmonidae	family	
+790492d6-6b03-42ec-a4d2-dc369c8c1cfc	32bb32e5-9112-44d4-aefc-9fdec5e4e3dc				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+7edb814d-4394-4091-8e69-5cd1d475e45a	5cffa605-fc42-441b-b275-f3f5b0eb4030				Observation				t	A				0000-0003-3756-1381							SALSP2	Animalia	Salmonidae	family	
+6b32e51c-80c9-42f4-b7ed-45379719df40	890ca39f-458f-4c50-97af-8f814cae2c07				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+065079b3-85f0-4146-be99-b09fbd22f8c9	c152696c-c25f-4a69-99ab-0fc59f945dcc				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+2b435f90-e873-4169-a28d-147d706f129c	004b1d79-1662-4c08-8617-f4843ebe73b6				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+9e569063-52d8-4b93-bbd0-cfc54a6278a8	6e2b42a5-5e4e-4ebe-9a2a-8ed2068245e5				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+421ac77f-f2ee-440a-97d1-ca0b0d5df7a6	fc7627f3-dd0d-48bd-a2a4-a30f4be49c08				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+89e45c89-39b3-448b-ac0a-4dbc4f2fc424	092a8f33-33a1-4fe2-a596-fa315568e04b				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+f3d22cd9-105f-41c5-836b-9a4a77f7535e	55b62e8b-f86e-4297-a553-3fee2e07d555				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+81591856-102c-4cce-a552-1112a22cfb93	441f7c16-4439-4d44-a61a-349acf0a0e1a				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+6f83ff1e-8cfa-49b9-a128-8eb0e825c3e1	9018f921-61c1-45c7-bb7c-5b05d964d2cb				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+c690f136-dc66-480f-a003-7949dee1ea8b	4032c3c5-f303-483b-a421-9b41cdc2b9d8				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+95dd5370-e879-44a0-a997-0d02fa88914e	efad9dc0-2d97-486b-b3b5-d2b228addf58				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+494e8884-f696-4fa1-800f-059425f13227	b198fd5b-b4ca-4c89-8d70-8e234a4e26de				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+4ec7c8d3-3b57-4b8b-8e37-21d774a5580e	40bc7053-aafb-41dc-9057-bf0bf6b078e4				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+c6b15522-5b28-4fd9-9ccd-3d25424d2f7a	a1b4fad5-e51c-4392-a12d-4c6969268199				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+6e401299-2306-4be6-8a08-8ef5a8611bca	2c8772e3-5f1c-486d-9b18-ef07ef66bd17				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+7f6c4404-bc8d-45f2-a6e5-d733145e53a6	a83198be-1566-4ddc-bf0c-37ac177c430a				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+76c15870-02a1-4a76-b1ed-d571ad2fd770	d2a086e4-acd4-474c-b670-53a75331ac1d				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+eaccd4c2-5f70-4d35-a433-609d42979453	219f16dc-57ce-4245-a64f-fdebb684875d				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+e4a95156-8451-4f20-8b8b-c9e1d1c4be03	8c2bc202-e88e-44ae-9fca-6e900d5149c5				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+5ac1727e-b91c-4aa6-9970-4915ef5a851d	5c8a11de-5270-4e2d-b02d-656d8041e2a8				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+b164a217-3a4d-4a26-a454-5d37663f1593	4d5128ed-5177-4f6a-9555-e17b67e23858				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+a5a78d91-ae6a-46bf-a6d6-5456f601a527	ee1853ce-85cc-4212-b6c5-4bffc617e949				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+0a118148-eb1d-4522-a220-4ffce9a9a872	7c59d602-412c-48ea-ba7d-5bcae4d3a4ee				Observation				t	A				0000-0003-3756-1381							SALTRU	Animalia	Salmo trutta	species	
+687145ac-9cec-47fa-802c-4adf7c82d31b	689acc73-1622-420e-8fe2-5b54dfec8fd6				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+0555eb90-3027-43e2-ae39-cf2e30b4a536	2b3e3616-77c2-4852-9dd9-d70c4c3215cf				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+dd401ff2-16d2-4ff6-a940-52e09e1265c5	273b402c-5f3b-404c-ac7a-aae02294fb2e				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+29ac196f-d83b-4380-8ca3-b02611b2fad4	67139fd2-a94c-4d6e-96c3-88c02f15bbea				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b7e31b83-9182-49fe-b38b-0f0f05bfdb0c	0fb6f1d1-13d6-497b-918c-a75bed6f1275				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+371c6570-1bea-4f7b-8872-7475f7c858c6	cbf03e97-3b2c-413c-91ea-9de8617b4ee6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+fca7a763-9f42-404b-b3b6-1b603cf3d31d	c1e21995-160f-42c7-83c3-a2d51220d2b1				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+d1409947-c914-4529-9a4b-0e4a6f9a0985	e8593a6f-f1cc-4f4c-a0c4-6ef93e46268b				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+03493a7a-b29f-4b6c-a9f6-add844e378de	e63e777b-1019-4f2f-b2f0-a8c24d7754f2				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+80c1e7b8-b521-4611-97bd-9cf439e47325	4156caa0-a913-46c7-9949-c980d078a596				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+473f8a94-67a2-4c60-88dc-d0db48b73020	d05ab42e-9d93-41a7-a30d-76715d884b61				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6dc80c92-5e13-478a-9fd9-545a7cc3d84c	01236d07-b824-490a-ab3d-44ce351e237b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8628d919-9ee9-4b6f-b65e-890822009eeb	f4246e1b-f3db-4ac9-b34f-7689f0adfa04				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+dd3416cd-3ee6-48f1-9ee7-3a32a6517089	1822c0fe-c15f-4b48-aadf-e606eadb22f2				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+93cd0d53-9f61-4343-95d9-bfa7c7ad1b41	3da6b127-1b9e-4969-9c2d-868e03c10d2b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9851b0b7-3728-48f0-bcc6-09dcf3faf1b2	d75bd81f-bba3-4100-b123-c8980425e42d				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+51b247a7-57d4-441d-bfbc-a67f12df41d4	9ce3f657-80d9-4937-a5e9-c1e3c21e48af				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+c71b4e57-47b3-44ae-ae09-efaafa01979b	690fbd17-b1d4-4e0f-ad2e-a575991eaeaf				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+ff80af63-44e1-4468-9431-1603eccb131f	c0052de7-55b4-42af-ab18-5469dbc6a25e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e881b24b-d235-42fc-aad0-79d91f2e8fc6	9f9fbebf-95e7-4e18-bb1e-6c531b39e79f				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+13d361db-8aec-48e4-ae5c-24cdf4ace00d	07a567c7-c6c5-4fcf-88a0-64c7fbc2dc8e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9da6c7bd-b267-4505-b831-2c8792c41cfc	73f546d8-865a-4d48-934c-d38b70aa2b79				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+4d446409-5be2-4df0-94a2-dd43a9aa7cce	1e6599c7-9b71-47b2-9cd0-932842cb004a				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+8f09e590-c54e-4b91-b7fc-26caacf8289a	50b4edc3-a365-4ac4-8ca4-1b166aaf896a				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+5c67ea33-c3de-490f-983e-8890f79abf36	4e2d2a96-d9e7-4155-8ce1-5ab015a5cc6d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+dba17cc3-b091-4c7d-b052-e33cfd9adeae	b83cd405-52fb-4ba7-b955-eb2c8d29298e				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+df85a8d5-49b9-43a4-afe2-e9eae4178e21	0b77a648-6cf7-4fa8-9ece-ee28a2b17ca6				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+2ae43430-a25f-4051-8ff4-2f0e9c2a2ce0	fdf426f1-40db-4253-931a-e03eaaadef54				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+36e13d3e-1dfc-42be-b182-3808429f7c10	8a4f7827-a9f2-4695-8791-ee613df8babe				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+eb23eac6-0087-43b3-bfae-86d238b89785	26ba9122-1eeb-4b69-8811-3ea3ea7e308f				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+cb240fe7-632f-4805-8fce-2fed0cf1e978	3d428b81-3262-4858-873e-325e4c9666c8				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e322bfd4-0346-4adf-bd55-accbc3676ee0	30ca1da2-780e-4a4c-afbf-41fae54c067a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0842af1c-3f09-45cc-9175-3db623cb87d5	49e38fca-40a0-466a-94aa-662a74f17918				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2cbeabf6-ea4a-4213-8bfa-244ae7854ce0	7c9a25e6-b257-4cfd-b203-14a2f7b97176				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ca010268-fce8-457c-bc5b-f76dbb351c59	26a7b673-c6cf-4b76-a798-8f4f12ba0c3b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+92ee4119-42d7-4550-ad39-82db4642487e	6acb64cf-3d41-44f3-b17c-8fb5b6e84104				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9c326e4f-f2fd-4b81-bf8c-1160ed94d56d	82325e40-20cd-47f3-b456-2df65276c567				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e670a094-5b13-49f2-9645-f66b30accea8	b971f8d6-9799-4ef1-aa4d-b747b506d093				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+41de7569-022d-4e7c-904b-51479e444cb9	c12b2525-4e25-477a-a598-9df6f2173035				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+483cdfb1-bb52-4faa-abc7-4d5f487db6dc	42536cad-c0a0-46f6-9e54-9429c823e722				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+6834164a-663f-464a-953e-fcfcf673fda4	d1a00947-272d-4a07-9a3d-dac672773eb9				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+f3f64abc-d108-4b35-b932-080a49391171	51b4416c-d1fc-42c9-a726-9867b530199d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+dd5d292b-9208-4a50-b91c-1b9293760665	13d49c55-f761-48ab-839f-b2003a9a5483				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0f217408-98a2-410a-b94b-1174177429b4	fbacd0e1-7fbe-4bd6-bcb4-24a118fcc273				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+50e150a1-c563-4aba-b6ee-ced9ac953cff	d68606f3-485a-4578-8846-8821842c8e89				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c577c209-c168-4784-9fd4-48bc38658c7d	bdbc4df9-d458-4241-bce0-cc1b1bc8b976				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+83218703-0ca3-43f2-9989-2f58a5ee3e42	8ad34c21-218e-40ef-b870-603f553e90cc				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+3bae1696-5b49-4d88-8bc0-34a0c6b5e7b3	f0c1ad4b-b3cc-47e0-bba6-b0f501f1b749				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8964184c-0635-483b-9080-dd051788e00c	bc1aaf3a-fd77-4ed2-9ceb-0f0708fd19fe				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7ac1b52d-b447-4c60-ae5d-c2f32a29fc8b	780a34cd-9c19-43c1-b717-2194aeceba14				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c6ad1537-9d9e-48e0-a139-b40a65deaca7	e13de894-3e59-4c04-854a-da902e7eb9ee				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b6a06938-8ce3-4e40-8246-190e10e3e826	2fde4dc2-2518-4d37-a015-341da5efa07a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+dacd0d6d-586a-4f74-a5d2-d115b150cfa3	3b1e62a6-0c48-4c2f-8d2a-9ec2cf96dc90				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b2971ae3-f9fb-43df-9494-4670993dc714	3e9f1c12-b3d5-4f93-9c8d-5374d82cdaee				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+cf9b62ce-edbc-46ab-bdb1-f559756d7bc0	8c1b8490-d2d3-4394-8c23-9fe6c69e390d				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+c208100b-36c5-41d4-b531-ecc1d2f292c0	2263b2a8-5b53-4d42-af9c-f9e40fd6e789				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+06baa9bf-43d7-4bc6-a15b-2630992ff521	d1751420-83b3-458c-8b7f-aa233c2aec2b				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+42e68bc0-dc3f-4325-ba17-ef126af4e3c6	8db76369-f9a6-4e87-942b-3f9fe6c37938				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+351886c0-e002-443d-ad8c-22c53ace9b67	89040bdc-7183-4af8-9d93-09f85486fee2				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a85a01de-b2ee-4cb5-aea9-4dac8574638e	eb75b3a8-5dd7-4b30-9bde-39ab31007ff6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2116e198-f3d6-4049-91a4-64bc0c4cbaa8	a2fb2b65-66c6-481d-8d07-c0ddc52de892				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b10ec6f7-eabc-4802-b5cb-059baec7952e	1cdcb62d-ba69-45c2-a541-f2270e54b60b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c0fd48cd-b689-4a45-970c-56e3666e5a33	c52b44ef-065e-498a-ab4e-71fc9417b5b3				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+9bc0980a-7df9-407e-8bb5-8e0ee4b29b19	deb2f992-9f81-40b3-a397-cbbb0652e09b				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+05e1e95a-34ab-41d6-939a-c4a9b3e507b5	c76b181d-9002-4334-90ff-55a6e8d244cc				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+bd867da3-324e-4d51-a91b-e5302bade219	97ef8d58-2e63-40e0-af5d-298e7bee6fec				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+6891d299-375f-46ce-8dfb-0f1f6ae07c78	efa4ddcb-49bb-48df-9701-59db2d0630fb				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d6a5f0b2-50a0-403a-844e-5d2053c72d5d	4e745518-d042-4054-9afd-86439328ef5a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+dfcdd570-429a-4212-906a-f561a8c6d0e8	a2b6290c-c1ac-4605-ad5e-a99101552833				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+debb5a67-5723-4e41-9a94-acae48cc23fb	7a07bae8-5130-4742-a8c7-37f011f45bd6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b1c85159-8955-477a-933c-585885721461	b9cf56df-328f-4d25-a407-05b8cacbd190				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+44ae32b6-993e-45e0-9b51-744e4cbc864d	6799b7d4-3b92-4d60-93a1-66df9519eb1e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4d76b546-0ef1-47b6-8f96-8fe96729b1ac	00d2603e-6bc7-4853-9900-6ef30da228bb				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+18a1db72-e413-443a-bc6f-7a061e685777	54072854-eb6f-4376-9e8d-8613eb414d34				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b97374d3-1c83-4417-a5e6-1ce6ad77b532	03603582-ae8f-4710-a2b3-7fe703d93834				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a1ae9004-54b6-477e-82d2-0b1644f4266c	5f6bf619-5dd0-46c4-b1c0-5486ebae7e4a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+bf4f5afc-a37d-4bb9-9dd2-71da3d137ade	25ce7629-4321-47d9-ae51-90c2a207318e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7c9fc28b-9ed4-4ab1-8350-ffea5bcd4cb6	f7790ef1-06b0-49e5-abcc-4b9654db490d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6cd339fd-dc57-4411-8edc-8a52ed6f92ea	cb74d5b1-ff6c-40d8-b97a-09765d14bc7c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9fadd505-90d2-4c0a-87a7-d02eb8f94313	93f1f93a-9e74-4d36-9c65-90f71dcf3c84				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+3a8fa87c-1968-4203-be17-68362cbc8ede	78ed5420-088e-45e4-8b91-e3c3217c8a32				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+33ef4115-3bf0-4c8c-a5dd-3d44a42da932	689496f4-ec4f-4a2c-876a-3bf0359d6736				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+3744d1df-1a7e-4ab6-8915-330f37ceb1b3	0a0f1119-efb3-4d3d-897d-138c8a429fd7				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0bbe14bc-3c05-41b9-affd-49412b55dacd	566e390e-cedd-4086-9986-6a661972a767				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+62210c8c-8380-4a0e-a6fc-845df8f2be5f	b4cd83a2-28df-4f0d-99ad-9695cbac7eac				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8e059b35-ba36-40f0-9d1e-205119690c12	89afbd39-01d7-4792-9ae9-b99d9fac38b7				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+31460b0d-e622-4cbb-81bc-a58fc9587624	a042ef94-1bf3-4613-aade-fbe0956a7b2d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b1909b93-d373-4b98-9391-1a22fe2f61fb	6c3855bc-e941-46df-8503-e200f3662bea				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+da8e2b8c-5109-494a-a0a6-3ed344ffa456	ff36ecb7-359e-4400-afdc-3c4b1937cdd7				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+25ac7a0e-f2ec-42ea-b4c6-5af294fce3fc	1cc67a7d-994b-4114-9d3d-120fafb569fb				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+36e96dec-012a-4d44-9a34-db2222fba45f	2e3d023f-2a45-40c4-8403-2479a7a4c811				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+3fd478b5-a707-4cd2-84e9-494fa40e51d3	c39da64e-a6ac-432b-84ac-bc3577c395bc				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+da7aac6e-6dde-4c09-b44c-8dfb96c185d6	e90396df-f073-4eb9-bbb4-b81583202233				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+728cf184-bdf0-4459-97de-8cd058a2ab12	7d85e1a6-58f1-45e0-8a12-17092d96f576				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+61f791ef-686e-4e87-b4fe-5c6d0281f3ee	73f70b03-8f5b-4cf3-bd70-e0abe7e7a89d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a93a9074-742e-4109-89c4-e1c11a066cc0	8b4704c0-b32b-4f53-9b8f-5ad884f3f561				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a8132c52-18e2-457e-8a1b-feeb16598f55	b45eea2d-dc09-46af-b058-606eb6632dc4				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+b85b93f7-bc51-4a93-a65d-a18ed1c7c111	1d91fca7-2ea0-4cd2-8059-8a4546604bf0				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+12ad34ba-96dc-4c07-85b0-56c335ead3ab	0b438113-51b2-455f-8692-2bc7beaae39b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0c22c0cf-2961-4941-b842-2b6114a2e48b	e775557b-b1c1-4567-950c-2d058bd89923				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+49ac31ac-cacc-48c7-82cb-64396e0b4087	424c9731-ae0b-4ce0-973d-d539faffcc25				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+469c5c28-d2ff-4c01-b2fe-afbf9384fdee	b98d7cde-22fe-42bf-8735-5936cb5a8f02				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d0fcd32d-a6c9-42e4-9473-52c5ae1de5f7	c1fb1d20-dc9a-4d7c-b372-01f2ea49b32a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+82038c2d-e561-4f35-b23c-0318be1f5401	ea29c7bd-d8d0-4af4-b853-3b354567c171				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4c475982-8c68-49be-8499-a59ab43938dd	2cbfda83-fb1c-497d-a8da-001b932616ec				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4a150e12-bf9d-4b84-bb26-4a7f85e9fde3	ff8f29cf-7016-4d9a-8564-da6f53aa4b86				Observation				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+b6747a75-6e5d-43e4-89f5-7137536dee22	1a32f1ae-528e-4b63-800e-5d8892f0400a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+42225cd4-103a-4647-9e89-9c5469b2c303	a406db3d-1039-4d14-a251-d2cce9cdcb15				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d241cbe7-c566-4aa3-988b-8b1c32a234bd	660d071f-22b8-4c2e-a5fd-6dd7326c2f77				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6cd33ef6-c4f7-441a-aed7-34641a082a00	507297ba-f58b-41a3-80cc-b5b264e35c4e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+63d2c570-4a6d-4eb9-8c5c-15d17aefbba5	f1c3cc87-b157-43d7-9e29-2e01e4b89ef5				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+cf0002ad-647c-494e-8a5f-7a015b0175e2	677e7a56-4c2b-4e13-81d9-8f6d75df8fbd				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+f2c376f6-7691-4576-a8c9-d28f975bc551	ee33e4ef-bbe0-4c06-a738-da9e2bfa94d0				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+29e77523-124a-4047-b80d-3c83a20d928f	2a725d86-a7d7-40a6-a927-905e0c604437				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4759fdf5-f146-461c-ad92-e2cd68776a83	78cce41a-29d2-4eda-a949-bebb852dc1e3				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+3bfe624d-d66a-4ef3-a81c-cb7a034fbb8f	0f3fb4f0-45a6-41d6-9d8f-b711bc9f11f3				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ade29108-ea84-454a-895a-6c2b688ee914	6c4c2ea6-3647-4134-9a45-7976fb0ee053				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+175f4ba0-b2f9-404f-be23-daa5456c431f	72f4bca7-1f44-4749-a56e-86fc9877758b				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+131eae0d-f6ce-47e8-9425-41eb95114b45	7c3bddf7-6bb8-4105-abe8-7f308c468440				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4f89fbb2-73b9-4634-bb02-6994d7fdda56	41008eaf-4a52-4ea2-bf8d-aac55b4ec26f				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6cdf185d-bb53-4831-9f88-ec67f45d1446	479d5dd4-9888-417a-8e5b-077de899e5b0				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+f7bec547-c7b2-467d-ba8d-ea207e6e2378	366e12ef-b2af-461d-bd1e-669f88d001f7				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+da0cc1fd-301b-44f9-bddf-823e87fe3aea	6f284bf9-3c4d-4b8f-901f-3bcc1113e508				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+5cc0b4c6-92fa-42c2-9f03-856d8e49adb1	63005517-8768-4147-b57d-606a3ed64bb6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+29e15525-2ba3-412e-b593-682315b78ec9	38f835d5-d7c6-464d-a610-231b5549aaf1				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+f844769d-74f1-4060-b5ad-162fb6870461	44efd5d9-26b4-47e6-ae46-e3eb56f73e70				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+db92e02b-02d1-4e0e-a46e-3b530137677f	492463db-b554-4f95-ae31-f115fcfc0d4a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+dca0e978-95fa-4847-bbce-4aedc290a7ca	6366d665-00f5-4830-a929-8df28c631f70				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+3fad12af-725f-4fb6-9430-fea9e52a31c1	cf55d4e9-37f5-47ab-9736-2f4694fc369b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c850e68d-947a-4947-a37a-d9543cba3640	806ab857-c73d-4f7c-b4c5-6b1c4226f5f6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8ec642b4-2c70-462e-81b8-7b1e7db8fe05	edc98c14-0bd9-451a-a624-fb36f4762739				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+189561f4-f691-4d3e-bd10-a8c1113595d0	f0d771a6-97d4-43ec-ad87-fe36fa6ec086				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+acfacf55-72b6-4267-b5ce-82aa0c759424	95f99a09-e8fa-415d-860c-7a6e195490db				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8688fa30-96c9-43fb-8ab0-4851ec3b6ab4	7490928f-1b4a-4957-86ce-40f2f35b073f				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4261a24c-224f-46e8-8331-a444629a68f8	78d42648-79c9-4f37-a413-e22db600c31d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e587a2d2-c301-4408-8cfb-1dafaff4a181	150822b3-171b-4b16-a17e-4bd2cf18858c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d6c96040-c91a-472b-8125-b4ca0ba368e5	e209c6d9-f6ba-49fc-855e-cb1a3795f2f6				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+f4983c5f-6b8d-416c-a291-00a184ba7b08	4a89f48f-8e44-4405-ac66-0024b228fd15				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b0c2dc8f-27bc-41cc-8825-3a04ef7ae9b1	25f8d9fe-3421-4fcc-8d3b-83eb524764c7				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ea61bef7-c3d7-4f9d-a44e-93df0f842caf	e94da231-497f-4829-a900-e939319e8521				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6f46bdd2-d39d-4280-9f50-372e335ebeba	5c0cdc13-d0b9-43aa-b6d9-571b93bf69bf				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4099cb25-e4cf-430e-b128-5398b1103846	3fc4dd89-8f84-44b0-b548-d2748c37dea8				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6206a08c-4b02-4217-8b2d-9f40d1dac438	a0c2b225-25c9-4fa0-ac65-48324ebc3354				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7d2919f8-6c69-4379-89e0-c4ec580c3b7f	1d891c3d-86bc-41ad-b8df-39c76162f6dc				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a43e04f9-9cd9-4d9e-aeb7-73b094adf006	de7e6881-973f-4a4f-90f5-7c59f377f097				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c17bdd59-9435-4525-9b57-509d7b77ec2a	edbc5f04-8edc-4950-9423-d60c73d373ef				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4df97d4b-bad4-4d9a-b439-30982dc43f5e	9d25e514-fa7c-431e-a4cf-f617adce3e07				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+36189e7e-d101-47f0-b295-c17e13d4e573	37c842f1-15d7-4405-8e9c-3463aeabc491				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d892f009-c4a4-43f8-a0e4-3ddea0b20543	2763089a-f326-4724-8ea3-c11ad82f1e0f				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4e9c98a1-840e-488f-aebb-870b94bf97a2	b2a81961-89c8-4395-b2d2-5f8ccb171b78				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d32eb07e-bc8f-4014-a20f-1cb611eebda9	7ebe0757-110c-49f3-855e-94112d5a38e0				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+818bac8d-cd60-41c5-8090-540616787c26	5d697fc6-8acc-42ab-aaab-e09d002c5348				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7904959b-8239-4c2d-b076-55f77c63451b	3d5580be-f95e-46da-8287-c133e977a4e3				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d87ce5b9-8d1d-4f2e-93c4-57ae0ecf3dd6	84962f21-68d2-4cec-b365-b290d9eed172				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+a7cbe648-ce80-4a31-a2e5-081decdde9d9	eebcb628-f587-4378-9093-65a151816c87				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+be7ab8c3-b6f6-41b4-adc1-01cf84822b65	e6063658-1c88-4738-87a1-3823a92901f0				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+030350d8-d347-458b-9485-cf14368fcccf	46c5b4a9-5029-4e2d-a59e-fe2a4cbb68d1				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+904614b7-00c3-4ee6-8e13-b9ad71707d1e	e23f210d-c957-4d98-9c01-7ecc0fd0a072				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+6a35abcf-7af3-42db-9d1d-bead394d4335	938c75a3-a0cf-42c4-bf2e-cc3e7ef93c79				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+12761059-888e-433e-b2e7-22fc75f0d467	4c257c9e-6f2c-45aa-a4fe-97e9f37ceaac				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e5a36998-498f-4f3b-8b8e-0577b3891385	fee345ec-84d5-4e7a-8021-797efa0336a2				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0ec704ac-f47f-494c-b327-4014da0d1e5b	9d4186ad-c8bf-4976-88f5-7e0cccd12a22				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+cd16aea9-85fb-4c6c-96f0-572995b8b2f1	0053f79d-f1bf-4732-a236-1d7d795a30ac				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+da3e3930-ae11-4332-8cd7-a43440fdbf66	202c87d9-9357-4890-a305-270b66ca4219				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6ea544c8-264a-42d9-b433-bde6622b9564	fb801f07-c442-4bb6-92ee-f769edc72d45				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8841af99-0248-4c5d-a7cd-f48b7dfd5f0f	92394657-9366-4fa8-bfc0-b2bfc90a4e63				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b7752b2e-d076-4856-a241-7857afcd8e9a	248ce982-1a3f-4770-86ae-9c2393af02c5				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+23d75401-67d4-49a1-8b7b-c9133486a930	11ce178c-711a-452c-a212-48f92d5daf83				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e72cb463-e02e-4a26-8032-179e0023746b	55c90f13-e750-47cd-88e6-218a39d038d8				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+fc8cf39b-2ade-41b8-bded-e2ae0bafa862	9e2b381b-e5ec-4c29-abf5-afa778d52b45				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9c20c995-8a00-40b7-9ac0-d4cfde9ee830	b0f5347b-789a-4a0c-90c1-512df5dce128				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+867e9f0f-30cf-4698-930d-215ee22b53f8	976f0635-ac22-4fb8-9c5b-e05a5f6d9fae				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+5121e891-5019-4173-b2a6-ce819fa803b9	5f295c8e-5e67-4415-85fa-a6d0a8ad388d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9bb296a3-7f42-4af0-87f0-fd876a89fa5e	37704ba1-10dc-4864-a277-1602a2db8062				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ce9f1d51-f1df-415a-9819-11e5902aca2f	9dfb1017-c260-47e8-b5f6-2a24a7e9c49a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+f0060b69-b923-4bff-935b-adb3797e2ccc	f1d3fc1c-218d-4f35-b24b-ed267cae5848				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0911ea15-cf80-471a-9ba7-7ab8c7182e5c	005ccdeb-cb22-4256-ab6c-377c4a5f3286				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+90cf4836-7fb0-406d-bbad-94e8c6dd37ee	fb8eeda7-f2ea-475b-b3ca-1955891777b2				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+47874aa1-3bd0-4cfc-b222-733e70d7c16c	65040d34-0c8b-4b30-a402-cf52190ae9fe				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+49aa1ada-8402-4409-b431-73c3527c302f	aa62b9f4-b88d-46b7-9cd6-52599256e478				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9449f6d8-f65e-4d4a-bafa-8888cf3b93d3	b63ca245-e8cb-4af7-96e2-a64eb7aeb1ec				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+af19f311-bfae-43dd-bb91-e30b5ca2256e	9fb04e5a-7a95-4197-a7a4-ce828bf36d90				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+87a23bbc-5105-4de4-b585-822b6a45da95	067b44c6-bae0-4b8f-b116-38615a2839e7				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b12c9591-7cd1-4fe6-95e8-307830781196	b0ea0447-21e7-497a-8242-963d326f6523				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+1335ba81-24fa-4cc1-be38-5ed0b4153ac9	b93082a8-9f73-48a8-9862-3b25b8b6f58e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+60d30250-d24d-4449-9dac-409ae0c215eb	1fb61b4e-562b-4401-8fe3-ddd207b6ef44				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b5cb7c2e-7b58-489a-9d8a-32c1bf10431d	9e1df244-ba30-4d17-8f99-50975b83d3d5				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+21ab9b95-66b7-402c-9046-ce9c182d08af	7848f4fa-0516-4bfe-9eb5-a208172678df				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6b5128df-b423-4da5-a20f-919f1e7fbd4d	9ec08e08-1b64-46a8-9e8a-30302a52e686				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ca179d54-0468-4436-b6af-283604d05705	85c3dde8-0a18-4186-8d53-5bf255dfa7d6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9daba84f-a359-40e2-a87f-b80ee0302230	960c0889-0264-4974-832e-025886bd01e0				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+3a664fe0-0e8d-480f-9e89-9d7fb7ecc9cb	a0f8893b-d52c-4106-8969-4f81d8e83519				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+46bf9a78-fc01-4b40-b107-2a5154e2c1a0	a213b180-8ce6-44cc-8049-a9f0673a8f43				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+1fd87e98-cd9d-4ad6-9ef4-788f04460d6a	6197b799-b878-4c57-845e-94165bc75634				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+34f1eab9-e578-489b-b66b-459b21ccc106	d5617e04-3c9f-4855-a896-88adbb099b90				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ac1c893a-54b9-4695-bf0c-f95ba91a9655	8e09bfe3-5d90-4600-a05c-e3f9615f9cbf				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+26232b7d-96fa-4028-a620-269d190fb5bd	e82dcc26-2781-4ce6-b3d7-64e1db9dd225				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+dc4fd494-381d-4341-899b-6b781f4e96ed	8bd031a8-9c8c-492b-b4c8-9c49ebb70f6a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+11656a86-38c1-4324-848b-369264436003	951b1b53-2aa9-4594-8983-94e484f64bda				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+114160a4-34e0-49c0-a37f-d484b1375d13	9a3ec8c9-da26-46d8-89ae-f0af01c39fa7				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+3319cbf0-cfbd-47d5-8477-725c1c9110f6	f361c2df-6542-4d92-ac53-485d59ad888c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ff61cb5a-d06d-4e3b-856e-037582338d88	ffff47ee-26c4-458c-ba0b-4c53778d7389				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+f6bcf85a-acdb-44a7-baa8-1c649b8ba024	28799933-d035-4344-8497-4366ef3eab6d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+08f12349-e994-4bd3-b280-4aa871911734	573c5e95-f3ca-4e7c-87b0-31c9fe84f7bd				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+68e2ce2c-eecd-4246-bcb3-9dacbe78f000	5d8d3312-8131-4baa-ac07-3fd9e5ce31c3				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+a9f36927-5474-4955-b2bb-f9743a460f63	b98bb051-1271-4520-98fb-2a7d7890a257				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7d56c6c1-434b-472a-a8f4-aea7ec95e5fd	938c4587-697f-4c45-a3c2-6920885a1163				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b2e2ad1e-5f1c-4473-a9f4-19c1b1271982	7fb80996-dd63-4a7d-9ca6-8a0417d9cff8				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+039344c0-3cad-40e6-8827-e10f9ba977e5	3373bb6a-e27b-488f-af3a-61f4e583df2a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+88ea2401-cf88-4de5-ac95-0f613145396e	5e8a5f54-fc51-42c3-a0dd-2a10d8c3e801				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+3cf6e63f-718c-4f3a-bdf9-80e9dc919b4b	c7729078-1171-4d67-98c3-2f8ed49cdc3c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+eadcd569-6019-4099-8c07-7805a1693c5f	217b6936-a9ab-4237-b81f-6d0771cd3934				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7ea4d25f-0d9d-43f3-9058-2e457a038bfc	99b7549f-f211-4689-a46d-87b4e7c12c2b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c5d4110b-23ec-41f8-a624-c523153c1947	21fa2078-2247-4a75-b454-9d2596aab2a6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e23ac557-ca0b-40ec-b8b6-741914dc0450	bf416321-5961-4f2c-8d20-cb99bf0872e9				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+3d5fe783-3200-4dc9-895c-a2f157311d04	3a1d70d3-dd6d-47ad-ab78-b7d449335630				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6f0cbdb5-9403-4b07-b80d-9081c3095339	c4f811c7-69a8-41dc-ad03-ab8e59c0facc				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+92185015-010d-43b9-8b5b-c23dff929b33	f99e822c-c2c1-46dc-856b-92281c2ab948				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+57fd6f19-bb43-43a0-86ab-d95e5f112bfb	dd213de9-8849-437a-ac73-9b9faea4d4dd				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d29838bc-1010-46fb-ad02-a4a689dd0ce6	897daa74-5708-4afe-9d6a-9df8c911d4b5				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a260e0cc-2006-4cdc-9171-04f60d982eef	e52d0a16-c3b6-4f83-a7df-39d916455be3				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+3ed7dc38-5c8d-4172-b073-87bac54552b2	485ecec8-bec3-4fa4-90d7-837ec460de3c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2c0a8e25-c029-4765-8876-6218d10c00a1	0528554b-9eb3-4e64-b08d-272285c857b5				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+14e9882d-d8c4-4f97-b3ae-bae31de9fed7	f861ae28-e1a5-473b-ba7b-88740dc62a1d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2ec236a0-1159-45bb-9c67-0cec14dbda84	d81aa5c4-798e-452b-84c7-58f89c39ab3d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d9502d93-33cf-4250-8930-d1da3461abe1	4a75ef5c-6da3-4de0-8a3e-514b401d81ab				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a021a779-d1b6-4cf8-86f1-6f7e78ae5314	8b2c4195-dfb7-4f21-96de-e56fc10d2e94				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+aeac5f9c-9b01-4ce2-bccb-3cbea4ea3d72	2c196179-b231-4207-bd2f-d228d2402073				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+fe4925e4-3d5c-4753-96b9-ef414c53421d	5fb49ce0-5ca6-4751-a7c7-0734c44487e1				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+221645da-372a-4f58-bd42-60e5cb232e10	c24d32f8-a198-4059-8315-f237f31ad1c7				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+f449888d-6f6a-43c8-ae2c-9351de58d779	9c72ada0-0e23-46a1-9f5f-1daf8d179440				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+50a52380-a766-4e93-881f-d0468c6dc7fb	18bd6024-5853-45c2-9c5d-a40679a7996e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d6abe923-4624-4511-b519-2ed2cdba3353	5b14010b-7097-483c-9f69-cc0efc0c6eb9				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+732ea98c-d644-4123-8949-956b071d351d	360725fe-7822-4cfd-bb34-1a82049496fb				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+29ccb769-0d2e-40f5-9fc0-c37263d95c2c	6ec955b3-696b-49d5-ae21-f93c4e8855c2				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+bfa558bc-8d66-4afd-88a8-19e003e0375e	3930922d-6a72-4206-819f-444dc2d36be9				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b085db9d-918f-47c5-a56b-cf523561368a	b2f88573-a992-4815-b099-c307f8f1754d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6b8ce683-3495-4f5e-b54a-1efcfaa3e828	49528ac8-4b14-401c-9d60-db92bd59edf6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+fb60f9f9-f52e-45ef-afb8-fff0b335043d	cf2e00a3-0e50-41a6-b5c1-dd0fd6507a27				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+11ff1f06-d73a-4958-bb63-15c91d8310cd	371f61d3-41f9-4e5a-af09-0c28d69e1228				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+30ae5801-c9c0-4620-b018-4856319eaae6	f79b44da-5207-4f56-a359-bb2117a18d05				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+cbd707f5-712a-48c7-b367-fc254cd93c28	5337636f-7c96-40fe-b857-9a4e5ac8c681				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+45c7f3f9-5bf7-48c2-bab1-797f076016c4	2c351db3-2408-4ee8-a1f8-b7b1489a63f8				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2af512a9-f688-4f33-bc8e-c3a1f738d5a4	d3bf8242-6817-4b6c-a660-7b82a4e1c62b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a31cc511-e7ca-415e-a73f-87789ecb33ae	7551dfbb-9e77-4576-a5ef-9030fdf1ee66				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2f63786f-0ded-4624-a9f4-6d565237e17f	c41275e8-c9ea-4656-893e-f66f2decb3ef				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+366aba61-634c-454f-995e-e5f33e015162	437a030f-50f6-47f9-832e-dbcbefe2dbe6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+1216afa4-c60e-4625-a05e-d22a3f53a259	fb3198f3-8be1-4f70-b844-10551abea209				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+42bd51e9-8845-463a-8532-8f56adf70df3	c307c0c2-301d-4b9c-b82a-5297b81d4972				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2d048597-0b01-490c-a088-a7e20efb13fb	e1189dae-6955-4ca2-8e64-5d267177c947				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+81c58911-187d-49ec-a2a1-231a6689d69c	98e43a8e-dcac-4eee-8e38-e5f2feec0a12				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b4562c32-11c0-4a0a-bb1f-8da7c68ec42a	c42c0c7d-f3e7-4955-ba74-4caaa482a95c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0bf1aa47-93ff-461c-9dc2-fdeccd75cb46	441db6de-a6d1-4da1-879a-131f7827724b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+af511c3c-3fbe-4654-98fb-3acaa4e9d5cb	3dd0a076-65d1-4f50-96e2-7d1c2d5d00d2				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6d0d7873-49c3-40f9-82b7-161bbe9361fe	eba9a2ce-b0e8-417c-8667-e712ca3a7a85				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+89cf345e-1fce-40ed-9351-3f22211854fc	09c9bf93-9010-4284-b074-0de82e5ce506				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8cf59e6d-19ee-49d4-9361-aa93810869fa	34d756ea-dc98-48e3-ad44-bd7b22f3686f				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+67eae326-1e29-46d0-9df2-a40b9b44e525	3074c935-ba05-44c8-9248-d14b949f1182				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8e43c0de-48bc-473f-bc61-ab4f5e25b020	ea98dab7-3b1d-4904-b885-443b15040487				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4e302a57-539b-471c-a140-c7988bb89ffb	ddb20551-0dcc-4937-9851-4a906ae922b8				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6d57fbda-a831-4444-a465-705fe7759aac	318add36-e205-417f-887f-c6b9743f8337				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+958ea703-79b3-406d-a785-7204e403779a	da25573a-534a-40b3-88e7-b455280cac51				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c469b970-ab7d-49e3-8fa4-4abd687eba2c	cd6411b7-ec88-42cf-93ad-9449c0e8b99c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2224cd41-20fc-4f69-b009-909a21d09a96	3a95a150-f82c-4c8f-b0a1-02916d40a1ce				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7a802753-00ac-48ef-a935-743e7537c807	135d3e96-518a-47a5-bfd7-4c017f897796				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a49323fc-c360-4837-b04a-c90fc58116e0	647ec9bb-63ae-4774-8850-e378a7e67de8				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+200001a1-6f65-4057-bb10-55adb96b299b	2d2d4f98-d6c3-47de-bbfd-7a8a42e9e054				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7ec9d094-3b81-4bd2-a1a5-3d1c362fdd23	bad7eda1-c638-4786-9e9b-8b71672c1430				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ebc56471-0b2c-4a15-9c65-14876db3c95d	5b33a6ca-37c4-4dcd-9a7c-bdb97d1b5111				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+53b06776-3090-470e-b8f4-707ab5bc3655	6dfedd09-5882-45b9-9e75-05efa5c6237d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7950e2d3-ae04-4716-aed0-cc0d6137c58b	8ff26412-f662-46b9-b318-e0f4dd999132				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+509e0451-6d1d-4686-8c51-825289966ae7	0638c380-9ce9-4e72-9471-0a3548b13bbf				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+1abb63bf-bcbf-4199-863b-861433f6636c	acea2cdb-75f4-4365-bc57-6fa9dde80fbf				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c505f751-4fbc-47b6-abb1-d770f6847bd8	c82962a8-f7a7-4a59-9d6b-7b5bae6d0d15				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+1334aa1a-9430-427b-a731-a825972b3c24	bfef8b7b-8d02-42cc-b536-60dca4e83802				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+46f7b11c-6731-4c47-90b7-020135cf9047	0daa9690-00ac-499e-bf41-f180e9d36639				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c4de38f6-ddc4-481e-ae68-c54c7ab6d09f	1ba306d3-ad0d-4c94-b3fc-f1aae910ab95				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6bff202f-3a1d-43e3-a528-3969a98edf1e	b14e0c0e-4056-4d38-96ef-4a6361c00bad				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ebceaad6-8efb-470e-8f95-9219520d1fcc	ce67eec7-3084-4bae-873b-1e73fa1fddfb				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+371c4336-3b1f-431e-907d-08e4336c8bb2	fe1f428f-9b2f-4fc5-9fd5-f8c0b0ce0ddc				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e25202fa-8727-408c-b996-ef083757f1f2	8115b67c-5600-4808-817b-2f966a70c43f				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0bdd893f-dc09-4365-a85d-a5fc1d57e761	6038c66f-dd64-4522-933e-3e1da7b75c2d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4c7c4728-19c7-455e-8e98-91d817ba93bc	d33d4fa8-9be6-4a6c-9bbf-10db6b2f6d23				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+30c11f93-f518-421a-8f06-79561e08aaff	43625d54-fc01-4a54-86ce-f6029e3dd007				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+5ecb470d-a5d6-4b7c-abb7-fc28b4f9a613	9b8aa7b3-fe5d-46d8-a525-ea5a40bc32ba				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+35b749c6-bc45-4969-adfe-170b7b06c51c	0e22b365-0d6f-49ae-bf48-0223194de1e6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+85511c62-788e-4979-ad19-330bafee49f9	c211b1b3-625e-46a4-88a0-800dfd194e83				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+5b45e52c-e206-495f-bfab-96d3fe641bb9	fe3117ad-0084-4570-8593-228bda7636d9				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2fd8a4ab-b98d-4daa-9829-9d4f3d1e5c31	bb66380c-4104-4410-909e-cbfb187365e9				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b07e6cc4-a8cd-4dc6-b516-2e2472067bcd	2863162a-b184-4d14-9e55-8a21d3599296				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b2991a9e-7a3a-4978-b4a9-fdc9c04b08da	e6d2eb28-1695-4c4f-839d-252e63c7b19c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8da724fc-90d4-4ec2-bad4-44545f704811	b04c53cb-00ad-4b25-9f9c-f49f004e0c73				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+95d10fec-b89e-40ad-b3da-39704bc26f44	867761d2-e042-4375-b6e3-a161dc8c9b29				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+cd7b5be8-3739-4f5d-8df8-be81de0b8e54	23b57c90-b2c2-47cc-83f6-eb01573d7c41				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+a02a5903-67fc-495f-bee5-17be4b06a676	d1cbe1cc-a3e5-4f15-bdcf-9b767453149e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9f535db1-e4e6-415b-9136-027132ceb5ea	6c797c04-9ec5-4e35-977c-7c1b3c138d80				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+066652b4-010c-42d7-9013-52b24dc1e7bd	3c3aab64-9481-4645-9ec0-02be99789a78				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d5184a93-53ed-41e0-b76a-1aa0c694c45a	83c0259a-76b4-4141-afa4-6b0f58142e9e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+51b4ad0a-a7f0-4ba6-a0fe-e97afc748733	a1125fcf-524a-4255-baf5-6a816fc8a8ea				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9bf86821-d715-462f-85f0-7f4887a81079	ae22f3c8-eb0e-4212-8515-726d59a0eb9d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6769658a-ec07-48dc-a8a6-1f2a910561a0	6f4ecf36-bb4b-41bf-908a-f63a420ef99e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+cb1844bc-4eea-4080-b435-8f4b2f8442c1	0c4127ce-225e-4824-aded-ed0c4ea65889				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+d155046b-8c0b-43c2-bd24-805e3f548c44	ff6368e0-afe0-4afc-a5f9-fda13b0c5105				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+603e4a9c-655e-47b6-967c-8cb7dacbf10a	4d4bcbb7-4a32-4fe0-b27f-bb24c53e224e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+643d842e-418a-432f-81d5-90a9701f91fe	b282db5a-29b0-49f2-87c9-a37724f0f3a3				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0ababecb-a278-4b87-8ac3-89b99dc31552	33a38301-f1f2-4a06-a72b-1cca7d525395				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6ab425bf-f23b-491c-9a51-6a0012a9546b	fa3ef805-77bf-48be-90fd-7d8d49b0cfc3				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4573475a-59e1-4f72-a388-200f4c6d7207	dcfda8f8-9877-4933-b186-5d1aef14b601				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+76e30227-b6f1-42bc-95f1-56895906bfd0	570a8947-e173-4b00-aef8-052d3b8d9839				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+57600a60-38a1-417d-9a87-35ea90c82e7a	0e072cd6-ca46-4192-8720-250730d118b9				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+15a91969-c637-4ce8-a037-a258df9679f2	02c14d66-70d7-4a68-919c-597714490f7f				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d7954547-8599-4531-90f4-52aa43a46b45	954cc5dc-8df7-4023-82c9-608392dff354				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9825feea-eece-47da-8284-993a8e0fe284	cba07040-a514-4b0e-b000-8f09278fd182				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+3c8fe5d6-0769-4db5-bd1c-6a0e93cdc6e5	b4e92f03-d28d-4441-93a7-e8535a15e95b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+18bfcfdb-2d2c-490b-8d63-0bc95b88990d	093f94b2-1602-4ad9-9b82-5c9782ef2bf4				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+44ed9f6d-bf28-414e-a783-aa5faca30223	b6d35281-f140-4506-9633-914c58d0470d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8a6cbc2f-d592-4b81-92fe-35aa7477cf92	4cef6ed5-81bb-418e-9f25-6b7f5f30ec00				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+53bff947-ff59-43f8-b135-c1d715cc8f05	3cf4b5d5-62db-4d92-9c94-a0edecccda05				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+07e6bfda-66b8-42d5-a072-ccf3ede12e09	3687e9be-17cc-4255-979d-b1a3c2871d95				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e2860fef-560a-4d3e-8233-dcfdecac0247	2c9a9dac-03c1-438f-9c79-f4484c04465e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9c3f2d6c-8c7e-449b-a0ce-0b83143414e0	fbc29d30-3cc6-4fea-bb88-79eb4dbc6c10				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+eaa123a8-1fb7-4bc0-9dce-01c4b9c1d040	62f76887-6388-438e-b36a-3db006eef1c2				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+af2e8455-e210-4189-a6f1-7231c09b6b73	24dd695d-db9d-4024-9c08-c9261c00e9e8				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e9ba9cfe-c697-4066-936e-ac29d6b4d481	ee2c45b1-9fe7-4bc1-a42b-d76963389670				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ec4e5c38-2050-4f2e-963c-a8b4b497ba9f	88b91546-4635-4a43-beb0-780c27585e1c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9dc4f3f2-65c7-48a4-b344-ddccb658e4cf	93195f83-667d-4357-96a4-c3879cb417d0				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+dfc37396-7487-4c05-b22b-d02d77a946a9	5b4d6fb9-451d-4e7a-bc1e-50871cf41db9				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+870e21bc-1639-4763-8bd5-a3310c642353	cf5de680-6bac-49ea-999d-a5b028a6b154				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6f1a2eae-76c9-45b9-89cf-f17d2a038f2c	cc58142f-ffb2-4694-a994-ba3b1b7436b5				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+176a8344-6108-477e-995d-d18022f7b40a	cb75d1ba-f02a-4aa3-b8b9-78ae15a7f3af				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a54a25ac-ce5f-4055-b235-1519511a745e	72b56618-199d-4b31-9d87-23a7765af40a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+1a78abe1-938f-4f5a-adac-84e7f8dd5f28	23ce3fd1-c2d6-4671-b16e-789e965ac0c0				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+1018d494-5f3c-4296-8be8-2c1bbf9a3d0f	11d3a1c2-4b73-43bd-a7e3-b7ce5bf9a493				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+f0eac866-43cd-47ff-8869-264c31b9edd8	89e80a65-532b-4591-8aef-223ce85b6336				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4e234b57-f70f-4db9-a756-812fc01b7fd3	580b593b-75bb-4bc2-a46d-c2be4b6280fb				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+04c33872-217f-4fb1-a54e-efef2936cdd6	7052b8c4-30c6-4dc7-bd9d-32d6491026ae				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c36ab2dc-1705-4467-b49a-a842a748d8a2	9fb4ad1a-4001-4a42-8800-c5d059491549				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+0c45a34b-5b56-4899-a163-9f8d84b1de0e	fec3eb4d-6cc5-46de-ae8f-0758bafe890e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0f9f05d1-83ba-45e0-a70a-2c8fe45bcddb	b578f839-3763-4743-9950-d6b6b2210ef6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b391fbe1-14f6-4a1d-8996-eecf6b1f2bd7	d2a0df38-ade5-413c-98ed-678484b2e92b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+411e28be-b4d4-40ab-9785-47767d6d1089	e1bff0fd-753e-420b-bbdd-3c1df92d1778				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c54bab18-e479-44df-8de6-e3244b0633c9	5f99647a-7a86-4b56-8b13-5b17b095906e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7bbac04b-d115-444e-84b5-cfdf43abdd43	de878544-cc85-4a9d-99e7-803f87d55af2				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+79b49d4e-3dda-4ee0-9705-793c0469b088	76543e43-c372-43f5-9b05-47b1827c225a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8772de6a-aafb-4cda-9f3e-500329a3e98b	30391866-9c10-4d18-925f-3ee1be547eff				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b7ffafa5-4840-4ff4-bab4-e00874ce8bd9	f22e729a-e7f4-41c1-93e5-808b04f923db				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2e9ebc7d-9dc6-476a-9a34-4b034eadad09	52c9bc94-775d-4e13-b6c8-81addecf6fad				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9b5cbd4b-2575-4e2c-b470-98539859b47b	a037ca2b-9b68-4a66-b256-dfa5c5b9b6cc				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7f2422a5-1a76-43a1-9184-775dae0b3781	0ef90992-885f-47d0-b87e-d474771d47f7				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ef6e3335-ead9-479a-841e-e9065ca321ad	b45a2445-3f62-4b15-a383-853589c97de0				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ab3022dd-72c0-4164-b16d-beee0a6c3b83	b8f59799-cd03-4ef7-b5a8-015eeea1650a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+724feff8-4888-4f3f-b336-a4ef0cbe1807	929cd9ad-11f1-457e-aee8-904dc71f93c1				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+596ae81c-bfac-46d5-b526-8987340d6c47	09b85f98-bc96-429b-98ed-8710ca4de430				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2629c028-912d-45e1-9a9c-ad8ee18e04a3	83579f1a-105b-492b-ab48-ddf5b74035aa				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+63df6b58-be6e-4d0c-b0f2-ca99c36bd980	4fbd89ac-e897-4961-9f2a-21a0ba53de76				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+46374968-69e0-4fd1-ae7d-7a46e5abeda1	362fbcbf-3dba-46e9-9b9d-6b94f8cdc379				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ec4a468e-08fc-4718-a1cc-132d9690c8f9	76993541-8e01-4fa1-affe-b82e6200bb26				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9b7538dd-edd4-42a3-b6a1-08bd6b81153d	c5451c4b-1e95-497b-9363-f19a22bd0594				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+fa519624-7fd9-4633-804b-842decc76cb2	88afc63b-1926-4226-9434-6998eed35f5a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a4dff604-dfde-447b-93cf-bfe512196822	454882a8-c920-4539-b206-daf1600d0984				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+cefcb194-f4f7-4396-b4d4-a6fc60f1786a	ef3f20b7-d29e-4ff8-af30-354b762463e2				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d9378fd2-264c-4488-b0ed-24579191ff71	615e5307-2cd5-494b-9586-c0d510e771f5				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+02d25eba-4647-42eb-8eec-f1267ea1130f	d708fdbe-efe5-4675-afa0-f07f5abb9efd				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+235d27b5-d917-4661-ba0c-85f3d4fdae8c	0d16b24a-8d29-4bc7-a871-6c0228590552				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+f9166b90-5f1a-4c98-af74-f4f0c93a3da6	f2c803e8-82b2-4f28-a08b-0b8f5c7a8180				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4fd90b3a-e6bd-49e1-aa27-420e94610c77	a8593ecc-27ea-4056-b29d-cf9486a7d4e0				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+a40012aa-6f85-419b-8579-4bf91f6873aa	0b7e19f1-d50e-4eda-8776-3688d799dece				Observation				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+72369bd2-e030-4bf7-92e1-058d8399a2e6	7c8903c1-121d-4007-b4bc-9e4533b2407b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+1949d228-50ae-47e5-bcd5-5497df9b0782	e9c94699-dee4-4a54-b5d3-3827e77a23b6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0ba54802-27bb-4e5c-b425-5c6b8c145319	1be0df21-6bf0-4552-928f-1f3a282fb154				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c59ea248-a978-4ba9-993f-6de3f9202df1	8ff8bcf0-c9d1-4e30-8ac9-f4e7a2330390				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d83717bd-c69e-4b8d-add1-d0fa57466735	25110431-fd12-44e4-ac5e-a6e8f0207553				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+96b91dbe-214d-42fa-a248-fa9b3322a91a	7d571efc-4961-44cc-a0a3-bb6aa6072dda				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c6f915db-2bbe-468b-932a-340ab17b2485	49caa9ac-5939-47a8-8de2-e4865e1827c5				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+00b8c077-f2c8-4ae6-bbf7-20e6b5e0c6d8	d9c0d601-a172-4036-a423-0609b02e6bf6				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e6947b7c-2418-443e-a0e8-5da2eb12e926	255130fd-bd71-4976-bd51-2e1baf0f78dc				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4a3371ad-be2c-4911-8651-2352b25f48ed	ff95ce2e-8e93-4846-92b2-f60a8026f5e8				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+11f0ff62-5964-4cd9-b59f-faf2ab522039	29f1d134-ca16-4813-af0f-69f5d9a279e9				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+cfb58339-4273-433f-acb2-58628e6938e1	64f5dd47-2d85-481d-83d5-6d51630a5767				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+24aae492-a897-474f-83cf-f6f87b384918	2b77ce2e-967e-4940-ac59-6ac1e7387f27				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e504e88f-98ec-4395-8ed7-3379207041ab	9a207139-8f8b-4054-a717-f44ecc33819e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e849f6d3-0afe-49c7-ac85-03022f43f4c0	97eee739-c429-46be-a16a-7d49e3f5fb04				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b7189fc8-dd71-4ef9-90e1-bf2bdb646451	581730cd-83b8-416a-9636-74980b3f7a0a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+234b590f-3ee0-4bc3-b9dd-fb91be838f45	5b5c2b84-e78f-44b7-b440-46cf5be7b509				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6ce89b74-f670-4e18-bf84-bca47cf375b2	7e4d7ac9-f73d-416b-b778-81146540d33a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+275cabc4-65ca-4fd3-a9fb-bb0256315dc5	0121eb6e-ec34-4dd0-83e7-c6fc3c4149cc				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+705562ca-bf56-4aee-8fe9-3449314f268c	aa3ce54e-ec91-4ccc-aaf5-f4218c6ad597				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+5b15e9ba-89a4-4549-842f-cc46c7b3b938	d01e19c4-486a-4010-807e-4d3432acc88a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e4fed5d4-e03c-4023-b425-4e9aae9f8bee	0ed1cf14-9eb9-4f12-b568-f94b46b72e9b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+cd36f695-86e6-4e2b-86dc-4479fea57b5d	7e5412dc-e258-4267-bcc6-ceabf48ab8dc				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+5845611e-a847-49c8-a4e2-2f1b926d4f20	ff67f989-2dcf-4c10-b74c-a526f5ab239a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7b850088-3b0f-4d75-8d09-721e75a19ac0	7df452ed-18ef-4e45-a76c-1f68ff8f9fa9				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e3878230-daf0-4680-850c-ec64916cc073	f940e981-e1bf-4904-bd1a-ee0a53ff468c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ac01f673-e343-4ac0-a012-59c7b89f2263	04da25b3-6089-49c3-8704-a7662569024c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+00de8b43-e7c9-4238-99e7-05b62058b38d	944d4482-0293-4a4b-97ad-0430fe57496a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+1b59eb79-b08e-431b-aa08-af9e51e60d2c	deacbb21-9cf7-44d6-92c9-85d7e8915b69				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+fce7ab97-4938-4bfc-99c3-8ad34409688d	946dd145-9e0b-4466-aa3f-1441806a2323				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6b7096a2-4ca2-4a3e-9b34-658526a604f7	261dccc0-9451-4389-aa96-205b238fb5e8				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c17482ad-405d-4a34-b0f6-1153376faffa	21b7c289-0a72-4354-af7b-07b9554e7936				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+5ef51d9c-18ac-44ca-8a3a-2729ccc8c47e	f34e735b-9500-4051-bc64-e828865c631d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+266a77ba-11f9-49c8-8181-5abe35065004	dff0e86c-4c63-4e97-b63a-5de5e6307473				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a8c85e82-0dd3-4287-bfa2-c4be226885b7	f3343584-a844-492f-a8b5-1f4a1a11dcbe				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+f9b31f18-28dc-4cc4-8b9f-6f1c55ca6884	5f519f7d-b5a8-428d-90f8-91662bba93d8				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+10e8e34b-436d-405e-92ab-aa962afe49a7	a6b366a9-f2d6-438d-b946-2abe0a057e86				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+853769e1-4e6d-466d-8bc5-43e708d57556	dec42e30-8df4-4de0-9d81-7584f2961436				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+cc6eaa62-e67f-4251-bd1c-e23b9dcb5792	f5eb5061-3dd0-4772-b4bc-9f721c14dece				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+5f110d5e-7701-44b5-9552-c6b320cd3733	6a13cf78-b0f1-4901-822b-31aa19aa6c01				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+57c755a2-a22c-481f-8f52-a7dd18a8053a	6efcb4b4-f8b3-4bae-80ea-4fe1000378cc				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2841de3d-3013-4770-8f02-7ae740d3c486	9b7318bd-fafd-44d0-993f-ed1c596d9189				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+33a4f1fa-6d67-4fcf-8444-337f28bc3709	58e26345-ba3a-405d-9d69-8b90d9c4ddde				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b8456d86-3f76-49f5-8332-b07ca0d9c69a	52c19870-8ee0-4992-a5a0-11496e926ed9				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c7991089-e5da-4150-a2b4-06c3833873e2	d8de0e70-5d69-4b10-9c2c-677ccdc6159d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0a29a0ce-2deb-42e6-be2b-d0c16407abd9	c41980e3-717e-41ac-8236-51b17e6acc2b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+80e8f230-eccd-4b6b-bd61-59ff769516e4	02d94c46-1b9d-4cc1-9879-7c52ba2ceab9				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+5d9381ef-ebb1-468f-bcdf-35995545ae2b	4ea6fd25-e4f0-48ac-a509-91b4f704228b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+499e9974-4e59-460d-a0b2-f0fa86fb5336	da85580e-303e-4df6-95c3-03e3375bb741				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+106acafc-4d93-4e71-9591-b8ab6a7fd5fb	2c5c4b14-826d-4d77-8aa9-0db7d8d5dfee				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d1375b40-1342-4fc6-b04d-5cb6f0ec4a14	98c340b8-60fb-41b1-b24a-f32d1c6efd62				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7e88f668-e61e-4bc1-85f7-d3e2b056978b	d1ae5df0-84f9-4726-87af-a6b40b6e716b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+21cd01a5-67e4-4e66-8719-106c0c54f4dc	63c1d83a-e580-4ed8-9255-01b712d014e1				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+13d5490f-cd13-4402-befe-ce407c82ec47	e956fd0b-290e-451a-90ca-024c0977b3fb				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c1314c7a-f48d-4136-9418-1c003c18faef	c6033984-8620-473a-8cd4-4f37e30b911f				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2f4cb33b-1486-4e64-a8e0-c8270647ec9e	f4a8b69d-de69-4cd3-add4-5499f73e9acd				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d0b2d53c-a983-4fbf-80e0-87e52e94c2e2	3812de84-7598-4fe7-9f98-fdb4d22e48cd				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6519e801-b7b3-441c-b3c3-4398114b1eed	391e9660-f7ef-4cab-8d11-ed3210094fe5				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+fae9146f-4f05-4c65-a96e-7dd352fab6ed	21334c03-3954-4314-ac7d-757f63563bf3				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+87d93444-d7e5-44d2-b9f1-521e52c8c0c2	57755cc5-18c0-4ff6-954d-4eceda0f7eb0				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+00e00b4d-a506-452a-ba58-03bed9f66dc6	ba700181-217a-4c50-bdef-b355afbd9e06				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+596690b0-bc2d-4799-9ebe-3292335b5c00	99756090-dde2-4b24-a2df-e781fbfaf1a7				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+95725bee-c0cc-431e-bf66-a71c1c8c1f3e	e697f120-e0bc-4888-b3a7-1198d7c296aa				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+9443cd6a-0f81-4e53-be09-fac57917bb08	3bc99e1e-aa0f-4b8b-8457-116ae036c0df				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0e050ae7-4129-4393-88e5-19037a137477	6a4512f9-a1ce-4121-a7b9-d44072cfd4f9				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6cfd65dd-14f7-4deb-ae85-95cd2ff1f0d4	e5a82536-4c46-4867-93d8-a64e6f414d50				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8fa76337-c9d6-4544-9f4d-87238be42600	80237340-d016-4b28-af06-b83e8f55aa90				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+f6da4d74-9409-46bb-ba48-22b1da638196	3d14198c-84d5-4350-be76-6597d265ff76				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+93d4bf68-96c9-48dd-967e-423bc530cd07	26779338-3e06-4d13-8eca-f5e3e3cc1977				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c93d40bb-02bb-40ce-b728-44e32f96c008	2298f2ee-dd53-4691-b354-bc7b3821ea03				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+f4a06441-9703-4bd4-b4c0-ea9bd4c80803	6488553c-feaf-45ef-9a98-e66cecf7b8c8				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+f4297f35-4848-4a7a-b2c1-7917ae8c243a	f371dcf9-7466-4af2-81ef-20ce48b71db5				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6690d6cd-cc9b-43da-a4fe-7d8670cafb62	82821cd0-12b9-4929-a794-740d066d4354				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0a1c6e53-94c9-4dd4-9a69-7b1800eb9802	0c5f5b7e-86a4-4e00-9478-20f5e5086934				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c9c25226-3d2c-407d-94e6-0588441fff10	6c955071-d699-4c08-bc7d-b991dfcff6e4				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e2884eef-9561-4b4b-852f-799c0772bc63	150ea9eb-cd97-4ce2-afd1-83dfaede8205				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c0882c5d-9aba-434a-87fc-4600b058ab89	f011a500-3627-459f-8b55-ab6fa631b5a0				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+89cf1ddf-37ce-482e-af2e-582210aeafcb	e7737f08-436c-4a23-8411-808cec8669c5				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+affb7a91-feb0-4dc6-8ff3-18a3370125c6	482effa1-95c6-40a7-b564-bf19323c0682				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6500001e-4d80-4d54-a9cf-405e72b2ebb6	522022f7-8b66-4370-af2a-646c7c024904				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+5178d665-4c4b-4e59-9694-028933aac59f	aab47287-8698-4b57-8c8d-81265026f25e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+25ea950a-d98c-40e5-8a2e-3a4ce4070f3d	d2fbba6c-191c-4cdc-a306-a638f553510f				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+419a440c-e540-412b-ba9b-bea1d1278797	7a450e4c-5788-4916-97fa-f2687fae2300				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+ecfa95af-93ca-40ea-b2db-8e4906ae492e	68b0cf8a-12c3-4a7e-9d33-ae342e27d048				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c6dd2f3c-0909-45a1-8aa5-0bf972f615df	77f125a8-d5a9-4be3-9458-5b5f398414fc				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4e2376cc-8e5a-4460-a13b-1282e0443840	e25f36cd-64e9-4163-8038-1785375a2713				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b46c5b8b-77de-4ec7-a1a6-e204958133a1	ba147e97-fad8-473f-9699-f4ccdfb6b517				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+0447ada9-2137-48c0-8d6d-908046c3db6f	ea532f88-faab-4a30-a997-64e649aaab04				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+340cc5a2-9e14-4c27-bcad-335501133c8e	d49aa2e3-ad56-444c-b5eb-792ec5580561				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+40d4bfa4-dea4-4878-83e8-0cfcca898420	7423da8a-c4b3-4b9a-ba49-0417f8f4e9ed				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+83953207-5f87-4920-a1ea-6535b0608cf3	789288d5-4f67-4bf8-b011-5b3dd40606f7				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+815472e8-64b3-4fc0-abeb-25c0371afafa	9c2c8ee1-3d38-4ada-afb1-cac8d7e9251f				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+3bc8703d-b96e-4903-9207-47d5d6448356	2788b417-cfef-47d5-bc2c-4b1729faff01				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4225160c-df18-4eb8-86e2-84ed6934f1af	cc07ae42-8db9-45dc-8c8f-323a7b2aa9d1				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+cf7c2e7a-507b-405d-8b20-0e2ef850c6a7	e00e0e22-5a25-4bb8-befe-95525d64b22d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+756d7706-4776-448a-85b0-7a9851fa2abd	af9548ed-d33a-45a2-b85a-ed6d621ecf6b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6f85671f-fad0-4133-836b-ae9e015c337b	6dc00a7c-2563-4f1b-b91d-317713413b3e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a6aa3b99-0653-44f0-bc82-e7b94b1a8fce	f04d2b24-32c2-492b-83c0-1539bb4161fc				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+cbe209d2-28c3-4ec1-9b7d-3cda92c45959	03253363-2a62-444b-9e1a-7c6b9b41d4a2				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7e84f15e-793a-4f04-9f9c-c4da2109f355	a9a1685a-1602-41e0-b15f-31deb1fc5a0c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4a5a26d0-a963-4567-aaef-b2a30973b436	0884a357-1344-4cd7-979d-05592e664603				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+65804419-bf32-4910-9791-2e7ca8ab5ed7	d31401a5-2766-4592-a04d-e26b8417d3e5				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c675eee3-977d-483e-81a8-f8845ea3db82	c6915326-f0a8-4baa-892e-2aa5b71e4800				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+1b93f6e9-fa3e-4526-b4c0-f263923c6aca	e924a1a2-f6ef-466e-884e-490ba4eb1d6f				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2cce03c7-85fa-4c33-81c2-a6d6d1d18afe	cb462854-53d1-4b19-82ed-88cdc7697abc				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+1fb181dc-7f62-4075-b924-07b2c4a03227	4d42508d-dbce-4b7f-b5d1-b3c1c372eeb5				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2dc38f60-6b1b-4353-b5a7-666026100348	925655ea-4467-4ac8-8d35-506de790b540				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+5a964070-8386-48ab-9943-5005def8e16c	5f2508a6-6fa6-4122-a772-71726cdddc0c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+320846a7-2859-4af8-a785-6f9716face53	0eebce6e-f208-4fc0-adce-057c398f2178				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7551adab-f6dd-42ef-911a-a9de984472c7	71410c6e-55c0-46fe-9d1e-3e486d2bcb8c				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b545fab2-b878-4478-bd85-8d273b42bf93	a734a5d7-1d05-46ef-bd17-0c140d81b780				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c32d3764-9872-4e7f-952f-855c23a01383	30c60d99-ffda-4225-a86e-83e03acf0797				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+4dab0232-d224-43cd-9656-f6811f9f46a1	9ef88d95-dfde-46a6-9f82-4c881f229a03				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+db1c4314-f397-44b5-8286-109223ce25a7	1eaf164c-e77d-49fa-800d-781a2e2c082b				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8c3daeb0-7ab9-4124-b5c5-94920b500b20	2a32fa55-726f-439a-971e-2f1fa851b622				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+46b9e242-031e-4dca-bdda-630d0cfcfe64	8fb78cd7-a586-4fa6-8f85-ccfdcf66cee1				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+64f81a85-d636-4c78-8bee-abd888fd1868	4cba7601-19e7-4cd9-ba3d-0796c4737343				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a6010db3-c066-448f-b6e6-917f66fab87c	78757047-e3c8-42de-a03c-41a2543a5535				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b398b95b-b090-4ba8-a5e2-552cc64c0535	63470ae6-9179-485a-af0f-674eec47b46d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+76358a82-1b0c-46ad-9815-7ab6d16159f4	3a97c360-2747-41be-a096-6d85a77d4d75				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+1530f4c2-80c8-4890-8720-5b8416ab58ac	c25dc427-b245-4864-ab8f-0843119720bd				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+318aa09b-c707-41c8-81d0-643b6c9d4f1f	f9d52133-96a2-462b-b644-07649a17fd39				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+51968012-7509-4f25-b076-5c2104a12a25	ee4f05bd-cb33-4173-bba1-2e6f59856888				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+d8f0cb5b-f3cf-44c7-a9e7-2a5204df4366	c93cbd0b-0a55-44dd-bb01-13eba115084d				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6a85a5b7-a122-4321-9235-107eb6ce4999	87673ad5-4c3d-4f2d-b3a3-304c82989092				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+2fc015e0-dc8e-4ede-874d-e46cd617ca64	ecf08f4e-97fc-4dac-ac76-c279cd1fb812				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+1b984d40-60c1-4783-ba07-ee830d777961	71312230-697d-476a-b17c-87f8a9dfd7ef				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+964bb27c-dc67-4cd9-9bf6-9d881469e1c7	d14effaf-2b03-4306-81e2-d4d94a3cff41				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+5354e89a-4a01-4aac-bde0-ae1eb30b1a87	67dba8da-0491-4b83-9ba3-b5091816f466				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+44703e1f-a55c-4d96-af90-2af2a153ea3b	2ac4622f-01f2-427c-bc56-f4946f2d94c8				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+3b872e60-e00c-4777-a91d-a21e7d06d1ab	3107cb04-e520-4fc3-a7f1-c1b21396f305				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+60c1a1e3-f5d4-4669-bb4d-336945cec4d6	7b08eb68-8cf9-4797-b463-17ac8abd3cc4				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8f700597-23fc-44af-b013-d3032bffff33	abee4533-87c4-426d-9d0e-99256d071529				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c8cfada6-6316-445b-8cdd-550ea6cad4e8	ca542d33-5572-458f-bb11-884198a4b5d0				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+bfd1730f-eb64-439e-bf90-f081cc4a64b1	964b21de-67c2-45f4-80a5-3fe5cd4f7b89				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+236e5d48-2ed5-4627-9752-6c7f6e59a606	6c9d6094-bbc7-461e-b456-3fc12a8c8b78				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+65eaf165-efab-492d-ba3a-4ff2b67f7301	959d74b2-c7c7-40de-a59d-879ca31e5537				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+a9ca3903-4aa0-4b8e-ba2e-f887a4b68e12	3d3c2f78-5d89-4e54-a310-b5d579bd934a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+5317c28e-5b6f-4c99-8c10-7f5d7541ce7d	5a2f3d76-5f7c-4580-9cc1-50df8d42589a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+38b40f6e-7ca0-4c9a-9689-ebe5e169770d	3e13d9d2-0fae-45cc-8841-350a7862a247				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+1ffa9ce2-71dc-49ef-8d00-232866a4955e	98c3cf5e-f9b7-4794-ac20-873ec106607e				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+e3d978cd-3bae-4ab9-8a40-ae5e8ab8cd13	91ba6d0b-55a5-4286-87b4-86c56116d229				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+45fde6f9-7b6f-4faf-93e6-95b5194ca53f	d434810a-85a0-4416-a7c5-0f0b0fee8807				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+36b039bd-95d9-4479-a2cd-c1f87a3476ef	b6013dac-e499-4137-b1fd-abaa0a8913f0				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+593345e9-126e-4caf-8204-198ef2d16804	1e532329-2072-4e93-b5c4-efbe28273ebf				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+09a949b8-7a77-47ae-88c7-999a0b45ef4c	0db30263-34b7-432a-8743-14ca20bc5e20				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+b6b7db86-3860-491a-8af9-bdcffb4cf095	8193ff7e-a7e3-4395-a8b4-df5bc1c69cc4				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+f60aae49-51c6-4e9d-a9a0-bd51b5545e98		FSH.BIGC.01.20190422.1.0027			Material				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6c76bbbb-0117-48f4-aa2f-4280657495be		FSH.BIGC.01.20190422.3.0010			Material				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+de9ff377-9ad0-48c3-8624-be90eae6a0e7		FSH.BIGC.04.20190423.1.0016			Material				t	A				0000-0001-7072-0706							OTHE	Animalia	Chordata	phylum	
+f9879981-8abc-44bc-9bf0-795ba498c138		FSH.BIGC.07.20190424.3.0007			Material				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+18777c08-e1c5-4ee7-9b59-db8dce886c98		FSH.BIGC.08.20190425.1.0040			Material				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+262e937a-d37e-46bf-bb3f-16d3eee4311e		FSH.BIGC.04.20191022.1.0055			Material				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+10ea86ed-603d-4e8d-862e-d7d031328bf8		FSH.BIGC.04.20191022.1.0015			Material				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+349b1260-80e4-4295-9307-136e8310ba07		FSH.BIGC.04.20191022.1.0034			Material				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+5b5d2afd-0aef-4419-89ad-a032e55ba3e3		FSH.BIGC.04.20191022.1.0054			Material				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+e5f42bbd-4b39-4221-b485-4336de673404		FSH.BIGC.04.20191022.1.0046			Material				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+8881fb0a-e558-4029-a9c2-a0457910d8e3		FSH.BIGC.04.20191022.1.0016			Material				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+de2ae7a5-2f24-444f-9ac2-f0104ae1ab2e		FSH.BIGC.04.20191022.1.0014			Material				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+2fa2d194-bf17-427b-aa8d-23b11b819f4e		FSH.BIGC.04.20191022.1.0026			Material				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+7043c2ac-2fb8-4c9d-82ed-c2d41cebab5e		FSH.BIGC.04.20191022.2.0026			Material				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+c547361a-5633-432e-aa34-dc950fc986fb		FSH.BIGC.04.20191022.2.0005			Material				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+48c7d0cb-89a6-4152-91f2-dc1a987e4152		FSH.BIGC.05.20191023.1.0041			Material				t	A				0000-0001-7072-0706							SALSP2	Animalia	Salmonidae	family	
+c5c29ca9-2cf7-4df3-9b54-fe37bb9f674d		FSH.BIGC.09.20191024.1.0051			Material				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+6cec4599-4519-4a84-b709-991e6026b433		FSH.BIGC.09.20191024.1.0042			Material				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+37edb52c-0106-492f-8896-6de569f0d2a7	211534c2-6c7f-41ce-a470-6da2fc4e1896				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+156dff84-8de3-4193-80cc-190fe8bd8562	9e16ce56-2a7b-4206-b10b-15ac92f6121a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+673f7f9d-1d11-4518-ae97-c2830647bb8d	e1e448b4-3777-4468-bc5f-777a0ffc17ce				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
+92d5c12b-157f-4b09-805a-7953e9305cfe	21081124-68c6-4310-9769-44229aaf8d9a				Observation				t	A				0000-0001-7072-0706							SALTRU	Animalia	Salmo trutta	species	
