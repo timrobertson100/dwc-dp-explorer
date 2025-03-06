@@ -4,13 +4,24 @@ This experimental utility provides the ability to explore a DwC-DP. It uses clic
 
 Currently this is known to run on Mac and using the example data provided.
 
-### Install clickhouse 
+## Install and verify clickhouse works
 
+Download Clickhouse
 ```
 curl https://clickhouse.com/ | sh
 ```
 
-### Build the JS project 
+Clickhouse will be started locally, with configuration to enable an HTTP service.
+```
+./clickhouse server -C config.xml
+``` 
+
+You can visit the UI on http://localhost:8123/play and issue this:
+```
+SELECT * FROM file('event.tsv');
+```
+
+## Build the JS project 
 
 This requires....
 
@@ -18,16 +29,3 @@ This requires....
 npm morten voodoo
 ```
 
-### Start clickhouse
-
-Clickhouse will be started locally, with configuration to enable an HTTP service.
-
-```
-./clickhouse server -C config.xml
-``` 
-
-You can visit the UI on http://localhost:8123/play and issue this:
-
-```
-select * from file('event.tsv')
-```
