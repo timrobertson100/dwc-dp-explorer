@@ -23,8 +23,9 @@ SELECT * FROM file('event.tsv');
 
 ## Build the JS project 
 This requires nvm (node version manager) and node 22.
-In the ui folder. Get the correct version of node
+Get the correct version of node
 ``` 
+cd ui
 nvm use
 ```
 
