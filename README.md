@@ -25,3 +25,9 @@ Clickhouse will be started locally, with configuration to enable an HTTP service
 ```
 ./clickhouse server -C config.xml
 ``` 
+
+You can visit the UI on http://localhost:8123/play and issue this:
+
+```
+select * from file('event.tsv')
+```
